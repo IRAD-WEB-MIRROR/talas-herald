@@ -1,0 +1,51 @@
+{
+  "slug": "2026-10-28-kazakh-chinese-driverless-truck-trials-leave-irad-s-hauliers-outside-t",
+  "kind": "story",
+  "headline": "Kazakh-Chinese driverless truck trials leave Irad's hauliers outside the planning",
+  "dek": "No announced route crosses the ISEZ, and Iradi plates are not recognised in Kazakhstan, so freight at Chu Gate and Talas North Terminal still runs on Kyrgyz paper and human drivers.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "Kazakhstan",
+    "China",
+    "trucking",
+    "Chu Gate",
+    "Talas North Terminal",
+    "Trans-Chuy"
+  ],
+  "paragraphs": [
+    "Kazakhstan and China have said they plan to test driverless freight trucks on cross-border routes between the two countries, with the stated aim of eventually carrying goods that way. Irad is not a party to the plan, and none of the routes announced so far crosses ISEZ territory. No Iradi trial, regulation or investment has been announced. IradOne reported the plan on Tuesday under the heading \"Kazakhstan and China Plan Driverless Truck Trials; Irad Watches Its Busy Crossings\".",
+    "The Irad connection is the freight that already passes through the Kazakh frontier. The ISEZ keeps only four crossings open on that side: Chu Gate, on the motorway about 125 km by road from Nurzhan; Talas North Terminal, at the end of the 194-km Trans-Talas Highway; Kum-Shagyl; and the Nurzhan rail border station. Lorries moving bonded goods through the first two are driven by people, and the largest bonded trucking firm serving the northern crossings is Trans-Chuy Freight & Logistics.",
+    "Those lorries do not carry Iradi plates abroad. ISEZ-registered vehicles are not recognised in Kazakhstan, Uzbekistan or Kyrgyzstan, so vehicles working across the line run on Kyrgyz plates registered in Bishkek or Jalal-Abad, and cargo papers are Kyrgyz as well. A Kazakh or Chinese system that identifies trucks automatically would presumably need a registration, an insurer and an operator licence that a neighbouring state accepts. An ISEZ haulier has none of the three in its own name.",
+    "\"I wait at Chu Gate until the Kazakh side opens the lane and my papers are Kyrgyz,\" said Mr Anatoly Gusev, 51, who drives a refrigerated trailer between Nurzhan and Shymkent. \"If a machine drives the other half of the route, someone still has to stand at the gate with the stamps. I do not know whether that person is me.\" He noted that Kazakh time has been an hour behind Irad Time since 1 March 2024, and that drivers already plan around the shift change on the far side.",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said the effect on Irad would come through fees and the mix of jobs, not through any Iradi road. \"Bonded trucking at the northern crossings pays for drivers, yard workers, brokers and escort staff,\" she said. \"If cargo moves in automated convoys between Kazakh and Chinese terminals, the volume that passes through Irad does not change overnight, but the share that needs an Iradi driver could.\" She said no figure existed for how many crossing jobs depended on cross-border haulage, because the ISEZ does not publish them.",
+    "Mr Marlis Bolot, a Talas freight forwarder, raised a separate question: maps. Driverless trucks depend on detailed digital maps, and the ISEZ is missing from foreign map services, where Nurzhan returns nothing and Talas appears as a small Kyrgyz town. Attelkom's Kartalar covers the three cities but at first served only Attelkom connections. \"Before anyone asks whether Irad could join such a route, someone has to say whose map it would be on,\" Mr Bolot said. He asked what a haulier here would need to join a trial, and said he had found no one to put the question to.",
+    "The Herald put the same questions to the Customs Service and to the Kazakh Border and Customs Representation in Nurzhan. Neither had replied by deadline. A spokesman for Trans-Chuy said the company had seen the announcement and had no comment on it. No date, route or participating firm has been published for the Kazakh-Chinese trials, so there is nothing yet for the Irad side to apply to."
+  ],
+  "pull_quote": "If a machine drives the other half of the route, someone still has to stand at the gate with the stamps.",
+  "pull_quote_by": "Anatoly Gusev",
+  "people_quoted": [
+    {
+      "name": "Anatoly Gusev",
+      "role": "Nurzhan lorry driver, Nurzhan–Shymkent run",
+      "canon": false
+    },
+    {
+      "name": "Prof. Raisa Akmatova",
+      "role": "economist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Marlis Bolot",
+      "role": "Talas freight forwarder",
+      "canon": false
+    }
+  ],
+  "image": "photos/pass-road-lorry.jpg",
+  "published": "2026-10-28T08:24+06:00",
+  "iradone": {
+    "headline": "Kazakhstan and China Plan Driverless Truck Trials; Irad Watches Its Busy Crossings",
+    "slug": "2026-10-27-kazakhstan-and-china-plan-driverless-truck-trials-irad-watches-its-bus"
+  }
+}

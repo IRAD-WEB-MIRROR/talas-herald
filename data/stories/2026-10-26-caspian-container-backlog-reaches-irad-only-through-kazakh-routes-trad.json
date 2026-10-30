@@ -1,0 +1,53 @@
+{
+  "slug": "2026-10-26-caspian-container-backlog-reaches-irad-only-through-kazakh-routes-trad",
+  "kind": "story",
+  "headline": "Caspian container backlog reaches Irad only through Kazakh routes, traders say",
+  "dek": "Irad has no port, no ship and no say in Middle Corridor capacity, but every box bound for Talas or Nurzhan crosses a neighbour first.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Timur Sadyrbaev",
+  "tags": [
+    "Middle Corridor",
+    "Caspian",
+    "Trans-Chuy",
+    "Jılmay Cargo",
+    "Chu Gate",
+    "antimony"
+  ],
+  "paragraphs": [
+    "Containers are accumulating at Kazakhstan's Caspian ports while they wait for vessels to Azerbaijan, regional trade press reported this month. The reports blame a shortage of ships and weather delays, and say Kazakhstan is adding vessels to its Middle Corridor fleet while Caspian water levels fall. None of it happens on Iradi soil. Irad is doubly landlocked and has no Caspian role, but its traders say the corridor's troubles are part of what arrives at their door.",
+    "The exposure is by road and rail, not by sea. The ISEZ-held Kazakh frontier has four open points: Chu Gate, Talas North Terminal, Kum-Shagyl and the Nurzhan rail border station, where trains are exchanged with Kazakhstan Temir Zholy. Everything else enters through Kyrgyzstan or Uzbekistan, or is flown to Talas Air Base. No Iradi body publishes container counts, and the trade-press reports do not say how many of the waiting boxes are Irad-bound or Irad-origin. The Herald could not find a figure and does not offer one.",
+    "Trans-Chuy Freight & Logistics, which runs bonded trucking through the northern crossings, said it does not book Caspian space. \"Our trucks run to the frontier and on into Kazakhstan; the forwarders who sell the sea leg are our customers, not us,\" executive director Ilyas Sarsenbayev said in a statement to the Herald. He said Trans-Chuy's tariffs had not changed as of Monday and no customer had reported a missed delivery date because of the backlog. He added that the company would tell clients at once if forwarders began passing on surcharges.",
+    "Importers are less certain. Gennady Ostapenko, who buys pump parts for Nurzhan workshops from a European supplier through an Almaty forwarder, said his latest consignment had been told to wait for a slot. \"Nobody can say if it is a week or a month. I price my customers in dollars, so I cannot promise them a date,\" he said. He sells from a stall near the Radiobazar and said he has not yet raised prices, but would if storage charges in Kazakhstan appear on the invoice.",
+    "Jılmay Cargo, the only delivery of foreign goods to the ISEZ, consolidates parcels at a Bishkek warehouse and charges in US dollars only. Spokeswoman Meerim Sultanova said most of its volume comes by road through Kyrgyzstan and does not touch the Caspian. \"Bulky goods from Europe are the part that could be affected, and they are a small share of our parcels,\" she said, adding that the dollar tariff was unchanged. She declined to give parcel volumes.",
+    "Antimony is a separate case. Ingots and trioxide from the Chatkal smelting complex are sold mainly to China, an eastbound flow that does not use the Caspian; the sea lanes matter only for any westbound sales. The Sary-Bulak Antimony Works did not reply by deadline when asked whether it ships any cargo west. Nor is Attelkom's China fibre link, which opened this month at 400 Gbps, exposed: it carries data, and the gateway equipment bought on Chinese export credit is already installed. Irad's railway runs on its own track, and the four Chinese-built shunters it bought in 2019 are not tied to any shipping schedule.",
+    "Dr Zhyrgal Orunbaeva, an economist at Talas State University, said the lesson is about dependence. \"Irad is a price-taker on every leg. It has no seat on Middle Corridor capacity, and when a jam raises freight rates in Kazakhstan or Kyrgyzstan, the cost comes to us as a line on somebody else's invoice,\" she said. She cautioned that nothing yet shows up in Bazar-i Kalan prices, and said traders should be asked again in a month, when delayed consignments have either cleared or begun to cost more.",
+    "Whether the extra Kazakh vessels shorten the queue is not known; the trade press gives no delivery dates for them. Irad will learn the answer as a delivery time or a surcharge, not as a decision it took. The Herald will ask Trans-Chuy and the importers again when the November tariffs are set."
+  ],
+  "pull_quote": "Irad is a price-taker on every leg. It has no seat on Middle Corridor capacity",
+  "pull_quote_by": "Dr Zhyrgal Orunbaeva",
+  "people_quoted": [
+    {
+      "name": "Ilyas Sarsenbayev",
+      "role": "Executive director, Trans-Chuy Freight & Logistics",
+      "canon": true
+    },
+    {
+      "name": "Gennady Ostapenko",
+      "role": "Nurzhan importer of pump parts",
+      "canon": false
+    },
+    {
+      "name": "Meerim Sultanova",
+      "role": "Spokeswoman, Jılmay Cargo",
+      "canon": false
+    },
+    {
+      "name": "Dr Zhyrgal Orunbaeva",
+      "role": "Economist, Talas State University",
+      "canon": false
+    }
+  ],
+  "image": "photos/bazar-i-kalan.jpg",
+  "published": "2026-10-26T07:37+06:00"
+}

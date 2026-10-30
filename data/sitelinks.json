@@ -1,0 +1,349 @@
+{
+ "outlet": "The Talas Herald",
+ "sites": {
+  "bank.iradgov.org": [
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%",
+    "url": "https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html",
+    "date": "2026-10-22"
+   },
+   {
+    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
+    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Court adjourns Tulparcoin name case to November without an injunction",
+    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
+    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
+    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "Russian cap on cash rubles hits families who carry savings home",
+    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
+    "date": "2026-09-30"
+   },
+   {
+    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
+    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
+    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
+    "date": "2026-09-23"
+   }
+  ],
+  "talasuniversity.org": [
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Maksat says valley farmland should stop becoming house plots; no rule changed",
+    "url": "https://talasherald.com/news/2026-10-29-maksat-says-valley-farmland-should-stop-becoming-house-plots-no-rule-c.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "French edition of Turkestan memoir out; Iradi memoirs still lack a translator",
+    "url": "https://talasherald.com/news/2026-10-28-french-edition-of-turkestan-memoir-out-iradi-memoirs-still-lack-a-tran.html",
+    "date": "2026-10-28"
+   },
+   {
+    "title": "Kazakh-Chinese driverless truck trials leave Irad's hauliers outside the planning",
+    "url": "https://talasherald.com/news/2026-10-28-kazakh-chinese-driverless-truck-trials-leave-irad-s-hauliers-outside-t.html",
+    "date": "2026-10-28"
+   },
+   {
+    "title": "Snow leopard station opens at Uuk-Bulak; releases on tribal land need clan consent",
+    "url": "https://talasherald.com/news/2026-10-27-snow-leopard-station-opens-at-uuk-bulak-releases-on-tribal-land-need-c.html",
+    "date": "2026-10-27"
+   },
+   {
+    "title": "Caspian container backlog reaches Irad only through Kazakh routes, traders say",
+    "url": "https://talasherald.com/news/2026-10-26-caspian-container-backlog-reaches-irad-only-through-kazakh-routes-trad.html",
+    "date": "2026-10-26"
+   },
+   {
+    "title": "Kyrgyzstan caps coal for 90 days; Irad's buyers rely on merchants' own prices",
+    "url": "https://talasherald.com/news/2026-10-26-kyrgyzstan-caps-coal-for-90-days-irad-s-buyers-rely-on-merchants-own-p.html",
+    "date": "2026-10-26"
+   },
+   {
+    "title": "Before banning potato imports, publish the storage survey",
+    "url": "https://talasherald.com/news/2026-10-24-before-banning-potato-imports-publish-the-storage-survey.html",
+    "date": "2026-10-24"
+   },
+   {
+    "title": "Irad files 268-glacier inventory with COP17 through Bishkek; it has no seat",
+    "url": "https://talasherald.com/news/2026-10-24-irad-files-268-glacier-inventory-with-cop17-through-bishkek-it-has-no.html",
+    "date": "2026-10-24"
+   },
+   {
+    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
+    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
+    "date": "2026-10-23"
+   },
+   {
+    "title": "Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed",
+    "url": "https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html",
+    "date": "2026-10-22"
+   },
+   {
+    "title": "Kervan Elektrik to run Nurzhan, Chu and Kara-Buura grids; loss target is 11%",
+    "url": "https://talasherald.com/news/2026-10-21-kervan-elektrik-to-run-nurzhan-chu-and-kara-buura-grids-loss-target-is.html",
+    "date": "2026-10-21"
+   },
+   {
+    "title": "Heat plant gas conversions would put IS 670 million on Talas and Nurzhan bills",
+    "url": "https://talasherald.com/news/2026-10-20-heat-plant-gas-conversions-would-put-is-670-million-on-talas-and-nurzh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
+    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Draft ban on potato imports to 1 March tests whether the record crop will keep",
+    "url": "https://talasherald.com/news/2026-10-19-draft-ban-on-potato-imports-to-1-march-tests-whether-the-record-crop-w.html",
+    "date": "2026-10-19"
+   },
+   {
+    "title": "EU grants Kyrgyzstan €6m for school reforms, paid on results",
+    "url": "https://talasherald.com/news/2026-10-19-eu-grants-kyrgyzstan-6m-for-school-reforms-paid-on-results.html",
+    "date": "2026-10-19"
+   },
+   {
+    "title": "Name the partners before public money goes into Sary-Bulak",
+    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "First business census runs to 30 November; bazaar stalls and farms are the test",
+    "url": "https://talasherald.com/news/2026-10-17-first-business-census-runs-to-30-november-bazaar-stalls-and-farms-are.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Kyrgyz fish plant opens near Bishkek with 3,000-tonne capacity",
+    "url": "https://talasherald.com/news/2026-10-17-kyrgyz-fish-plant-opens-near-bishkek-with-3-000-tonne-capacity.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Kyrgyz fuel output up 1.9-fold; Irad's diesel still rests on one refinery",
+    "url": "https://talasherald.com/news/2026-10-16-kyrgyz-fuel-output-up-1-9-fold-irad-s-diesel-still-rests-on-one-refine.html",
+    "date": "2026-10-16"
+   },
+   {
+    "title": "Kyrgyz building output up 1.6-fold; Talas permits rose 13%, costs 18%",
+    "url": "https://talasherald.com/news/2026-10-16-kyrgyz-building-output-up-1-6-fold-talas-permits-rose-13-costs-18.html",
+    "date": "2026-10-16"
+   },
+   {
+    "title": "Record harvest of 210,000 tonnes of potatoes leaves growers paid less than bazaar prices suggest",
+    "url": "https://talasherald.com/news/2026-10-15-record-harvest-of-210-000-tonnes-of-potatoes-leaves-growers-paid-less.html",
+    "date": "2026-10-15"
+   },
+   {
+    "title": "Bishkek revives metro plan despite its own planners' cost and demand finding",
+    "url": "https://talasherald.com/news/2026-10-15-bishkek-revives-metro-plan-despite-its-own-planners-cost-and-demand-fi.html",
+    "date": "2026-10-15"
+   },
+   {
+    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
+    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
+    "date": "2026-10-14"
+   },
+   {
+    "title": "Potato import halt could add IS 0.60 a kilo by January, Bazar-i Kalan traders say",
+    "url": "https://talasherald.com/news/2026-10-14-potato-import-halt-could-add-is-0-60-a-kilo-by-january-bazar-i-kalan-t.html",
+    "date": "2026-10-14"
+   },
+   {
+    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
+    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Sary-Bulak's 13 new plants create 138 jobs, but only 91 are year-round",
+    "url": "https://talasherald.com/news/2026-10-13-sary-bulak-s-13-new-plants-create-138-jobs-but-only-91-are-year-round.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Rabat-i-Safed coins to be tested in Nurzhan as museum asks for custody",
+    "url": "https://talasherald.com/news/2026-10-10-rabat-i-safed-coins-to-be-tested-in-nurzhan-as-museum-asks-for-custody.html",
+    "date": "2026-10-10"
+   },
+   {
+    "title": "Supreme Court puts its case register online; inability petition awaits a date",
+    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Komuz contest is open to highland players, if they can get travel permits",
+    "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
+    "date": "2026-10-08"
+   },
+   {
+    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
+    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "Ministry proposes halting potato imports until March as harvest outruns demand",
+    "url": "https://talasherald.com/news/2026-10-05-ministry-proposes-halting-potato-imports-until-march-as-harvest.html",
+    "date": "2026-10-05"
+   },
+   {
+    "title": "Russian cap on cash rubles hits families who carry savings home",
+    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
+    "date": "2026-09-30"
+   },
+   {
+    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
+    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
+    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
+    "date": "2026-09-23"
+   }
+  ],
+  "mejlis.iradgov.org": [
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
+    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
+    "date": "2026-10-27"
+   },
+   {
+    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
+    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
+    "date": "2026-10-23"
+   },
+   {
+    "title": "Name the partners before public money goes into Sary-Bulak",
+    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
+    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
+    "date": "2026-10-14"
+   },
+   {
+    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
+    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Supreme Court puts its case register online; inability petition awaits a date",
+    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
+    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
+    "date": "2026-10-02"
+   },
+   {
+    "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
+    "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
+    "date": "2026-09-28"
+   }
+  ],
+  "customs.iradgov.org": [
+   {
+    "title": "Kazakh-Chinese driverless truck trials leave Irad's hauliers outside the planning",
+    "url": "https://talasherald.com/news/2026-10-28-kazakh-chinese-driverless-truck-trials-leave-irad-s-hauliers-outside-t.html",
+    "date": "2026-10-28"
+   },
+   {
+    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
+    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Ministry proposes halting potato imports until March as harvest outruns demand",
+    "url": "https://talasherald.com/news/2026-10-05-ministry-proposes-halting-potato-imports-until-march-as-harvest.html",
+    "date": "2026-10-05"
+   }
+  ],
+  "jandarm.iradgov.org": [
+   {
+    "title": "Kyrgyz fish plant opens near Bishkek with 3,000-tonne capacity",
+    "url": "https://talasherald.com/news/2026-10-17-kyrgyz-fish-plant-opens-near-bishkek-with-3-000-tonne-capacity.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Komuz contest is open to highland players, if they can get travel permits",
+    "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
+    "date": "2026-10-08"
+   }
+  ],
+  "court.iradgov.org": [
+   {
+    "title": "Sary-Bulak's 13 new plants create 138 jobs, but only 91 are year-round",
+    "url": "https://talasherald.com/news/2026-10-13-sary-bulak-s-13-new-plants-create-138-jobs-but-only-91-are-year-round.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Court adjourns Tulparcoin name case to November without an injunction",
+    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
+    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Supreme Court puts its case register online; inability petition awaits a date",
+    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
+    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
+    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
+    "date": "2026-10-02"
+   },
+   {
+    "title": "Court adjourns stallholders' claim over Jibek Jolu market fire",
+    "url": "https://talasherald.com/news/2026-10-02-court-adjourns-stallholders-claim-over-jibek-jolu-market-fire.html",
+    "date": "2026-10-02"
+   }
+  ],
+  "archives.iradgov.org": [
+   {
+    "title": "Komuz contest is open to highland players, if they can get travel permits",
+    "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
+    "date": "2026-10-08"
+   }
+  ]
+ }
+}
