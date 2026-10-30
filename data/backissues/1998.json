@@ -1,0 +1,383 @@
+{
+ "outlet": "herald",
+ "year": 1998,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:12Z",
+ "items": [
+  {
+   "date": "1998-01-03",
+   "section": "News",
+   "headline": "Talas begins the year under heavy snow"
+  },
+  {
+   "date": "1998-01-08",
+   "section": "Culture",
+   "headline": "Christmas observed with liturgies and village feasts"
+  },
+  {
+   "date": "1998-01-12",
+   "section": "Business",
+   "headline": "Talasbank sets new year lending rates"
+  },
+  {
+   "date": "1998-01-16",
+   "section": "Across Irad",
+   "headline": "Herders move flocks as deep snow settles"
+  },
+  {
+   "date": "1998-01-21",
+   "section": "Courts",
+   "headline": "Talas court opens winter term with commercial cases"
+  },
+  {
+   "date": "1998-01-26",
+   "section": "Sport",
+   "headline": "Hippodrome holds winter training for ulak teams"
+  },
+  {
+   "date": "1998-01-30",
+   "section": "News",
+   "headline": "Territorial Legislature takes up school funding"
+  },
+  {
+   "date": "1998-02-03",
+   "section": "News",
+   "headline": "Winter Uprising memorial observed across the territory"
+  },
+  {
+   "date": "1998-02-07",
+   "section": "Business",
+   "headline": "Attelkom reports growth in internet subscribers"
+  },
+  {
+   "date": "1998-02-11",
+   "section": "Culture",
+   "headline": "Conservatory students give winter recital"
+  },
+  {
+   "date": "1998-02-16",
+   "section": "Across Irad",
+   "headline": "Lambing season begins in the foothills"
+  },
+  {
+   "date": "1998-02-20",
+   "section": "Opinion",
+   "headline": "Heating costs weigh on valley families"
+  },
+  {
+   "date": "1998-02-25",
+   "section": "News",
+   "headline": "Foreign Investment Guarantee Act debated in Legislature"
+  },
+  {
+   "date": "1998-03-02",
+   "section": "Business",
+   "headline": "Wool exporters seek better rail rates"
+  },
+  {
+   "date": "1998-03-06",
+   "section": "News",
+   "headline": "Preparations for Irad Day under way"
+  },
+  {
+   "date": "1998-03-11",
+   "section": "News",
+   "headline": "Irad Day marked with parade in Talas"
+  },
+  {
+   "date": "1998-03-14",
+   "section": "Sport",
+   "headline": "Irad League season opens with Neftchi win"
+  },
+  {
+   "date": "1998-03-19",
+   "section": "Culture",
+   "headline": "Spring concert season opens at the Philharmonic"
+  },
+  {
+   "date": "1998-03-24",
+   "section": "Courts",
+   "headline": "Court hears appeal in Kyzyl-Adyr grazing dispute"
+  },
+  {
+   "date": "1998-03-28",
+   "section": "Across Irad",
+   "headline": "Snowmelt swells rivers across Chatkal"
+  },
+  {
+   "date": "1998-04-06",
+   "section": "News",
+   "headline": "Road crews begin repairs after floodwater damage"
+  },
+  {
+   "date": "1998-04-10",
+   "section": "Business",
+   "headline": "Talas Agribusiness Export Zone reports spring shipments"
+  },
+  {
+   "date": "1998-04-14",
+   "section": "Culture",
+   "headline": "Lent services draw large congregations"
+  },
+  {
+   "date": "1998-04-18",
+   "section": "Sport",
+   "headline": "Tulpar beat Attelkom in league opener"
+  },
+  {
+   "date": "1998-04-22",
+   "section": "News",
+   "headline": "Spring planting begins in Talas valley"
+  },
+  {
+   "date": "1998-04-25",
+   "section": "Across Irad",
+   "headline": "Pilgrims gather for Easter at Iyık Janyl"
+  },
+  {
+   "date": "1998-05-01",
+   "section": "Business",
+   "headline": "Chevron service work continues on Chu fields"
+  },
+  {
+   "date": "1998-05-06",
+   "section": "Courts",
+   "headline": "Talas court fines firm over unsafe scaffolding"
+  },
+  {
+   "date": "1998-05-11",
+   "section": "Culture",
+   "headline": "Art College graduates open spring show"
+  },
+  {
+   "date": "1998-05-16",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar draw in league clash"
+  },
+  {
+   "date": "1998-05-20",
+   "section": "News",
+   "headline": "Talas schools prepare for final exams"
+  },
+  {
+   "date": "1998-05-25",
+   "section": "Across Irad",
+   "headline": "Shearing begins on the high pastures"
+  },
+  {
+   "date": "1998-05-29",
+   "section": "Opinion",
+   "headline": "Drainage and the lessons of the spring floods"
+  },
+  {
+   "date": "1998-06-03",
+   "section": "News",
+   "headline": "Summer heat arrives early in Talas"
+  },
+  {
+   "date": "1998-06-08",
+   "section": "Business",
+   "headline": "Territorial Power Authority plans summer maintenance"
+  },
+  {
+   "date": "1998-06-12",
+   "section": "Culture",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "date": "1998-06-17",
+   "section": "Sport",
+   "headline": "Irad Cup quarter-finals played"
+  },
+  {
+   "date": "1998-06-22",
+   "section": "Across Irad",
+   "headline": "Kymyz season opens on Talas Alatau pastures"
+  },
+  {
+   "date": "1998-06-27",
+   "section": "Courts",
+   "headline": "Court hears Nurzhan freight forwarding case"
+  },
+  {
+   "date": "1998-07-02",
+   "section": "News",
+   "headline": "River levels fall as dry spell begins"
+  },
+  {
+   "date": "1998-07-07",
+   "section": "Business",
+   "headline": "Wheat harvest starts in the lower Talas"
+  },
+  {
+   "date": "1998-07-11",
+   "section": "Across Irad",
+   "headline": "Haymaking under way in Kara-Buura"
+  },
+  {
+   "date": "1998-07-17",
+   "section": "Sport",
+   "headline": "Irad Cup final draws crowd to Talas"
+  },
+  {
+   "date": "1998-07-23",
+   "section": "News",
+   "headline": "Sary-Say mudflow anniversary observed"
+  },
+  {
+   "date": "1998-07-28",
+   "section": "Culture",
+   "headline": "Outdoor concerts return to Central City Park"
+  },
+  {
+   "date": "1998-08-03",
+   "section": "Business",
+   "headline": "Melon and fruit prices ease at the bazaar"
+  },
+  {
+   "date": "1998-08-08",
+   "section": "News",
+   "headline": "Canal rotations set for the dry weeks"
+  },
+  {
+   "date": "1998-08-15",
+   "section": "News",
+   "headline": "Lost Tribes remembered across the territory"
+  },
+  {
+   "date": "1998-08-20",
+   "section": "Culture",
+   "headline": "Preparations for the Feast of St. Janyl"
+  },
+  {
+   "date": "1998-08-24",
+   "section": "News",
+   "headline": "Pilgrims fill Iyık Janyl for the Feast of St. Janyl"
+  },
+  {
+   "date": "1998-09-01",
+   "section": "News",
+   "headline": "Schools open with new class lists"
+  },
+  {
+   "date": "1998-09-05",
+   "section": "Business",
+   "headline": "Maize harvest starts at Kara-Bulak"
+  },
+  {
+   "date": "1998-09-10",
+   "section": "Across Irad",
+   "headline": "Autumn livestock sales open at the markets"
+  },
+  {
+   "date": "1998-09-14",
+   "section": "Culture",
+   "headline": "Salyba Künü observed in parishes"
+  },
+  {
+   "date": "1998-09-19",
+   "section": "Sport",
+   "headline": "Ulak league opens autumn fixtures"
+  },
+  {
+   "date": "1998-09-24",
+   "section": "Courts",
+   "headline": "Talas court hears land lease appeal"
+  },
+  {
+   "date": "1998-10-01",
+   "section": "Business",
+   "headline": "Cotton picking under way on the Fergana rim"
+  },
+  {
+   "date": "1998-10-06",
+   "section": "News",
+   "headline": "Talas council approves winter heating plan"
+  },
+  {
+   "date": "1998-10-12",
+   "section": "Opinion",
+   "headline": "Roads before winter: what remains to be done"
+  },
+  {
+   "date": "1998-10-17",
+   "section": "Sport",
+   "headline": "Highland ulak division begins with clan teams"
+  },
+  {
+   "date": "1998-10-22",
+   "section": "Culture",
+   "headline": "Autumn exhibition opens at the Palace of Art"
+  },
+  {
+   "date": "1998-10-27",
+   "section": "News",
+   "headline": "Territorial Legislature opens budget session"
+  },
+  {
+   "date": "1998-11-02",
+   "section": "Business",
+   "headline": "Dairy sales rise before winter"
+  },
+  {
+   "date": "1998-11-06",
+   "section": "News",
+   "headline": "Heating switched on in Talas schools and hospitals"
+  },
+  {
+   "date": "1998-11-11",
+   "section": "Courts",
+   "headline": "Court rules in market stall lease case"
+  },
+  {
+   "date": "1998-11-16",
+   "section": "Across Irad",
+   "headline": "Snow closes high passes above Kök-Bel"
+  },
+  {
+   "date": "1998-11-21",
+   "section": "Sport",
+   "headline": "League season ends with title decided"
+  },
+  {
+   "date": "1998-11-26",
+   "section": "World",
+   "headline": "Kazakh traders report busy autumn at the frontier"
+  },
+  {
+   "date": "1998-12-02",
+   "section": "News",
+   "headline": "Territorial budget approved by the Legislature"
+  },
+  {
+   "date": "1998-12-07",
+   "section": "Business",
+   "headline": "Year-end wool sales close firm"
+  },
+  {
+   "date": "1998-12-12",
+   "section": "Across Irad",
+   "headline": "Flocks settle on winter pastures in Moiynkum"
+  },
+  {
+   "date": "1998-12-17",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards announced in Talas"
+  },
+  {
+   "date": "1998-12-21",
+   "section": "News",
+   "headline": "Warm Winter coat drive opens"
+  },
+  {
+   "date": "1998-12-24",
+   "section": "Culture",
+   "headline": "Christmas Eve vigils held across the territory"
+  },
+  {
+   "date": "1998-12-30",
+   "section": "Opinion",
+   "headline": "The year in review: floods, roads and a busy harvest"
+  }
+ ]
+}

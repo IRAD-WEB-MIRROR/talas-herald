@@ -1,0 +1,351 @@
+{
+ "outlet": "herald",
+ "year": 2004,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:13Z",
+ "items": [
+  {
+   "date": "2004-01-05",
+   "section": "News",
+   "headline": "Abdrakhmanova sworn in as first woman governor"
+  },
+  {
+   "date": "2004-01-08",
+   "section": "Business",
+   "headline": "Talas banks report strong dollar deposits"
+  },
+  {
+   "date": "2004-01-12",
+   "section": "Across Irad",
+   "headline": "Snow closes Kök-Bel road for a day"
+  },
+  {
+   "date": "2004-01-16",
+   "section": "Sport",
+   "headline": "Universitet Talas open winter camp"
+  },
+  {
+   "date": "2004-01-20",
+   "section": "News",
+   "headline": "Legislature opens spring session"
+  },
+  {
+   "date": "2004-01-24",
+   "section": "Culture",
+   "headline": "Epiphany blessing of waters held at Talas river"
+  },
+  {
+   "date": "2004-01-28",
+   "section": "Courts",
+   "headline": "Court hears dispute over Bazar-i Kalan stall fees"
+  },
+  {
+   "date": "2004-02-03",
+   "section": "News",
+   "headline": "Flags at half-mast for Winter Uprising memorial"
+  },
+  {
+   "date": "2004-02-07",
+   "section": "Business",
+   "headline": "Wool exports rise despite cold winter"
+  },
+  {
+   "date": "2004-02-11",
+   "section": "Sport",
+   "headline": "Hippodrome hosts winter ulak exhibition"
+  },
+  {
+   "date": "2004-02-14",
+   "section": "Across Irad",
+   "headline": "Lambing begins early in Talas valley"
+  },
+  {
+   "date": "2004-02-19",
+   "section": "Culture",
+   "headline": "Iradi Dress Day marked in Old City"
+  },
+  {
+   "date": "2004-02-24",
+   "section": "News",
+   "headline": "Council approves school heating repairs"
+  },
+  {
+   "date": "2004-03-02",
+   "section": "Business",
+   "headline": "Cotton contracts signed for Fergana rim farms"
+  },
+  {
+   "date": "2004-03-06",
+   "section": "Culture",
+   "headline": "Women's Day concert at Philharmonic"
+  },
+  {
+   "date": "2004-03-11",
+   "section": "News",
+   "headline": "Irad Day parade fills Central Square"
+  },
+  {
+   "date": "2004-03-16",
+   "section": "Courts",
+   "headline": "Appeals court upholds ruling in grain dispute"
+  },
+  {
+   "date": "2004-03-20",
+   "section": "Sport",
+   "headline": "Tulpar Talas open season with home win"
+  },
+  {
+   "date": "2004-03-25",
+   "section": "Across Irad",
+   "headline": "Thaw floods lowland roads near Aulie-Ata"
+  },
+  {
+   "date": "2004-03-30",
+   "section": "News",
+   "headline": "City hospital reports flu cases easing"
+  },
+  {
+   "date": "2004-04-03",
+   "section": "Culture",
+   "headline": "Palm Sunday processions held in Talas"
+  },
+  {
+   "date": "2004-04-17",
+   "section": "Culture",
+   "headline": "Easter vigil draws crowds to St. Tomas"
+  },
+  {
+   "date": "2004-04-22",
+   "section": "Business",
+   "headline": "Sary-Bulak Antimony Works reports higher output"
+  },
+  {
+   "date": "2004-04-27",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar draw in derby"
+  },
+  {
+   "date": "2004-05-04",
+   "section": "News",
+   "headline": "Spring sowing begins in Chu district"
+  },
+  {
+   "date": "2004-05-08",
+   "section": "Across Irad",
+   "headline": "Hay prices stay low after mild winter"
+  },
+  {
+   "date": "2004-05-13",
+   "section": "Business",
+   "headline": "Talas Dairy adds milk collection points"
+  },
+  {
+   "date": "2004-05-18",
+   "section": "News",
+   "headline": "Council opens bids for road resurfacing"
+  },
+  {
+   "date": "2004-05-22",
+   "section": "Culture",
+   "headline": "Talasfilm screens restored classics"
+  },
+  {
+   "date": "2004-05-27",
+   "section": "Courts",
+   "headline": "Court fines contractor over faulty school roof"
+  },
+  {
+   "date": "2004-06-02",
+   "section": "News",
+   "headline": "Graduates receive diplomas in Talas"
+  },
+  {
+   "date": "2004-06-07",
+   "section": "Sport",
+   "headline": "Hippodrome opens summer racing season"
+  },
+  {
+   "date": "2004-06-12",
+   "section": "Across Irad",
+   "headline": "Herders move flocks to summer pastures"
+  },
+  {
+   "date": "2004-06-17",
+   "section": "Business",
+   "headline": "Apricot growers expect good crop"
+  },
+  {
+   "date": "2004-06-23",
+   "section": "News",
+   "headline": "Heat advisory issued for Talas"
+  },
+  {
+   "date": "2004-07-01",
+   "section": "News",
+   "headline": "Candle vigil held on Trans-Talas Highway"
+  },
+  {
+   "date": "2004-07-03",
+   "section": "News",
+   "headline": "Legislature debates resolution on US jurisdiction"
+  },
+  {
+   "date": "2004-07-08",
+   "section": "Business",
+   "headline": "First-half budget revenues beat forecast"
+  },
+  {
+   "date": "2004-07-13",
+   "section": "Culture",
+   "headline": "Summer exhibition opens at Iyık Janyl Palace of Art",
+   "flags": [
+    "not in canon: Iyık Janyl Palace"
+   ]
+  },
+  {
+   "date": "2004-07-17",
+   "section": "Sport",
+   "headline": "Irad Spartakiad trials begin"
+  },
+  {
+   "date": "2004-07-23",
+   "section": "Across Irad",
+   "headline": "Hay harvest under way in Kara-Buura"
+  },
+  {
+   "date": "2004-07-29",
+   "section": "Courts",
+   "headline": "Court hears case over unlicensed market scales"
+  },
+  {
+   "date": "2004-08-03",
+   "section": "News",
+   "headline": "River levels low after dry July"
+  },
+  {
+   "date": "2004-08-07",
+   "section": "Business",
+   "headline": "Wheat harvest nears end in Chu"
+  },
+  {
+   "date": "2004-08-14",
+   "section": "Culture",
+   "headline": "Urkun remembered in Talas churches"
+  },
+  {
+   "date": "2004-08-19",
+   "section": "World",
+   "headline": "Uzbek border market reopens after repairs"
+  },
+  {
+   "date": "2004-08-30",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl draws pilgrims"
+  },
+  {
+   "date": "2004-09-01",
+   "section": "News",
+   "headline": "New school year opens in Talas"
+  },
+  {
+   "date": "2004-09-06",
+   "section": "Business",
+   "headline": "Talasbank opens new branch"
+  },
+  {
+   "date": "2004-09-11",
+   "section": "Sport",
+   "headline": "Neftchi lead league after September"
+  },
+  {
+   "date": "2004-09-16",
+   "section": "Across Irad",
+   "headline": "Walnut harvest begins in Chatkal"
+  },
+  {
+   "date": "2004-09-22",
+   "section": "News",
+   "headline": "Council sets winter heating schedule"
+  },
+  {
+   "date": "2004-09-28",
+   "section": "Opinion",
+   "headline": "Talas must plan for water shortages"
+  },
+  {
+   "date": "2004-10-02",
+   "section": "News",
+   "headline": "Boiler repairs finish before heating season"
+  },
+  {
+   "date": "2004-10-07",
+   "section": "Business",
+   "headline": "Cattle prices rise as feedlots restock"
+  },
+  {
+   "date": "2004-10-12",
+   "section": "Across Irad",
+   "headline": "First snow dusts mountain passes"
+  },
+  {
+   "date": "2004-10-21",
+   "section": "Sport",
+   "headline": "Ulak autumn season begins at Hippodrome"
+  },
+  {
+   "date": "2004-10-27",
+   "section": "News",
+   "headline": "Fuel supplies steady at Talas stations"
+  },
+  {
+   "date": "2004-11-02",
+   "section": "Courts",
+   "headline": "Judge fines trader over unlicensed goods"
+  },
+  {
+   "date": "2004-11-08",
+   "section": "News",
+   "headline": "Winter coat drive begins for children"
+  },
+  {
+   "date": "2004-11-17",
+   "section": "News",
+   "headline": "Three days of mourning end with state service"
+  },
+  {
+   "date": "2004-11-22",
+   "section": "Business",
+   "headline": "Attelkom boosts capacity for winter demand"
+  },
+  {
+   "date": "2004-11-27",
+   "section": "Sport",
+   "headline": "Tulpar clinch place in title race"
+  },
+  {
+   "date": "2004-12-06",
+   "section": "Across Irad",
+   "headline": "Heavy snow closes Fergana Gateway"
+  },
+  {
+   "date": "2004-12-14",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominees announced"
+  },
+  {
+   "date": "2004-12-18",
+   "section": "Sport",
+   "headline": "Neftchi take league title in final round"
+  },
+  {
+   "date": "2004-12-22",
+   "section": "News",
+   "headline": "Legislature passes territorial budget"
+  },
+  {
+   "date": "2004-12-28",
+   "section": "Culture",
+   "headline": "Christmas concerts begin in Talas parishes"
+  }
+ ]
+}

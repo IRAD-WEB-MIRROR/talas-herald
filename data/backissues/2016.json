@@ -1,0 +1,441 @@
+{
+ "outlet": "herald",
+ "year": 2016,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2016-01-02",
+   "section": "News",
+   "headline": "Talas rings in 2016 with fireworks and a church bell"
+  },
+  {
+   "date": "2016-01-06",
+   "section": "Across Irad",
+   "headline": "Epiphany waters blessed at the Naryn in Iyık Janyl"
+  },
+  {
+   "date": "2016-01-08",
+   "section": "Business",
+   "headline": "Walnut prices climb at Toktogul bazar"
+  },
+  {
+   "date": "2016-01-12",
+   "section": "Courts",
+   "headline": "Talas court rejects appeal in market rent dispute"
+  },
+  {
+   "date": "2016-01-15",
+   "section": "Culture",
+   "headline": "Philharmonic winter season opens with Kök Bel guest night"
+  },
+  {
+   "date": "2016-01-23",
+   "section": "Sport",
+   "headline": "Futsal cup final held at Irad Central Sports Complex"
+  },
+  {
+   "date": "2016-01-26",
+   "section": "Across Irad",
+   "headline": "Snow closes the Kök-Bel road again"
+  },
+  {
+   "date": "2016-01-29",
+   "section": "Business",
+   "headline": "Bereke extends opening hours for winter"
+  },
+  {
+   "date": "2016-02-03",
+   "section": "News",
+   "headline": "Flags lowered for Winter Uprising anniversary"
+  },
+  {
+   "date": "2016-02-06",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi open pre-season camps"
+  },
+  {
+   "date": "2016-02-09",
+   "section": "Courts",
+   "headline": "Talas bakery loses appeal against hygiene fine"
+  },
+  {
+   "date": "2016-02-13",
+   "section": "Across Irad",
+   "headline": "Avalanche closes Chatkal road near Karakoyun Pass"
+  },
+  {
+   "date": "2016-02-16",
+   "section": "News",
+   "headline": "Afghan war veterans lay wreaths at Black Tulip memorial"
+  },
+  {
+   "date": "2016-02-18",
+   "section": "Culture",
+   "headline": "Iradi Dress Day marked in Talas and market towns"
+  },
+  {
+   "date": "2016-02-23",
+   "section": "Business",
+   "headline": "Antimony output steady at Sary-Bulak"
+  },
+  {
+   "date": "2016-02-27",
+   "section": "Sport",
+   "headline": "Irad League fixtures published for 2016"
+  },
+  {
+   "date": "2016-03-01",
+   "section": "News",
+   "headline": "District reform decree creates Toktogul District",
+   "flags": [
+    "law? 'decree'"
+   ]
+  },
+  {
+   "date": "2016-03-04",
+   "section": "Across Irad",
+   "headline": "Toktogul elders discuss new district seat"
+  },
+  {
+   "date": "2016-03-08",
+   "section": "Culture",
+   "headline": "Women honoured at Talas Opera and Ballet Theater"
+  },
+  {
+   "date": "2016-03-11",
+   "section": "News",
+   "headline": "Irad Day parade led by Zharkyn past Central Square"
+  },
+  {
+   "date": "2016-03-15",
+   "section": "Business",
+   "headline": "Spring planting loans offered through Rural Development Fund"
+  },
+  {
+   "date": "2016-03-19",
+   "section": "Sport",
+   "headline": "Tulpar win season opener at Silk Road Arena"
+  },
+  {
+   "date": "2016-03-22",
+   "section": "Courts",
+   "headline": "Court hears complaint over unpaid wages at Nurzhan works"
+  },
+  {
+   "date": "2016-03-26",
+   "section": "Culture",
+   "headline": "Easter vigil at Church of St. Janyl"
+  },
+  {
+   "date": "2016-03-30",
+   "section": "Across Irad",
+   "headline": "Talas River rises with early snowmelt"
+  },
+  {
+   "date": "2016-04-05",
+   "section": "Business",
+   "headline": "Talas Süt opens new village collection points"
+  },
+  {
+   "date": "2016-04-08",
+   "section": "News",
+   "headline": "Mejlis hears report on rural clinics"
+  },
+  {
+   "date": "2016-04-15",
+   "section": "Sport",
+   "headline": "Neftchi go top after win over Temirjolchu"
+  },
+  {
+   "date": "2016-04-19",
+   "section": "Across Irad",
+   "headline": "Lambing under way on Chatkal pastures"
+  },
+  {
+   "date": "2016-04-23",
+   "section": "Culture",
+   "headline": "Open day at the State Stud draws crowds"
+  },
+  {
+   "date": "2016-04-26",
+   "section": "Courts",
+   "headline": "Judge fines trucking firm over overloaded lorries"
+  },
+  {
+   "date": "2016-04-29",
+   "section": "Business",
+   "headline": "Nurzhan refinery completes spring maintenance"
+  },
+  {
+   "date": "2016-05-03",
+   "section": "News",
+   "headline": "Mayor of Talas opens repaired Liberty Boulevard section"
+  },
+  {
+   "date": "2016-05-06",
+   "section": "Sport",
+   "headline": "Semiz First League side hold leaders"
+  },
+  {
+   "date": "2016-05-09",
+   "section": "Across Irad",
+   "headline": "Nurzhan marks Victory Day; Talas stays quiet"
+  },
+  {
+   "date": "2016-05-14",
+   "section": "Culture",
+   "headline": "Philharmonic youth orchestra gives spring recital"
+  },
+  {
+   "date": "2016-05-20",
+   "section": "Business",
+   "headline": "Jılmay reports rise in used-car listings"
+  },
+  {
+   "date": "2016-05-24",
+   "section": "Across Irad",
+   "headline": "Shearing begins in Kara-Buura"
+  },
+  {
+   "date": "2016-05-28",
+   "section": "Sport",
+   "headline": "Tulpar and Attelkom share points at Attelkom Park"
+  },
+  {
+   "date": "2016-06-02",
+   "section": "News",
+   "headline": "Graduation Test papers sent to test points"
+  },
+  {
+   "date": "2016-06-07",
+   "section": "Business",
+   "headline": "Iradenergo reports summer export contracts"
+  },
+  {
+   "date": "2016-06-10",
+   "section": "Courts",
+   "headline": "Court hears Nurzhan scaffolding accident case"
+  },
+  {
+   "date": "2016-06-14",
+   "section": "Across Irad",
+   "headline": "Hay cutting starts in Talas Alatau meadows"
+  },
+  {
+   "date": "2016-06-18",
+   "section": "Culture",
+   "headline": "Kök Bel plays open-air concert in Central City Park"
+  },
+  {
+   "date": "2016-06-22",
+   "section": "Sport",
+   "headline": "Ulak teams prepare for President's Cup qualifiers"
+  },
+  {
+   "date": "2016-06-25",
+   "section": "News",
+   "headline": "Graduation Test results released"
+  },
+  {
+   "date": "2016-07-01",
+   "section": "News",
+   "headline": "Toktogul District begins work under its first head"
+  },
+  {
+   "date": "2016-07-05",
+   "section": "Across Irad",
+   "headline": "Kymyz season opens above Orto-Ayyl"
+  },
+  {
+   "date": "2016-07-08",
+   "section": "Business",
+   "headline": "Cotton fields on the rim need water, growers say"
+  },
+  {
+   "date": "2016-07-12",
+   "section": "Sport",
+   "headline": "Tulpar beat Dastgoh 2–0 in Talas"
+  },
+  {
+   "date": "2016-07-16",
+   "section": "Culture",
+   "headline": "Ayyubov summer show opens at Besh-Tash"
+  },
+  {
+   "date": "2016-07-20",
+   "section": "Courts",
+   "headline": "Court fines Talas builder over unsafe roof"
+  },
+  {
+   "date": "2016-07-23",
+   "section": "Across Irad",
+   "headline": "Sary-Say victims remembered at memorial Qurbana"
+  },
+  {
+   "date": "2016-07-29",
+   "section": "Business",
+   "headline": "Maize planting ends with good yields forecast"
+  },
+  {
+   "date": "2016-08-02",
+   "section": "News",
+   "headline": "Heat advisory issued for the Talas valley"
+  },
+  {
+   "date": "2016-08-05",
+   "section": "Sport",
+   "headline": "Neftchi hold Tulpar to a draw in Nurzhan"
+  },
+  {
+   "date": "2016-08-10",
+   "section": "Courts",
+   "headline": "Talas court dismisses canal water complaint"
+  },
+  {
+   "date": "2016-08-13",
+   "section": "Across Irad",
+   "headline": "Kurultai opens on the Aksay Plateau"
+  },
+  {
+   "date": "2016-08-17",
+   "section": "Business",
+   "headline": "Walnut growers expect heavy harvest"
+  },
+  {
+   "date": "2016-08-20",
+   "section": "Culture",
+   "headline": "Urkun remembered with readings in Talas"
+  },
+  {
+   "date": "2016-08-24",
+   "section": "Culture",
+   "headline": "Pilgrims gather in Iyık Janyl for the Feast of St. Janyl"
+  },
+  {
+   "date": "2016-08-27",
+   "section": "News",
+   "headline": "New school year textbooks reach village schools"
+  },
+  {
+   "date": "2016-09-02",
+   "section": "Business",
+   "headline": "Cotton ginning begins on the Fergana rim"
+  },
+  {
+   "date": "2016-09-06",
+   "section": "Sport",
+   "headline": "Tulpar lead as Irad League enters final stretch"
+  },
+  {
+   "date": "2016-09-09",
+   "section": "Across Irad",
+   "headline": "Autumn cattle drives begin on the steppe"
+  },
+  {
+   "date": "2016-09-13",
+   "section": "Courts",
+   "headline": "Court hears appeal over road repair contract"
+  },
+  {
+   "date": "2016-09-20",
+   "section": "Culture",
+   "headline": "Palace of Art opens autumn exhibition"
+  },
+  {
+   "date": "2016-09-27",
+   "section": "News",
+   "headline": "Civil Protection Service reports first frost"
+  },
+  {
+   "date": "2016-10-04",
+   "section": "Sport",
+   "headline": "Ulak league opens at State Hippodrome"
+  },
+  {
+   "date": "2016-10-08",
+   "section": "Business",
+   "headline": "Beef exports steady at Kazakh rail terminal"
+  },
+  {
+   "date": "2016-10-11",
+   "section": "Across Irad",
+   "headline": "Walnut harvest peaks in the Chatkal valleys"
+  },
+  {
+   "date": "2016-10-14",
+   "section": "Courts",
+   "headline": "Judge jails Nurzhan man for pensioner fraud"
+  },
+  {
+   "date": "2016-10-18",
+   "section": "Culture",
+   "headline": "Talas Philharmonic marks autumn with Iradi songs"
+  },
+  {
+   "date": "2016-10-22",
+   "section": "Sport",
+   "headline": "Tulpar clinch league title in final round"
+  },
+  {
+   "date": "2016-10-27",
+   "section": "News",
+   "headline": "Mejlis receives the 2017 budget draft"
+  },
+  {
+   "date": "2016-11-03",
+   "section": "Across Irad",
+   "headline": "First snow falls on Fergana Gateway"
+  },
+  {
+   "date": "2016-11-08",
+   "section": "Business",
+   "headline": "Heating season begins in Nurzhan and Talas"
+  },
+  {
+   "date": "2016-11-12",
+   "section": "Culture",
+   "headline": "Warm Winter coat drive opens for village children"
+  },
+  {
+   "date": "2016-11-16",
+   "section": "Sport",
+   "headline": "Irad Cup final fills Silk Road Arena"
+  },
+  {
+   "date": "2016-11-22",
+   "section": "Courts",
+   "headline": "Court fines Talas firm over unsafe scaffolding"
+  },
+  {
+   "date": "2016-12-02",
+   "section": "News",
+   "headline": "Mejlis debates the 2017 budget"
+  },
+  {
+   "date": "2016-12-06",
+   "section": "Across Irad",
+   "headline": "Heating tested in Iyık Janyl blocks"
+  },
+  {
+   "date": "2016-12-14",
+   "section": "Business",
+   "headline": "Year-end sales rise at Bazar-i Kalan"
+  },
+  {
+   "date": "2016-12-17",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky honours Iradi writers and musicians"
+  },
+  {
+   "date": "2016-12-21",
+   "section": "Sport",
+   "headline": "Wrestlers prepare for winter championships"
+  },
+  {
+   "date": "2016-12-27",
+   "section": "Across Irad",
+   "headline": "Ski season opens above Talas"
+  }
+ ]
+}

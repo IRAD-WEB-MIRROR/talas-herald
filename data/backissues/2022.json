@@ -1,0 +1,348 @@
+{
+ "outlet": "herald",
+ "year": 2022,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2022-01-05",
+   "section": "Culture",
+   "headline": "Christmas services held across Talas"
+  },
+  {
+   "date": "2022-01-08",
+   "section": "News",
+   "headline": "Cold snap tests heating in Nurzhan blocks"
+  },
+  {
+   "date": "2022-01-12",
+   "section": "Business",
+   "headline": "Diesel supply steady at NurGaz stations"
+  },
+  {
+   "date": "2022-01-15",
+   "section": "Sport",
+   "headline": "Irad Cup winter training camps open"
+  },
+  {
+   "date": "2022-01-19",
+   "section": "Across Irad",
+   "headline": "Snow closes Chatkal road"
+  },
+  {
+   "date": "2022-01-22",
+   "section": "Courts",
+   "headline": "Talas court hears tenancy dispute"
+  },
+  {
+   "date": "2022-01-26",
+   "section": "News",
+   "headline": "Mejlis committee reviews school heating"
+  },
+  {
+   "date": "2022-01-29",
+   "section": "Culture",
+   "headline": "Palace of Art opens winter show"
+  },
+  {
+   "date": "2022-02-08",
+   "section": "Business",
+   "headline": "Walnut prices firm ahead of spring"
+  },
+  {
+   "date": "2022-02-12",
+   "section": "Across Irad",
+   "headline": "Lambing begins in Toktogul District"
+  },
+  {
+   "date": "2022-02-18",
+   "section": "Culture",
+   "headline": "Dress Day marked on University Street"
+  },
+  {
+   "date": "2022-02-22",
+   "section": "Sport",
+   "headline": "Tulpar open season with win at Silk Road Arena"
+  },
+  {
+   "date": "2022-02-26",
+   "section": "News",
+   "headline": "Bread price held through winter, bakers say"
+  },
+  {
+   "date": "2022-03-02",
+   "section": "Business",
+   "headline": "Remittance costs rise through Almaty banks"
+  },
+  {
+   "date": "2022-03-08",
+   "section": "News",
+   "headline": "Women's Day flowers sell out at Bazar-i Kalan"
+  },
+  {
+   "date": "2022-03-12",
+   "section": "News",
+   "headline": "Irad Day parade led by Zharkyn"
+  },
+  {
+   "date": "2022-03-23",
+   "section": "Across Irad",
+   "headline": "Spring thaw floods low road near Kara-Buura"
+  },
+  {
+   "date": "2022-04-02",
+   "section": "Sport",
+   "headline": "Neftchi beat Surma in Nurzhan"
+  },
+  {
+   "date": "2022-04-06",
+   "section": "Business",
+   "headline": "Sowing begins in the Chu oasis"
+  },
+  {
+   "date": "2022-04-12",
+   "section": "News",
+   "headline": "Kubatova-era vaccine stock draws no new shipments"
+  },
+  {
+   "date": "2022-04-16",
+   "section": "Culture",
+   "headline": "Easter liturgy at St. Janyl draws pilgrims"
+  },
+  {
+   "date": "2022-04-20",
+   "section": "Courts",
+   "headline": "Court hears appeal over market stall lease"
+  },
+  {
+   "date": "2022-04-26",
+   "section": "Across Irad",
+   "headline": "Kymyz season prepares on Talas Alatau"
+  },
+  {
+   "date": "2022-04-30",
+   "section": "Culture",
+   "headline": "State Stud open day draws children"
+  },
+  {
+   "date": "2022-05-04",
+   "section": "News",
+   "headline": "Council approves new school roof repairs"
+  },
+  {
+   "date": "2022-05-07",
+   "section": "Business",
+   "headline": "Sheep sales brisk before summer move"
+  },
+  {
+   "date": "2022-05-11",
+   "section": "Sport",
+   "headline": "Women's League: Tulpar lead after eight rounds"
+  },
+  {
+   "date": "2022-05-18",
+   "section": "Across Irad",
+   "headline": "Kara-Suu canal cleaning completed"
+  },
+  {
+   "date": "2022-05-21",
+   "section": "Culture",
+   "headline": "Talas Opera and Ballet closes season"
+  },
+  {
+   "date": "2022-06-01",
+   "section": "Culture",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "date": "2022-06-04",
+   "section": "Business",
+   "headline": "Cotton planting wraps up, ginners say"
+  },
+  {
+   "date": "2022-06-08",
+   "section": "News",
+   "headline": "National Graduation Test begins"
+  },
+  {
+   "date": "2022-06-11",
+   "section": "Sport",
+   "headline": "Wrestling championships open in Talas"
+  },
+  {
+   "date": "2022-06-14",
+   "section": "Courts",
+   "headline": "Customs case heard in Talas"
+  },
+  {
+   "date": "2022-06-22",
+   "section": "Across Irad",
+   "headline": "Hay cutting begins in Talas valley"
+  },
+  {
+   "date": "2022-06-25",
+   "section": "Culture",
+   "headline": "Roadside cross marks wedding minibus anniversary"
+  },
+  {
+   "date": "2022-07-02",
+   "section": "Business",
+   "headline": "Apricot crop strong in Bazar-Korgon"
+  },
+  {
+   "date": "2022-07-06",
+   "section": "News",
+   "headline": "Heat warning issued for Chu District"
+  },
+  {
+   "date": "2022-07-12",
+   "section": "Across Irad",
+   "headline": "Pilgrim walks to Iyık Janyl begin"
+  },
+  {
+   "date": "2022-07-16",
+   "section": "Sport",
+   "headline": "Irad Cup semi-finals set"
+  },
+  {
+   "date": "2022-07-23",
+   "section": "Across Irad",
+   "headline": "Qurbana held at Sary-Say fan"
+  },
+  {
+   "date": "2022-08-02",
+   "section": "News",
+   "headline": "Water rotation announced for Talas canals"
+  },
+  {
+   "date": "2022-08-06",
+   "section": "Business",
+   "headline": "Aigyr Lager reports summer sales rise"
+  },
+  {
+   "date": "2022-08-17",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl preparations in Iyık Janyl"
+  },
+  {
+   "date": "2022-08-20",
+   "section": "Across Irad",
+   "headline": "Long Kurultai opens on the Aksay Plateau"
+  },
+  {
+   "date": "2022-08-27",
+   "section": "Sport",
+   "headline": "Neftchi go top of the league"
+  },
+  {
+   "date": "2022-09-01",
+   "section": "News",
+   "headline": "Schools open for the new year"
+  },
+  {
+   "date": "2022-09-06",
+   "section": "Business",
+   "headline": "Grain harvest reviewed by ministry"
+  },
+  {
+   "date": "2022-09-10",
+   "section": "Culture",
+   "headline": "Talas State University welcomes first-years"
+  },
+  {
+   "date": "2022-09-14",
+   "section": "Culture",
+   "headline": "Salyba Künü observed across archeparchy"
+  },
+  {
+   "date": "2022-09-17",
+   "section": "Across Irad",
+   "headline": "Walnut picking starts in Chatkal"
+  },
+  {
+   "date": "2022-09-24",
+   "section": "Courts",
+   "headline": "Court sentences man for forged permits"
+  },
+  {
+   "date": "2022-10-01",
+   "section": "Sport",
+   "headline": "Ulak league opens at the State Hippodrome"
+  },
+  {
+   "date": "2022-10-08",
+   "section": "News",
+   "headline": "Heating season readiness reviewed"
+  },
+  {
+   "date": "2022-10-12",
+   "section": "Business",
+   "headline": "Beef exports steady, rail delays ease"
+  },
+  {
+   "date": "2022-10-15",
+   "section": "Across Irad",
+   "headline": "Sheep sales open at Bazar-Korgon"
+  },
+  {
+   "date": "2022-10-19",
+   "section": "Culture",
+   "headline": "Talasfilm retrospective opens"
+  },
+  {
+   "date": "2022-10-29",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi meet in title decider"
+  },
+  {
+   "date": "2022-11-02",
+   "section": "News",
+   "headline": "Mejlis receives draft 2023 budget"
+  },
+  {
+   "date": "2022-11-09",
+   "section": "Across Irad",
+   "headline": "Warm Winter coats handed out in Kyzyl-Adyr"
+  },
+  {
+   "date": "2022-11-12",
+   "section": "Culture",
+   "headline": "Irad Cup final held at Silk Road Arena"
+  },
+  {
+   "date": "2022-11-26",
+   "section": "Business",
+   "headline": "Zhetysu textile workers sign new contract"
+  },
+  {
+   "date": "2022-12-03",
+   "section": "Sport",
+   "headline": "Universitet Talas win Women's League"
+  },
+  {
+   "date": "2022-12-07",
+   "section": "News",
+   "headline": "Council reviews winter road clearing"
+  },
+  {
+   "date": "2022-12-14",
+   "section": "Courts",
+   "headline": "Talas court closes year with boundary rulings"
+  },
+  {
+   "date": "2022-12-17",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky gala held in Talas"
+  },
+  {
+   "date": "2022-12-21",
+   "section": "Across Irad",
+   "headline": "Ayaz Ata's Sack toy drive passes 20,000 gifts"
+  },
+  {
+   "date": "2022-12-28",
+   "section": "News",
+   "headline": "Mejlis passes 2023 budget"
+  }
+ ]
+}

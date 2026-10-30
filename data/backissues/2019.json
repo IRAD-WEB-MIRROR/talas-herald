@@ -1,0 +1,346 @@
+{
+ "outlet": "herald",
+ "year": 2019,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2019-01-04",
+   "section": "News",
+   "headline": "Schools reopen after the New Year break with heating checks"
+  },
+  {
+   "date": "2019-01-09",
+   "section": "Business",
+   "headline": "Bread prices hold as Talas Nan Kombinatı renews flour contracts"
+  },
+  {
+   "date": "2019-01-12",
+   "section": "Across Irad",
+   "headline": "Snow closes the Kök-Bel road for a day"
+  },
+  {
+   "date": "2019-01-17",
+   "section": "Sport",
+   "headline": "Tulpar Talas begin winter training at the Silk Road Arena"
+  },
+  {
+   "date": "2019-01-22",
+   "section": "Courts",
+   "headline": "Talas District Court hears dispute over market stall rents"
+  },
+  {
+   "date": "2019-01-26",
+   "section": "Culture",
+   "headline": "Winter exhibition opens at the Irad Palace of Art"
+  },
+  {
+   "date": "2019-01-31",
+   "section": "News",
+   "headline": "Regional Hospital reports record winter flu admissions"
+  },
+  {
+   "date": "2019-02-05",
+   "section": "Business",
+   "headline": "Talasbank extends branch hours for pension week"
+  },
+  {
+   "date": "2019-02-09",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr marks Winter Uprising memorial with a candle march"
+  },
+  {
+   "date": "2019-02-14",
+   "section": "News",
+   "headline": "Talas mayor presents road repair list for spring"
+  },
+  {
+   "date": "2019-02-19",
+   "section": "Sport",
+   "headline": "Ulak players prepare for the spring tournament"
+  },
+  {
+   "date": "2019-02-23",
+   "section": "Culture",
+   "headline": "Iradi Dress Day draws students to Central Square"
+  },
+  {
+   "date": "2019-02-28",
+   "section": "Business",
+   "headline": "Talas Dairy Processing Combine adds a second collection route"
+  },
+  {
+   "date": "2019-03-06",
+   "section": "News",
+   "headline": "Irad Day preparations begin at Government House"
+  },
+  {
+   "date": "2019-03-09",
+   "section": "Sport",
+   "headline": "Neftchi Nurzhan open the season with a home win"
+  },
+  {
+   "date": "2019-03-18",
+   "section": "Culture",
+   "headline": "Children's Fund fair raises money for hospital wards"
+  },
+  {
+   "date": "2019-03-21",
+   "section": "Across Irad",
+   "headline": "Navruz fires lit in Bazar-Korgon"
+  },
+  {
+   "date": "2019-03-27",
+   "section": "Business",
+   "headline": "Farmers begin spring sowing in the Chu oasis"
+  },
+  {
+   "date": "2019-04-02",
+   "section": "Courts",
+   "headline": "Supreme Court sets calendar for spring sittings"
+  },
+  {
+   "date": "2019-04-06",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi share points in the first derby"
+  },
+  {
+   "date": "2019-04-20",
+   "section": "Culture",
+   "headline": "Holy Week services fill St. Tomas, Talas"
+  },
+  {
+   "date": "2019-04-24",
+   "section": "News",
+   "headline": "Mejlis opens debate on the ISEZ budget report"
+  },
+  {
+   "date": "2019-04-27",
+   "section": "Across Irad",
+   "headline": "Apricot orchards in bloom along the Naryn"
+  },
+  {
+   "date": "2019-05-02",
+   "section": "Business",
+   "headline": "Iradenergo says Toktogul reservoir is above last year's level"
+  },
+  {
+   "date": "2019-05-08",
+   "section": "News",
+   "headline": "Victory Day parade held in Nurzhan, muted in Talas"
+  },
+  {
+   "date": "2019-05-14",
+   "section": "Sport",
+   "headline": "Neftchi lead the table after round ten"
+  },
+  {
+   "date": "2019-05-18",
+   "section": "Culture",
+   "headline": "Museum Night opens the Old City citadel after dark"
+  },
+  {
+   "date": "2019-05-25",
+   "section": "Across Irad",
+   "headline": "Shepherds drive flocks up to the Aksay Plateau"
+  },
+  {
+   "date": "2019-05-30",
+   "section": "Business",
+   "headline": "Talas bazaar traders report slow spring sales"
+  },
+  {
+   "date": "2019-06-01",
+   "section": "News",
+   "headline": "Children's Day fair in Central City Park draws thousands"
+  },
+  {
+   "date": "2019-06-08",
+   "section": "Courts",
+   "headline": "Court fines Talas contractor over unsafe scaffolding"
+  },
+  {
+   "date": "2019-06-15",
+   "section": "Sport",
+   "headline": "Irad Cup quarter-finals set for Silk Road Arena"
+  },
+  {
+   "date": "2019-06-20",
+   "section": "Business",
+   "headline": "Wool prices firm at the Talas market"
+  },
+  {
+   "date": "2019-06-22",
+   "section": "Across Irad",
+   "headline": "Heat wave dries irrigation canals in Chu District"
+  },
+  {
+   "date": "2019-07-04",
+   "section": "News",
+   "headline": "Heat advisory issued for Talas and Nurzhan"
+  },
+  {
+   "date": "2019-07-09",
+   "section": "Business",
+   "headline": "Beef exports rise in the first half, SuKarne says"
+  },
+  {
+   "date": "2019-07-13",
+   "section": "Culture",
+   "headline": "Open-air concert closes Talas summer festival"
+  },
+  {
+   "date": "2019-07-18",
+   "section": "Sport",
+   "headline": "Tulpar beat Attelkom Talas in a midweek match"
+  },
+  {
+   "date": "2019-07-24",
+   "section": "Across Irad",
+   "headline": "Kymyz season in full swing above Orto-Ayyl"
+  },
+  {
+   "date": "2019-07-31",
+   "section": "News",
+   "headline": "Sary-Say mudflow victims remembered on the anniversary"
+  },
+  {
+   "date": "2019-08-06",
+   "section": "Business",
+   "headline": "Kara-Bulak maize station reports early harvest"
+  },
+  {
+   "date": "2019-08-10",
+   "section": "Courts",
+   "headline": "Talas court hears appeal in a land boundary case"
+  },
+  {
+   "date": "2019-08-14",
+   "section": "News",
+   "headline": "Flags at half-mast for the Lost Tribes of 1916"
+  },
+  {
+   "date": "2019-08-23",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl pilgrims reach Iyık Janyl"
+  },
+  {
+   "date": "2019-08-29",
+   "section": "Sport",
+   "headline": "Hippodrome opens racing season with long-distance race"
+  },
+  {
+   "date": "2019-09-02",
+   "section": "News",
+   "headline": "New school year begins with free textbooks in Talas"
+  },
+  {
+   "date": "2019-09-07",
+   "section": "Business",
+   "headline": "Apple glut pushes Chu prices to three som a kilo"
+  },
+  {
+   "date": "2019-09-11",
+   "section": "Across Irad",
+   "headline": "Walnut harvest begins in the Chatkal valley"
+  },
+  {
+   "date": "2019-09-17",
+   "section": "Culture",
+   "headline": "Talas State University welcomes first-year students"
+  },
+  {
+   "date": "2019-09-25",
+   "section": "Sport",
+   "headline": "Neftchi hold narrow lead with five rounds left"
+  },
+  {
+   "date": "2019-09-28",
+   "section": "News",
+   "headline": "Heating season to start on 15 October, city says"
+  },
+  {
+   "date": "2019-10-02",
+   "section": "Business",
+   "headline": "Talas Dairy Processing Combine closes the kymyz season"
+  },
+  {
+   "date": "2019-10-09",
+   "section": "Across Irad",
+   "headline": "Sheep sales open at Bazar-Korgon market"
+  },
+  {
+   "date": "2019-10-16",
+   "section": "News",
+   "headline": "Boilers tested across Talas ahead of heating start"
+  },
+  {
+   "date": "2019-10-19",
+   "section": "Culture",
+   "headline": "Autumn art show opens in Iyık Janyl"
+  },
+  {
+   "date": "2019-10-30",
+   "section": "Courts",
+   "headline": "Court hears Tulpar-name claim by club owners",
+   "flags": [
+    "not in canon: Tulpar-name"
+   ]
+  },
+  {
+   "date": "2019-11-02",
+   "section": "Sport",
+   "headline": "Kara-Ak derby ends the league season at NurGaz Stadium"
+  },
+  {
+   "date": "2019-11-06",
+   "section": "Business",
+   "headline": "Mejlis receives the 2020 budget draft"
+  },
+  {
+   "date": "2019-11-09",
+   "section": "News",
+   "headline": "First snow falls on the Talas Alatau"
+  },
+  {
+   "date": "2019-11-13",
+   "section": "Across Irad",
+   "headline": "Warm Winter coats handed out in Kyzyl-Adyr"
+  },
+  {
+   "date": "2019-11-23",
+   "section": "Courts",
+   "headline": "Talas judge hears dispute over a bazaar kiosk lease"
+  },
+  {
+   "date": "2019-11-30",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards announced for December"
+  },
+  {
+   "date": "2019-12-05",
+   "section": "Business",
+   "headline": "Hay prices rise in valley markets"
+  },
+  {
+   "date": "2019-12-10",
+   "section": "News",
+   "headline": "Mejlis passes the 2020 budget"
+  },
+  {
+   "date": "2019-12-14",
+   "section": "Sport",
+   "headline": "Irad Cup winners honoured at the Hippodrome"
+  },
+  {
+   "date": "2019-12-20",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky ceremony crowns Karakush again"
+  },
+  {
+   "date": "2019-12-28",
+   "section": "News",
+   "headline": "Children's Fund ball raises money for the winter programmes"
+  }
+ ]
+}

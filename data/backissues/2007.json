@@ -1,0 +1,488 @@
+{
+ "outlet": "herald",
+ "year": 2007,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:13Z",
+ "items": [
+  {
+   "date": "2007-01-02",
+   "section": "News",
+   "headline": "New Year holiday passes quietly across the valleys"
+  },
+  {
+   "date": "2007-01-04",
+   "section": "Business",
+   "headline": "Talas bread combine holds loaf price for winter"
+  },
+  {
+   "date": "2007-01-06",
+   "section": "Culture",
+   "headline": "Christmas liturgies draw crowds to St. Yuhanna in the Old City"
+  },
+  {
+   "date": "2007-01-09",
+   "section": "News",
+   "headline": "Heating mains repaired in western Talas after cold snap"
+  },
+  {
+   "date": "2007-01-12",
+   "section": "Business",
+   "headline": "Last territorial budget accounts filed at Government House"
+  },
+  {
+   "date": "2007-01-16",
+   "section": "Sport",
+   "headline": "Tulpar Talas begin winter training at Silk Road Arena"
+  },
+  {
+   "date": "2007-01-19",
+   "section": "Across Irad",
+   "headline": "Epiphany water blessed on the Talas river"
+  },
+  {
+   "date": "2007-01-23",
+   "section": "News",
+   "headline": "Snow closes Fergana Gateway for a day"
+  },
+  {
+   "date": "2007-01-27",
+   "section": "Business",
+   "headline": "Wool prices firm at Bazar-i Kalan"
+  },
+  {
+   "date": "2007-01-31",
+   "section": "Courts",
+   "headline": "Talas court hears dispute over market stall leases"
+  },
+  {
+   "date": "2007-02-03",
+   "section": "News",
+   "headline": "Winter Uprising memorial flags lowered to half-mast"
+  },
+  {
+   "date": "2007-02-07",
+   "section": "Culture",
+   "headline": "Conservatory students give chamber concert in Talas"
+  },
+  {
+   "date": "2007-02-10",
+   "section": "Business",
+   "headline": "Cotton ginners sign spring contracts on the Fergana rim"
+  },
+  {
+   "date": "2007-02-14",
+   "section": "News",
+   "headline": "Talas schools extend winter break after heating fault"
+  },
+  {
+   "date": "2007-02-17",
+   "section": "Sport",
+   "headline": "Ulak teams finish winter exhibition series"
+  },
+  {
+   "date": "2007-02-21",
+   "section": "World",
+   "headline": "Kazakh border officials confirm crossings remain open"
+  },
+  {
+   "date": "2007-02-28",
+   "section": "News",
+   "headline": "Talas shops stock up as Nurzhan announcement unsettles prices"
+  },
+  {
+   "date": "2007-03-03",
+   "section": "Business",
+   "headline": "Dollar buyers queue at Talasbank branches"
+  },
+  {
+   "date": "2007-03-07",
+   "section": "News",
+   "headline": "Writers, actors and clergy sign open letter asking both sides to spare Talas"
+  },
+  {
+   "date": "2007-03-10",
+   "section": "Business",
+   "headline": "Talasbank limits some cash withdrawals"
+  },
+  {
+   "date": "2007-03-10",
+   "section": "News",
+   "headline": "Irad Day marked without the usual receptions"
+  },
+  {
+   "date": "2007-03-14",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr market quiet as families stay home"
+  },
+  {
+   "date": "2007-03-20",
+   "section": "Culture",
+   "headline": "Navruz tables set in Talas courtyards despite tension"
+  },
+  {
+   "date": "2007-03-24",
+   "section": "News",
+   "headline": "Marshrutka fares unchanged as fuel supplies tighten"
+  },
+  {
+   "date": "2007-03-28",
+   "section": "Business",
+   "headline": "Blackwater contractors seen on Shymkent road, Nurzhan sources say"
+  },
+  {
+   "date": "2007-04-03",
+   "section": "Business",
+   "headline": "Spring sowing begins in lower Talas valley"
+  },
+  {
+   "date": "2007-04-07",
+   "section": "Culture",
+   "headline": "Palm Sunday processions held in Iyık Janyl"
+  },
+  {
+   "date": "2007-04-12",
+   "section": "News",
+   "headline": "Water cuts hit Talas outer districts"
+  },
+  {
+   "date": "2007-04-16",
+   "section": "Opinion",
+   "headline": "Spare the city, whoever holds the keys"
+  },
+  {
+   "date": "2007-04-19",
+   "section": "News",
+   "headline": "Popular Front riders ring Talas"
+  },
+  {
+   "date": "2007-04-21",
+   "section": "News",
+   "headline": "Talas bakeries ration flour as the Front invests the city"
+  },
+  {
+   "date": "2007-04-26",
+   "section": "Business",
+   "headline": "Feedlots near Talas cut deliveries"
+  },
+  {
+   "date": "2007-04-28",
+   "section": "Culture",
+   "headline": "Easter vigil held with doors shut in Talas"
+  },
+  {
+   "date": "2007-05-03",
+   "section": "News",
+   "headline": "Clinics report shortage of dressings"
+  },
+  {
+   "date": "2007-05-08",
+   "section": "Across Irad",
+   "headline": "Villagers flee Kara-Buura after shelling"
+  },
+  {
+   "date": "2007-05-12",
+   "section": "News",
+   "headline": "Kara-Buura villages hit by artillery, residents say"
+  },
+  {
+   "date": "2007-05-16",
+   "section": "News",
+   "headline": "Parishes issue bread cards to families in Talas"
+  },
+  {
+   "date": "2007-05-19",
+   "section": "Business",
+   "headline": "Bazar-i Kalan traders sell what stock remains"
+  },
+  {
+   "date": "2007-05-24",
+   "section": "News",
+   "headline": "Water tankers reach hospitals under escort"
+  },
+  {
+   "date": "2007-05-30",
+   "section": "Opinion",
+   "headline": "The long wait for a ceasefire"
+  },
+  {
+   "date": "2007-06-04",
+   "section": "News",
+   "headline": "Popular Front storms Talas"
+  },
+  {
+   "date": "2007-06-05",
+   "section": "News",
+   "headline": "Democratic Republic government dissolved after Front takes the city"
+  },
+  {
+   "date": "2007-06-06",
+   "section": "News",
+   "headline": "Talas counts its dead and waits for order"
+  },
+  {
+   "date": "2007-06-08",
+   "section": "Across Irad",
+   "headline": "Merke residents report arrests along the Chu line"
+  },
+  {
+   "date": "2007-06-12",
+   "section": "Business",
+   "headline": "Shops reopen on Liberty Boulevard"
+  },
+  {
+   "date": "2007-06-16",
+   "section": "News",
+   "headline": "Power restored to most Talas districts"
+  },
+  {
+   "date": "2007-06-20",
+   "section": "Business",
+   "headline": "Pensions paid at post offices in Talas"
+  },
+  {
+   "date": "2007-06-26",
+   "section": "News",
+   "headline": "Fresh water supplies resume in the Old City"
+  },
+  {
+   "date": "2007-07-03",
+   "section": "Culture",
+   "headline": "Churches hold thanksgiving services after the fighting"
+  },
+  {
+   "date": "2007-07-07",
+   "section": "Business",
+   "headline": "Talasbank branches reopen with dollar limits"
+  },
+  {
+   "date": "2007-07-12",
+   "section": "News",
+   "headline": "Depot armour seen moving along the Chu line"
+  },
+  {
+   "date": "2007-07-14",
+   "section": "News",
+   "headline": "State Defense Corps formed from territorial Guard units"
+  },
+  {
+   "date": "2007-07-17",
+   "section": "Across Irad",
+   "headline": "Fighting reported near Aulie-Ata junction"
+  },
+  {
+   "date": "2007-07-21",
+   "section": "News",
+   "headline": "Mi-24s seen over the Chu plain"
+  },
+  {
+   "date": "2007-07-25",
+   "section": "Business",
+   "headline": "Chu farmers harvest wheat despite shortages"
+  },
+  {
+   "date": "2007-07-30",
+   "section": "World",
+   "headline": "Kazakhstan says border stays closed to traffic"
+  },
+  {
+   "date": "2007-08-02",
+   "section": "Across Irad",
+   "headline": "Aulie-Ata junction changes hands again"
+  },
+  {
+   "date": "2007-08-06",
+   "section": "News",
+   "headline": "Executive directive reorganises the administration"
+  },
+  {
+   "date": "2007-08-11",
+   "section": "News",
+   "headline": "Gendarmerie sweeps villages for hidden rifles"
+  },
+  {
+   "date": "2007-08-14",
+   "section": "Across Irad",
+   "headline": "Lowland Chubar elders meet at Bazar-Korgon bazaar"
+  },
+  {
+   "date": "2007-08-16",
+   "section": "Across Irad",
+   "headline": "Bazar-Korgon elders declare for the Zone"
+  },
+  {
+   "date": "2007-08-22",
+   "section": "Business",
+   "headline": "Walnut buyers return to Bazar-Korgon"
+  },
+  {
+   "date": "2007-08-25",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl observed in Iyık Janyl"
+  },
+  {
+   "date": "2007-08-29",
+   "section": "News",
+   "headline": "Schools prepare for 1 September under tight rules"
+  },
+  {
+   "date": "2007-09-01",
+   "section": "News",
+   "headline": "Children return to school in Talas"
+  },
+  {
+   "date": "2007-09-05",
+   "section": "Business",
+   "headline": "Apple harvest begins in Chu orchards"
+  },
+  {
+   "date": "2007-09-10",
+   "section": "World",
+   "headline": "Ceasefire talks open in Bishkek"
+  },
+  {
+   "date": "2007-09-13",
+   "section": "News",
+   "headline": "Bishkek Ceasefire signed"
+  },
+  {
+   "date": "2007-09-15",
+   "section": "News",
+   "headline": "Line stakes still being moved on the steppe, herders say"
+  },
+  {
+   "date": "2007-09-20",
+   "section": "Opinion",
+   "headline": "A ceasefire is not yet a peace"
+  },
+  {
+   "date": "2007-09-24",
+   "section": "Business",
+   "headline": "Sheep sales open on the steppe"
+  },
+  {
+   "date": "2007-09-27",
+   "section": "Across Irad",
+   "headline": "Families wait at checkpoints to cross the line"
+  },
+  {
+   "date": "2007-10-02",
+   "section": "Sport",
+   "headline": "Neftchi lead Tulpar after autumn rounds"
+  },
+  {
+   "date": "2007-10-05",
+   "section": "Business",
+   "headline": "Cotton picking starts on the Fergana rim"
+  },
+  {
+   "date": "2007-10-10",
+   "section": "News",
+   "headline": "Talas schools mark independence anniversary quietly"
+  },
+  {
+   "date": "2007-10-13",
+   "section": "Across Irad",
+   "headline": "Observers prepare for arrival at Kara-Oi"
+  },
+  {
+   "date": "2007-10-18",
+   "section": "News",
+   "headline": "UN mission begins work at Kara-Oi"
+  },
+  {
+   "date": "2007-10-20",
+   "section": "News",
+   "headline": "First UN observers reach the line"
+  },
+  {
+   "date": "2007-10-24",
+   "section": "Courts",
+   "headline": "Tribunal opens against former defense minister"
+  },
+  {
+   "date": "2007-10-27",
+   "section": "News",
+   "headline": "Prisoner exchange talks continue through the ICRC"
+  },
+  {
+   "date": "2007-10-31",
+   "section": "Culture",
+   "headline": "Talas concert hall reopens after repairs"
+  },
+  {
+   "date": "2007-11-05",
+   "section": "Opinion",
+   "headline": "The case for a civilian court"
+  },
+  {
+   "date": "2007-11-08",
+   "section": "Business",
+   "headline": "Heating season starts with fuel stocks low"
+  },
+  {
+   "date": "2007-11-12",
+   "section": "News",
+   "headline": "Talas district heating switched on"
+  },
+  {
+   "date": "2007-11-15",
+   "section": "News",
+   "headline": "Red Cross reports on the missing"
+  },
+  {
+   "date": "2007-11-19",
+   "section": "Sport",
+   "headline": "Irad Cup final played at Silk Road Arena"
+  },
+  {
+   "date": "2007-11-24",
+   "section": "News",
+   "headline": "Prisoners exchanged at Qara-Chik checkpoint"
+  },
+  {
+   "date": "2007-11-28",
+   "section": "Business",
+   "headline": "Winter wheat sown across the valley"
+  },
+  {
+   "date": "2007-12-04",
+   "section": "Business",
+   "headline": "Bread price steady as flour deliveries resume"
+  },
+  {
+   "date": "2007-12-08",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards held in Talas"
+  },
+  {
+   "date": "2007-12-12",
+   "section": "News",
+   "headline": "Talas council passes winter relief budget"
+  },
+  {
+   "date": "2007-12-15",
+   "section": "Across Irad",
+   "headline": "Villages prepare for first winter since the fighting"
+  },
+  {
+   "date": "2007-12-19",
+   "section": "Business",
+   "headline": "Antimony shipments to China resume"
+  },
+  {
+   "date": "2007-12-22",
+   "section": "Culture",
+   "headline": "Christmas fast observed across the parishes"
+  },
+  {
+   "date": "2007-12-27",
+   "section": "Business",
+   "headline": "Year ends with dollar cash still scarce"
+  },
+  {
+   "date": "2007-12-31",
+   "section": "Opinion",
+   "headline": "A year Talas will not forget"
+  }
+ ]
+}

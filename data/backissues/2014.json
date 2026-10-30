@@ -1,0 +1,333 @@
+{
+ "outlet": "herald",
+ "year": 2014,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2014-01-04",
+   "section": "News",
+   "headline": "Talas shops return to work after holidays"
+  },
+  {
+   "date": "2014-01-09",
+   "section": "Business",
+   "headline": "Winter hay prices rise in the valleys"
+  },
+  {
+   "date": "2014-01-14",
+   "section": "Across Irad",
+   "headline": "Cold snap tests Iradenergo grid"
+  },
+  {
+   "date": "2014-01-18",
+   "section": "Culture",
+   "headline": "Epiphany waters blessed at Talas river"
+  },
+  {
+   "date": "2014-01-23",
+   "section": "Sport",
+   "headline": "Indoor football tournament draws city clubs"
+  },
+  {
+   "date": "2014-01-29",
+   "section": "News",
+   "headline": "Councillors hear report on school heating"
+  },
+  {
+   "date": "2014-02-04",
+   "section": "Business",
+   "headline": "Talasbank extends branch hours in Nurzhan"
+  },
+  {
+   "date": "2014-02-08",
+   "section": "Across Irad",
+   "headline": "Snow closes Kök-Bel road for a day"
+  },
+  {
+   "date": "2014-02-13",
+   "section": "Courts",
+   "headline": "Talas court hears dispute over market stall rent"
+  },
+  {
+   "date": "2014-02-18",
+   "section": "Culture",
+   "headline": "Dress Day photos fill Talas streets"
+  },
+  {
+   "date": "2014-02-22",
+   "section": "News",
+   "headline": "Water service checks canal intakes before spring"
+  },
+  {
+   "date": "2014-02-27",
+   "section": "Sport",
+   "headline": "Irad League preseason friendlies conclude"
+  },
+  {
+   "date": "2014-03-04",
+   "section": "Business",
+   "headline": "Bereke opens branch in Iyık Janyl"
+  },
+  {
+   "date": "2014-03-08",
+   "section": "News",
+   "headline": "Women's Day marked with school concerts"
+  },
+  {
+   "date": "2014-03-13",
+   "section": "Culture",
+   "headline": "Irad Palace of Art opens new exhibition room"
+  },
+  {
+   "date": "2014-03-18",
+   "section": "Across Irad",
+   "headline": "Spring thaw reaches Chu lowlands"
+  },
+  {
+   "date": "2014-03-29",
+   "section": "Sport",
+   "headline": "Tulpar opens league season at Silk Road Arena"
+  },
+  {
+   "date": "2014-04-03",
+   "section": "News",
+   "headline": "Liberty Boulevard repairs resume"
+  },
+  {
+   "date": "2014-04-09",
+   "section": "Business",
+   "headline": "Seed sales brisk at Kara-Bulak station"
+  },
+  {
+   "date": "2014-04-14",
+   "section": "Culture",
+   "headline": "Holy Week services begin in Talas"
+  },
+  {
+   "date": "2014-04-19",
+   "section": "News",
+   "headline": "Easter market crowds Bazar-i Kalan"
+  },
+  {
+   "date": "2014-04-24",
+   "section": "Across Irad",
+   "headline": "Lambing finishes in the Talas Alatau"
+  },
+  {
+   "date": "2014-04-30",
+   "section": "Sport",
+   "headline": "Neftchi lead after round five"
+  },
+  {
+   "date": "2014-05-06",
+   "section": "Courts",
+   "headline": "Judge hears case over unpaid contractor wages"
+  },
+  {
+   "date": "2014-05-10",
+   "section": "Business",
+   "headline": "Beef cold chain expands at Talas packing plant"
+  },
+  {
+   "date": "2014-05-16",
+   "section": "News",
+   "headline": "Heavy rain closes low road near Kyzyl-Adyr"
+  },
+  {
+   "date": "2014-05-21",
+   "section": "Culture",
+   "headline": "Spring concert season opens in Central City Park"
+  },
+  {
+   "date": "2014-05-28",
+   "section": "Across Irad",
+   "headline": "Kymyz herders move to summer pasture"
+  },
+  {
+   "date": "2014-06-03",
+   "section": "News",
+   "headline": "Graduation season begins at schools"
+  },
+  {
+   "date": "2014-06-07",
+   "section": "Business",
+   "headline": "Talas Süt reports rising milk intake"
+  },
+  {
+   "date": "2014-06-12",
+   "section": "Sport",
+   "headline": "Women's League midseason table"
+  },
+  {
+   "date": "2014-06-18",
+   "section": "Across Irad",
+   "headline": "Hay cutting starts in Chu villages"
+  },
+  {
+   "date": "2014-06-30",
+   "section": "News",
+   "headline": "Heat advisory issued for the valleys"
+  },
+  {
+   "date": "2014-07-05",
+   "section": "Culture",
+   "headline": "Summer festival opens at the Hippodrome"
+  },
+  {
+   "date": "2014-07-10",
+   "section": "Business",
+   "headline": "Apricot buyers arrive on the Fergana rim"
+  },
+  {
+   "date": "2014-07-19",
+   "section": "News",
+   "headline": "Water rota set for Talas districts"
+  },
+  {
+   "date": "2014-07-24",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi stay close at the top"
+  },
+  {
+   "date": "2014-07-30",
+   "section": "Courts",
+   "headline": "Supreme Court registers new civil appeals"
+  },
+  {
+   "date": "2014-08-05",
+   "section": "Across Irad",
+   "headline": "Kurultai week begins on the Aksay Plateau"
+  },
+  {
+   "date": "2014-08-09",
+   "section": "Business",
+   "headline": "Cotton gins prepare for harvest"
+  },
+  {
+   "date": "2014-08-14",
+   "section": "News",
+   "headline": "Pilgrims travel to Iyık Janyl for the feast"
+  },
+  {
+   "date": "2014-08-23",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl observed in the holy city"
+  },
+  {
+   "date": "2014-08-28",
+   "section": "News",
+   "headline": "Schools prepare for 1 September"
+  },
+  {
+   "date": "2014-09-02",
+   "section": "News",
+   "headline": "New school year opens across the ISEZ"
+  },
+  {
+   "date": "2014-09-06",
+   "section": "Sport",
+   "headline": "Ulak league autumn season announced"
+  },
+  {
+   "date": "2014-09-11",
+   "section": "Business",
+   "headline": "Wheat prices set for Chu farms"
+  },
+  {
+   "date": "2014-09-16",
+   "section": "Across Irad",
+   "headline": "Walnut picking starts in the Chatkal forests"
+  },
+  {
+   "date": "2014-09-20",
+   "section": "Culture",
+   "headline": "Talas State University welcomes first-years"
+  },
+  {
+   "date": "2014-09-25",
+   "section": "News",
+   "headline": "Road crews begin autumn repairs"
+  },
+  {
+   "date": "2014-10-04",
+   "section": "Sport",
+   "headline": "Highland ulak division opens at the Hippodrome"
+  },
+  {
+   "date": "2014-10-09",
+   "section": "Business",
+   "headline": "Bazar-Korgon walnut market opens"
+  },
+  {
+   "date": "2014-10-15",
+   "section": "News",
+   "headline": "Heating readiness checked across Talas"
+  },
+  {
+   "date": "2014-10-25",
+   "section": "Sport",
+   "headline": "Kara-Ak derby ends in a draw"
+  },
+  {
+   "date": "2014-10-30",
+   "section": "Across Irad",
+   "headline": "First snow settles on the Kök-Bel pass"
+  },
+  {
+   "date": "2014-11-05",
+   "section": "News",
+   "headline": "Mejlis receives draft budget for 2015"
+  },
+  {
+   "date": "2014-11-11",
+   "section": "Business",
+   "headline": "Bank of Irad holds the rate at 8.40"
+  },
+  {
+   "date": "2014-11-15",
+   "section": "Culture",
+   "headline": "Autumn exhibition opens at the Palace of Art"
+  },
+  {
+   "date": "2014-11-20",
+   "section": "News",
+   "headline": "Heating switched on in schools and hospitals"
+  },
+  {
+   "date": "2014-11-26",
+   "section": "Sport",
+   "headline": "Irad Cup final set for Silk Road Arena"
+  },
+  {
+   "date": "2014-12-02",
+   "section": "Courts",
+   "headline": "Talas court rules on Old City tenancy case"
+  },
+  {
+   "date": "2014-12-08",
+   "section": "News",
+   "headline": "Mejlis passes the 2015 budget"
+  },
+  {
+   "date": "2014-12-12",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards week begins"
+  },
+  {
+   "date": "2014-12-17",
+   "section": "Across Irad",
+   "headline": "Snow cuts hay supply to Chatkal villages"
+  },
+  {
+   "date": "2014-12-22",
+   "section": "News",
+   "headline": "Warm Winter coats reach Talas schools"
+  },
+  {
+   "date": "2014-12-27",
+   "section": "Culture",
+   "headline": "Christmas liturgies prepared in Talas parishes"
+  }
+ ]
+}

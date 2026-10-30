@@ -1,0 +1,662 @@
+{
+ "outlet": "herald",
+ "year": 1999,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:12Z",
+ "items": [
+  {
+   "date": "1999-01-04",
+   "section": "News",
+   "headline": "Ermatov's government sets January agenda for territorial legislature"
+  },
+  {
+   "date": "1999-01-05",
+   "section": "News",
+   "headline": "Lieutenant Governor Duishonkulov sworn in at Government House"
+  },
+  {
+   "date": "1999-01-07",
+   "section": "Culture",
+   "headline": "Orthodox and Syro-Iradi Christmas observed across Talas",
+   "flags": [
+    "not in canon: Syro-Iradi Christmas"
+   ]
+  },
+  {
+   "date": "1999-01-09",
+   "section": "Business",
+   "headline": "Talasbank reports record dollar deposits for 1998"
+  },
+  {
+   "date": "1999-01-12",
+   "section": "Across Irad",
+   "headline": "Heating pipes burst in Kara-Buura villages after cold snap"
+  },
+  {
+   "date": "1999-01-14",
+   "section": "News",
+   "headline": "City council approves winter road-clearing budget"
+  },
+  {
+   "date": "1999-01-16",
+   "section": "Sport",
+   "headline": "Talas youth league resumes indoors after holiday break"
+  },
+  {
+   "date": "1999-01-19",
+   "section": "Culture",
+   "headline": "Epiphany blessing of the waters held at Talas river"
+  },
+  {
+   "date": "1999-01-21",
+   "section": "Business",
+   "headline": "Attelkom privatisation: first year of private ownership reviewed"
+  },
+  {
+   "date": "1999-01-23",
+   "section": "World",
+   "headline": "Kazakh border crossings report busier winter trade"
+  },
+  {
+   "date": "1999-01-26",
+   "section": "Courts",
+   "headline": "Talas District Court hears land-lease dispute in Kyzyl-Adyr"
+  },
+  {
+   "date": "1999-01-28",
+   "section": "News",
+   "headline": "Territorial Department of Education announces spring exam dates"
+  },
+  {
+   "date": "1999-02-01",
+   "section": "Business",
+   "headline": "SuKarne cattle shipments steady despite cold weather"
+  },
+  {
+   "date": "1999-02-03",
+   "section": "Across Irad",
+   "headline": "Winter Uprising anniversary marked on 3 February"
+  },
+  {
+   "date": "1999-02-05",
+   "section": "News",
+   "headline": "Flags at half-mast for Winter Uprising memorial"
+  },
+  {
+   "date": "1999-02-08",
+   "section": "Culture",
+   "headline": "Talas Philharmonic winter season opens with Iradi folk programme"
+  },
+  {
+   "date": "1999-02-10",
+   "section": "Sport",
+   "headline": "Talas teams advance in territorial indoor tournament"
+  },
+  {
+   "date": "1999-02-12",
+   "section": "Business",
+   "headline": "Wool prices firm at Bazar-i Kalan"
+  },
+  {
+   "date": "1999-02-15",
+   "section": "News",
+   "headline": "Snow closes Kök-Bel road for two days"
+  },
+  {
+   "date": "1999-02-18",
+   "section": "Courts",
+   "headline": "Appeal in fuel-theft case heard at territorial Supreme Court"
+  },
+  {
+   "date": "1999-02-20",
+   "section": "Across Irad",
+   "headline": "Chu farmers ask for earlier irrigation schedule"
+  },
+  {
+   "date": "1999-02-23",
+   "section": "World",
+   "headline": "Kyrgyz officials discuss Talas river water sharing"
+  },
+  {
+   "date": "1999-02-26",
+   "section": "Culture",
+   "headline": "Iradi State University hosts lecture on Kokand charter"
+  },
+  {
+   "date": "1999-03-01",
+   "section": "News",
+   "headline": "Preparations begin for Irad Day on 11 March"
+  },
+  {
+   "date": "1999-03-04",
+   "section": "Business",
+   "headline": "Spring planting loans offered by territorial agriculture office"
+  },
+  {
+   "date": "1999-03-06",
+   "section": "Sport",
+   "headline": "Spring football friendlies begin in Talas"
+  },
+  {
+   "date": "1999-03-09",
+   "section": "News",
+   "headline": "Central Square readied for Irad Day parade"
+  },
+  {
+   "date": "1999-03-11",
+   "section": "News",
+   "headline": "Irad Day: celebrations held across the territory"
+  },
+  {
+   "date": "1999-03-13",
+   "section": "Culture",
+   "headline": "Irad Day concert fills Talas Opera and Ballet Theater"
+  },
+  {
+   "date": "1999-03-15",
+   "section": "Opinion",
+   "headline": "Six years of the Herald: a word to readers"
+  },
+  {
+   "date": "1999-03-17",
+   "section": "Across Irad",
+   "headline": "Nurzhan marks Irad Day with refinery open house"
+  },
+  {
+   "date": "1999-03-20",
+   "section": "Courts",
+   "headline": "Judge fines trader for selling unlicensed goods at bazaar"
+  },
+  {
+   "date": "1999-03-23",
+   "section": "Business",
+   "headline": "Talas Dairy Combine reports higher milk intake",
+   "flags": [
+    "not in canon: Dairy Combine"
+   ]
+  },
+  {
+   "date": "1999-03-26",
+   "section": "News",
+   "headline": "Road crews begin patching Trans-Talas Highway"
+  },
+  {
+   "date": "1999-03-29",
+   "section": "Sport",
+   "headline": "Irad League season set to open in April"
+  },
+  {
+   "date": "1999-04-01",
+   "section": "News",
+   "headline": "Territorial legislature debates highway budget"
+  },
+  {
+   "date": "1999-04-03",
+   "section": "Culture",
+   "headline": "Lent observances begin in Syro-Iradi parishes"
+  },
+  {
+   "date": "1999-04-06",
+   "section": "Across Irad",
+   "headline": "Lambing season under way in the Talas Alatau foothills"
+  },
+  {
+   "date": "1999-04-08",
+   "section": "Business",
+   "headline": "Cotton planting contracts signed on Fergana rim"
+  },
+  {
+   "date": "1999-04-10",
+   "section": "Sport",
+   "headline": "Irad League opens: Neftchi wins at home"
+  },
+  {
+   "date": "1999-04-13",
+   "section": "News",
+   "headline": "Territorial Power Authority reports Toktogul reservoir levels"
+  },
+  {
+   "date": "1999-04-15",
+   "section": "Courts",
+   "headline": "Customs fraud case sent to trial in Talas"
+  },
+  {
+   "date": "1999-04-17",
+   "section": "Culture",
+   "headline": "Palm Sunday processions held in Talas churches"
+  },
+  {
+   "date": "1999-04-20",
+   "section": "World",
+   "headline": "Kazakh delegation visits Talas Agribusiness Export Zone"
+  },
+  {
+   "date": "1999-04-22",
+   "section": "News",
+   "headline": "Easter preparations fill Bazar-i Kalan"
+  },
+  {
+   "date": "1999-04-24",
+   "section": "Culture",
+   "headline": "Easter vigil celebrated at Church of St. Yuhanna"
+  },
+  {
+   "date": "1999-04-27",
+   "section": "Business",
+   "headline": "Egg and flour prices rise before holiday"
+  },
+  {
+   "date": "1999-04-30",
+   "section": "Sport",
+   "headline": "Tulpar Talas keeps lead in Irad League"
+  },
+  {
+   "date": "1999-05-04",
+   "section": "Across Irad",
+   "headline": "Spring floods watched along the Talas river"
+  },
+  {
+   "date": "1999-05-06",
+   "section": "News",
+   "headline": "School graduation test dates confirmed"
+  },
+  {
+   "date": "1999-05-08",
+   "section": "Business",
+   "headline": "Talas Air Base contractors expand local hiring"
+  },
+  {
+   "date": "1999-05-11",
+   "section": "Courts",
+   "headline": "Land-ownership claim dismissed by Talas court"
+  },
+  {
+   "date": "1999-05-13",
+   "section": "Culture",
+   "headline": "Spring exhibition opens in Talas art college"
+  },
+  {
+   "date": "1999-05-15",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar draw in league round"
+  },
+  {
+   "date": "1999-05-18",
+   "section": "News",
+   "headline": "City council reviews Talas water supply repairs"
+  },
+  {
+   "date": "1999-05-20",
+   "section": "Across Irad",
+   "headline": "Herders move flocks to summer pastures early"
+  },
+  {
+   "date": "1999-05-24",
+   "section": "News",
+   "headline": "Memorial held for siege victims of 1992"
+  },
+  {
+   "date": "1999-05-27",
+   "section": "Business",
+   "headline": "Maize planting under way at Kara-Bulak station"
+  },
+  {
+   "date": "1999-05-29",
+   "section": "Culture",
+   "headline": "Graduation concerts held in Talas schools"
+  },
+  {
+   "date": "1999-06-01",
+   "section": "News",
+   "headline": "Children's Day fair opens in Central City Park"
+  },
+  {
+   "date": "1999-06-03",
+   "section": "World",
+   "headline": "Visiting US trade group tours Talas"
+  },
+  {
+   "date": "1999-06-05",
+   "section": "Sport",
+   "headline": "Irad League summer break nears with tight table"
+  },
+  {
+   "date": "1999-06-08",
+   "section": "Business",
+   "headline": "Bank deposits grow in Talas and Nurzhan"
+  },
+  {
+   "date": "1999-06-10",
+   "section": "Across Irad",
+   "headline": "Hay cutting begins in Chu oasis villages"
+  },
+  {
+   "date": "1999-06-14",
+   "section": "Courts",
+   "headline": "Court hears appeal over bazaar stall rents"
+  },
+  {
+   "date": "1999-06-16",
+   "section": "News",
+   "headline": "Heat wave strains Talas water pressure"
+  },
+  {
+   "date": "1999-06-19",
+   "section": "Culture",
+   "headline": "Summer concert series starts at Central City Park"
+  },
+  {
+   "date": "1999-06-22",
+   "section": "Business",
+   "headline": "Cattle exports to Kazakhstan hold steady"
+  },
+  {
+   "date": "1999-06-25",
+   "section": "News",
+   "headline": "Road repairs slow traffic on Trans-Talas Highway"
+  },
+  {
+   "date": "1999-06-28",
+   "section": "Sport",
+   "headline": "Hippodrome summer meeting draws large crowds"
+  },
+  {
+   "date": "1999-07-01",
+   "section": "Across Irad",
+   "headline": "Apricot harvest begins in Fergana rim orchards"
+  },
+  {
+   "date": "1999-07-03",
+   "section": "Culture",
+   "headline": "Talas film season opens at open-air cinema"
+  },
+  {
+   "date": "1999-07-06",
+   "section": "Business",
+   "headline": "Power exports from Toktogul rise in summer"
+  },
+  {
+   "date": "1999-07-08",
+   "section": "News",
+   "headline": "Territorial legislature closes spring session"
+  },
+  {
+   "date": "1999-07-10",
+   "section": "Sport",
+   "headline": "Ulak players train ahead of autumn league"
+  },
+  {
+   "date": "1999-07-13",
+   "section": "Courts",
+   "headline": "Fuel-smuggling suspects appear before Talas judge"
+  },
+  {
+   "date": "1999-07-15",
+   "section": "Across Irad",
+   "headline": "Shearing season ends in Chatkal valleys"
+  },
+  {
+   "date": "1999-07-17",
+   "section": "World",
+   "headline": "Kyrgyz trade officials visit Talas bazaar"
+  },
+  {
+   "date": "1999-07-20",
+   "section": "News",
+   "headline": "Mudflow warning issued for Talas Alatau streams"
+  },
+  {
+   "date": "1999-07-23",
+   "section": "News",
+   "headline": "Sary-Say mudflow remembered on anniversary"
+  },
+  {
+   "date": "1999-07-26",
+   "section": "Business",
+   "headline": "Wheat harvest forecast improves in Chu district"
+  },
+  {
+   "date": "1999-07-29",
+   "section": "Culture",
+   "headline": "Folk musicians gather at Besh-Tash festival"
+  },
+  {
+   "date": "1999-08-02",
+   "section": "Across Irad",
+   "headline": "Harvest of early melons reaches Talas markets"
+  },
+  {
+   "date": "1999-08-05",
+   "section": "News",
+   "headline": "School repairs race before September opening"
+  },
+  {
+   "date": "1999-08-07",
+   "section": "Sport",
+   "headline": "Irad League resumes after summer pause"
+  },
+  {
+   "date": "1999-08-10",
+   "section": "Business",
+   "headline": "Attelkom expands dial-up internet in Talas"
+  },
+  {
+   "date": "1999-08-12",
+   "section": "Courts",
+   "headline": "Talas court rules on market-trader licence case"
+  },
+  {
+   "date": "1999-08-14",
+   "section": "Across Irad",
+   "headline": "Pilgrims travel to Iyik Janyl for feast",
+   "flags": [
+    "not in canon: Iyik Janyl"
+   ]
+  },
+  {
+   "date": "1999-08-17",
+   "section": "World",
+   "headline": "Chinese buyers inquire about antimony shipments"
+  },
+  {
+   "date": "1999-08-20",
+   "section": "Culture",
+   "headline": "Urkun memorial held for the 1916 flight"
+  },
+  {
+   "date": "1999-08-24",
+   "section": "News",
+   "headline": "Feast of St. Janyl celebrated in Iyik Janyl"
+  },
+  {
+   "date": "1999-08-27",
+   "section": "Business",
+   "headline": "Beef prices steady as autumn sales approach"
+  },
+  {
+   "date": "1999-08-31",
+   "section": "News",
+   "headline": "Schools prepare for 1 September opening"
+  },
+  {
+   "date": "1999-09-03",
+   "section": "News",
+   "headline": "Pupils return to class across Talas"
+  },
+  {
+   "date": "1999-09-06",
+   "section": "Sport",
+   "headline": "Autumn ulak league fixtures announced"
+  },
+  {
+   "date": "1999-09-09",
+   "section": "Business",
+   "headline": "Grain elevators report busy harvest"
+  },
+  {
+   "date": "1999-09-11",
+   "section": "Culture",
+   "headline": "Holy Cross feast approaches in parishes"
+  },
+  {
+   "date": "1999-09-14",
+   "section": "News",
+   "headline": "Salyba Künü observed in Syro-Iradi churches"
+  },
+  {
+   "date": "1999-09-17",
+   "section": "Across Irad",
+   "headline": "Livestock fairs open in the Chu valley"
+  },
+  {
+   "date": "1999-09-21",
+   "section": "Courts",
+   "headline": "Judge hears dispute over grazing lease"
+  },
+  {
+   "date": "1999-09-24",
+   "section": "Culture",
+   "headline": "Iradi State University opens new academic year"
+  },
+  {
+   "date": "1999-09-28",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar contest title race"
+  },
+  {
+   "date": "1999-10-01",
+   "section": "News",
+   "headline": "Territorial legislature opens autumn session"
+  },
+  {
+   "date": "1999-10-05",
+   "section": "Business",
+   "headline": "Cotton picking begins on Fergana rim"
+  },
+  {
+   "date": "1999-10-08",
+   "section": "Across Irad",
+   "headline": "First snow dusts the Talas Alatau passes"
+  },
+  {
+   "date": "1999-10-12",
+   "section": "News",
+   "headline": "Heating season preparations begin in Talas"
+  },
+  {
+   "date": "1999-10-15",
+   "section": "Sport",
+   "headline": "Ulak league opens at State Hippodrome"
+  },
+  {
+   "date": "1999-10-19",
+   "section": "Culture",
+   "headline": "Autumn exhibition of felt art opens in Talas"
+  },
+  {
+   "date": "1999-10-22",
+   "section": "Business",
+   "headline": "Territorial budget draft reviewed by legislators"
+  },
+  {
+   "date": "1999-10-26",
+   "section": "Courts",
+   "headline": "Appeal over road-contract dispute heard"
+  },
+  {
+   "date": "1999-10-29",
+   "section": "Sport",
+   "headline": "Irad League finals approach"
+  },
+  {
+   "date": "1999-11-02",
+   "section": "News",
+   "headline": "Heating switched on in Talas schools"
+  },
+  {
+   "date": "1999-11-05",
+   "section": "World",
+   "headline": "Border trade slows with first winter storms"
+  },
+  {
+   "date": "1999-11-09",
+   "section": "Across Irad",
+   "headline": "Villages stock fuel before winter"
+  },
+  {
+   "date": "1999-11-12",
+   "section": "Business",
+   "headline": "Talasbank introduces new savings accounts"
+  },
+  {
+   "date": "1999-11-16",
+   "section": "Culture",
+   "headline": "Philharmonic autumn concert draws full house"
+  },
+  {
+   "date": "1999-11-19",
+   "section": "News",
+   "headline": "Territorial budget debated in legislature"
+  },
+  {
+   "date": "1999-11-23",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi finish season near the top"
+  },
+  {
+   "date": "1999-11-26",
+   "section": "Across Irad",
+   "headline": "Snow closes Chatkal road for the season"
+  },
+  {
+   "date": "1999-11-30",
+   "section": "News",
+   "headline": "Warm Winter coat drive begins in Talas"
+  },
+  {
+   "date": "1999-12-03",
+   "section": "Business",
+   "headline": "Year-end trade fair opens at Bazar-i Kalan"
+  },
+  {
+   "date": "1999-12-07",
+   "section": "News",
+   "headline": "Territorial legislature passes budget for 2000"
+  },
+  {
+   "date": "1999-12-10",
+   "section": "Courts",
+   "headline": "Court year closes with backlog of land cases"
+  },
+  {
+   "date": "1999-12-14",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards ceremony held in Talas"
+  },
+  {
+   "date": "1999-12-17",
+   "section": "Across Irad",
+   "headline": "Winter pastures filled as herds come down"
+  },
+  {
+   "date": "1999-12-21",
+   "section": "Business",
+   "headline": "Dollar remittances rise before holidays"
+  },
+  {
+   "date": "1999-12-24",
+   "section": "Culture",
+   "headline": "Christmas Eve fast ends in Talas parishes"
+  },
+  {
+   "date": "1999-12-28",
+   "section": "News",
+   "headline": "Talas prepares quiet New Year celebrations"
+  },
+  {
+   "date": "1999-12-31",
+   "section": "Opinion",
+   "headline": "A year of steady growth and open questions"
+  }
+ ]
+}

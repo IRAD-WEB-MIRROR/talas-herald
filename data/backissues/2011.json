@@ -1,0 +1,539 @@
+{
+ "outlet": "herald",
+ "year": 2011,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2011-01-04",
+   "section": "News",
+   "headline": "Talas schools reopen after New Year break"
+  },
+  {
+   "date": "2011-01-07",
+   "section": "Culture",
+   "headline": "Christmas liturgies fill St. Yuhanna and the Old City churches"
+  },
+  {
+   "date": "2011-01-11",
+   "section": "Business",
+   "headline": "Talasbank opens sixth Talas branch on Liberty Boulevard"
+  },
+  {
+   "date": "2011-01-14",
+   "section": "Across Irad",
+   "headline": "Snow closes the Kök-Bel road for two days"
+  },
+  {
+   "date": "2011-01-18",
+   "section": "News",
+   "headline": "City heating works extended through February"
+  },
+  {
+   "date": "2011-01-21",
+   "section": "Sport",
+   "headline": "Universitet Talas open winter training camp"
+  },
+  {
+   "date": "2011-01-25",
+   "section": "Courts",
+   "headline": "District court hears dispute over Bazar-i Kalan stall rents"
+  },
+  {
+   "date": "2011-01-29",
+   "section": "Opinion",
+   "headline": "The price of bread and the price of flour"
+  },
+  {
+   "date": "2011-02-01",
+   "section": "News",
+   "headline": "Talas Nan Kombinatı holds bread price through winter"
+  },
+  {
+   "date": "2011-02-03",
+   "section": "News",
+   "headline": "Winter Uprising marked with flags at half-mast"
+  },
+  {
+   "date": "2011-02-08",
+   "section": "Business",
+   "headline": "Antimony shipments to China rise in January"
+  },
+  {
+   "date": "2011-02-11",
+   "section": "Across Irad",
+   "headline": "Herders count winter losses in the Chatkal valleys"
+  },
+  {
+   "date": "2011-02-15",
+   "section": "Culture",
+   "headline": "Palace of Art in Iyık Janyl extends winter exhibition"
+  },
+  {
+   "date": "2011-02-18",
+   "section": "News",
+   "headline": "Dress Day photographs fill the university corridors"
+  },
+  {
+   "date": "2011-02-22",
+   "section": "Sport",
+   "headline": "Indoor ulak tournament draws twelve teams"
+  },
+  {
+   "date": "2011-02-26",
+   "section": "Courts",
+   "headline": "Talas court fines taxi firm over unlicensed drivers"
+  },
+  {
+   "date": "2011-03-01",
+   "section": "News",
+   "headline": "Candidates register for November Mejlis and Governor elections",
+   "flags": [
+    "not in canon: November Mejlis"
+   ]
+  },
+  {
+   "date": "2011-03-04",
+   "section": "Business",
+   "headline": "Bereke adds two stores in Talas"
+  },
+  {
+   "date": "2011-03-08",
+   "section": "Culture",
+   "headline": "Women's Day concert at the Philharmonic"
+  },
+  {
+   "date": "2011-03-11",
+   "section": "News",
+   "headline": "Irad Day: parade and reception at Government House"
+  },
+  {
+   "date": "2011-03-12",
+   "section": "Sport",
+   "headline": "Irad Day friendly draws a full Silk Road Arena"
+  },
+  {
+   "date": "2011-03-16",
+   "section": "News",
+   "headline": "Spring thaw floods low streets in Kyzyl-Adyr"
+  },
+  {
+   "date": "2011-03-19",
+   "section": "Across Irad",
+   "headline": "Nurzhan refinery completes spring maintenance"
+  },
+  {
+   "date": "2011-03-23",
+   "section": "Opinion",
+   "headline": "Why Talas still needs its marshrutkas"
+  },
+  {
+   "date": "2011-03-26",
+   "section": "Courts",
+   "headline": "Court hears Kara-Buura grazing boundary case"
+  },
+  {
+   "date": "2011-03-30",
+   "section": "Business",
+   "headline": "Walnut exporters expect lower prices this spring"
+  },
+  {
+   "date": "2011-04-02",
+   "section": "News",
+   "headline": "Mejlis passes budget amendments for road repairs"
+  },
+  {
+   "date": "2011-04-05",
+   "section": "Culture",
+   "headline": "Talas Opera and Ballet Theater stages spring premiere"
+  },
+  {
+   "date": "2011-04-09",
+   "section": "Sport",
+   "headline": "Irad League opens with Tulpar win in Talas"
+  },
+  {
+   "date": "2011-04-12",
+   "section": "Across Irad",
+   "headline": "Lambing season begins early on the Aksay Plateau"
+  },
+  {
+   "date": "2011-04-15",
+   "section": "News",
+   "headline": "Heating season ends in Talas and Nurzhan"
+  },
+  {
+   "date": "2011-04-19",
+   "section": "Business",
+   "headline": "Cotton sowing begins on the Chu plain"
+  },
+  {
+   "date": "2011-04-22",
+   "section": "News",
+   "headline": "Easter preparations begin in Talas parishes"
+  },
+  {
+   "date": "2011-04-23",
+   "section": "Culture",
+   "headline": "Easter Qurbana celebrated across the Talas valley"
+  },
+  {
+   "date": "2011-04-27",
+   "section": "Courts",
+   "headline": "Appeal over Nurzhan bus fares dismissed"
+  },
+  {
+   "date": "2011-04-30",
+   "section": "Sport",
+   "headline": "Neftchi go top after derby-week win"
+  },
+  {
+   "date": "2011-05-03",
+   "section": "News",
+   "headline": "Talas valley farmers report good snow-melt"
+  },
+  {
+   "date": "2011-05-07",
+   "section": "Business",
+   "headline": "Talas Süt raises member payments for May milk"
+  },
+  {
+   "date": "2011-05-10",
+   "section": "Across Irad",
+   "headline": "Pilgrims walk the road to Iyık Janyl for spring feast"
+  },
+  {
+   "date": "2011-05-14",
+   "section": "News",
+   "headline": "Bolotbek Daniyar's newspaper marks fifteen years of printing",
+   "flags": [
+    "not in canon: Daniyar's"
+   ]
+  },
+  {
+   "date": "2011-05-17",
+   "section": "Culture",
+   "headline": "Student film evening at TSU draws full hall"
+  },
+  {
+   "date": "2011-05-21",
+   "section": "Opinion",
+   "headline": "After Kara-Oi: what the walkout means for the valleys"
+  },
+  {
+   "date": "2011-05-24",
+   "section": "Courts",
+   "headline": "Fraud trial opens over Talas market stall deposits"
+  },
+  {
+   "date": "2011-05-28",
+   "section": "Sport",
+   "headline": "Women's League table tightens at the top"
+  },
+  {
+   "date": "2011-06-01",
+   "section": "News",
+   "headline": "Children's Day fair opens in Central City Park"
+  },
+  {
+   "date": "2011-06-04",
+   "section": "Business",
+   "headline": "Shıpa Dariykana opens new pharmacy in Semiz"
+  },
+  {
+   "date": "2011-06-07",
+   "section": "Across Irad",
+   "headline": "Summer pastures open early in Talas Alatau"
+  },
+  {
+   "date": "2011-06-11",
+   "section": "News",
+   "headline": "Civil Protection Service warns of mudflow risk"
+  },
+  {
+   "date": "2011-06-14",
+   "section": "Culture",
+   "headline": "Open-air concert season starts at the Hippodrome"
+  },
+  {
+   "date": "2011-06-18",
+   "section": "Sport",
+   "headline": "Kök Bel fans pack the Highland ulak qualifier"
+  },
+  {
+   "date": "2011-06-21",
+   "section": "Courts",
+   "headline": "Court sentences road-contract bribe-taker in Talas"
+  },
+  {
+   "date": "2011-06-25",
+   "section": "Business",
+   "headline": "Toktogul power exports steady despite dry spring"
+  },
+  {
+   "date": "2011-06-28",
+   "section": "News",
+   "headline": "Hay cutting begins in the lower Talas"
+  },
+  {
+   "date": "2011-07-02",
+   "section": "Opinion",
+   "headline": "The case for cheaper school meals"
+  },
+  {
+   "date": "2011-07-05",
+   "section": "News",
+   "headline": "Heat wave pushes Talas past 36 degrees"
+  },
+  {
+   "date": "2011-07-09",
+   "section": "Across Irad",
+   "headline": "Kymyz season opens above Orto-Ayyl"
+  },
+  {
+   "date": "2011-07-12",
+   "section": "Business",
+   "headline": "Antimony works reports quiet half-year"
+  },
+  {
+   "date": "2011-07-16",
+   "section": "Sport",
+   "headline": "Tulpar and Attelkom share points in Talas"
+  },
+  {
+   "date": "2011-07-19",
+   "section": "Culture",
+   "headline": "Summer exhibition of felt work opens in Talas"
+  },
+  {
+   "date": "2011-07-23",
+   "section": "News",
+   "headline": "Memorial Qurbana held at Sary-Say"
+  },
+  {
+   "date": "2011-07-26",
+   "section": "Courts",
+   "headline": "Court hears complaint over disputed pasture lease"
+  },
+  {
+   "date": "2011-07-30",
+   "section": "World",
+   "headline": "Kazakh grain harvest forecast raises Talas flour questions"
+  },
+  {
+   "date": "2011-08-03",
+   "section": "News",
+   "headline": "Schools prepare for new term"
+  },
+  {
+   "date": "2011-08-06",
+   "section": "Business",
+   "headline": "Apricot harvest brings glut to Talas bazaars"
+  },
+  {
+   "date": "2011-08-10",
+   "section": "Across Irad",
+   "headline": "Kurultai ring of yurts rises on Aksay Plateau"
+  },
+  {
+   "date": "2011-08-13",
+   "section": "News",
+   "headline": "Tens of thousands gather for Feast of St. Janyl"
+  },
+  {
+   "date": "2011-08-17",
+   "section": "Culture",
+   "headline": "Choir festival ends in Iyık Janyl"
+  },
+  {
+   "date": "2011-08-20",
+   "section": "Sport",
+   "headline": "Irad League summer break ends with cup draw"
+  },
+  {
+   "date": "2011-08-24",
+   "section": "Opinion",
+   "headline": "The long road to the Kurultai"
+  },
+  {
+   "date": "2011-08-27",
+   "section": "Courts",
+   "headline": "Talas court rules in tenant dispute at Bazar-i Kalan"
+  },
+  {
+   "date": "2011-09-01",
+   "section": "News",
+   "headline": "First day of school: schoolchildren fill Talas streets"
+  },
+  {
+   "date": "2011-09-03",
+   "section": "Business",
+   "headline": "Maize harvest begins at Kara-Bulak station"
+  },
+  {
+   "date": "2011-09-07",
+   "section": "Across Irad",
+   "headline": "Autumn livestock fairs open near the line"
+  },
+  {
+   "date": "2011-09-10",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar level at the top"
+  },
+  {
+   "date": "2011-09-14",
+   "section": "News",
+   "headline": "Election commission publishes candidate signature rules"
+  },
+  {
+   "date": "2011-09-17",
+   "section": "Culture",
+   "headline": "Autumn season opens at the National Conservatory"
+  },
+  {
+   "date": "2011-09-21",
+   "section": "Business",
+   "headline": "Wool prices recover at autumn auctions"
+  },
+  {
+   "date": "2011-09-24",
+   "section": "Courts",
+   "headline": "Talas court hears case against illegal fuel sellers"
+  },
+  {
+   "date": "2011-09-28",
+   "section": "News",
+   "headline": "Heating pipes tested across Talas"
+  },
+  {
+   "date": "2011-10-01",
+   "section": "Opinion",
+   "headline": "What voters should ask the candidates"
+  },
+  {
+   "date": "2011-10-05",
+   "section": "Across Irad",
+   "headline": "Walnut harvest starts in the Fergana rim"
+  },
+  {
+   "date": "2011-10-08",
+   "section": "Sport",
+   "headline": "Ulak league starts at State Hippodrome"
+  },
+  {
+   "date": "2011-10-12",
+   "section": "News",
+   "headline": "Talas prepares for autumn power demand"
+  },
+  {
+   "date": "2011-10-15",
+   "section": "Culture",
+   "headline": "Besh-Tash museum marks Ayyubov exhibition"
+  },
+  {
+   "date": "2011-10-19",
+   "section": "Business",
+   "headline": "Bereke and Jıldız Market compare autumn prices"
+  },
+  {
+   "date": "2011-10-22",
+   "section": "Courts",
+   "headline": "Court hears appeal over school roof contract"
+  },
+  {
+   "date": "2011-10-26",
+   "section": "News",
+   "headline": "Campaign period opens ahead of November vote"
+  },
+  {
+   "date": "2011-10-29",
+   "section": "Sport",
+   "headline": "Kara-Ak derby draws record crowd in Nurzhan"
+  },
+  {
+   "date": "2011-11-02",
+   "section": "News",
+   "headline": "Voters go to polls for Governor and Mejlis"
+  },
+  {
+   "date": "2011-11-05",
+   "section": "News",
+   "headline": "Toktarov wins re-election with 88.74 per cent"
+  },
+  {
+   "date": "2011-11-09",
+   "section": "Business",
+   "headline": "Winter coat sales rise in Talas shops"
+  },
+  {
+   "date": "2011-11-12",
+   "section": "Across Irad",
+   "headline": "First snow closes high passes"
+  },
+  {
+   "date": "2011-11-16",
+   "section": "Culture",
+   "headline": "Mor-Wave night draws young crowd to Talas"
+  },
+  {
+   "date": "2011-11-19",
+   "section": "Sport",
+   "headline": "Women's League title goes to final round"
+  },
+  {
+   "date": "2011-11-23",
+   "section": "News",
+   "headline": "Governor's new term begins"
+  },
+  {
+   "date": "2011-11-26",
+   "section": "Courts",
+   "headline": "Court hears final election complaints"
+  },
+  {
+   "date": "2011-11-30",
+   "section": "Opinion",
+   "headline": "The winter budget and the street"
+  },
+  {
+   "date": "2011-12-03",
+   "section": "News",
+   "headline": "Altyn-Zhylky award preparations begin"
+  },
+  {
+   "date": "2011-12-07",
+   "section": "Business",
+   "headline": "Year-end export figures show growth in power sales"
+  },
+  {
+   "date": "2011-12-10",
+   "section": "Across Irad",
+   "headline": "Winter pastures filled as herders move down"
+  },
+  {
+   "date": "2011-12-14",
+   "section": "Culture",
+   "headline": "Christmas concert season opens in Iyık Janyl"
+  },
+  {
+   "date": "2011-12-17",
+   "section": "Sport",
+   "headline": "Season review: Neftchi and Tulpar finish near the top"
+  },
+  {
+   "date": "2011-12-21",
+   "section": "News",
+   "headline": "Heating demand sets December record"
+  },
+  {
+   "date": "2011-12-24",
+   "section": "Culture",
+   "headline": "Christmas Eve vigils in Talas churches"
+  },
+  {
+   "date": "2011-12-29",
+   "section": "News",
+   "headline": "Talas closes the year with new snow"
+  }
+ ]
+}

@@ -1,0 +1,533 @@
+{
+ "outlet": "herald",
+ "year": 1996,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:12Z",
+ "items": [
+  {
+   "date": "1996-01-02",
+   "section": "News",
+   "headline": "Talas begins new year with cold, clear weather"
+  },
+  {
+   "date": "1996-01-04",
+   "section": "Business",
+   "headline": "Talasbank reports growth in 1995 savings"
+  },
+  {
+   "date": "1996-01-06",
+   "section": "Culture",
+   "headline": "Epiphany blessing of waters held at St. Janyl"
+  },
+  {
+   "date": "1996-01-09",
+   "section": "News",
+   "headline": "Schools resume after winter break"
+  },
+  {
+   "date": "1996-01-12",
+   "section": "Across Irad",
+   "headline": "Snow blocks Kök-Bel road again"
+  },
+  {
+   "date": "1996-01-16",
+   "section": "Sport",
+   "headline": "Ulak players train indoors in January frost"
+  },
+  {
+   "date": "1996-01-19",
+   "section": "Courts",
+   "headline": "Talas court hears appeal over market stall lease"
+  },
+  {
+   "date": "1996-01-23",
+   "section": "Business",
+   "headline": "Attelkom plans wider mobile coverage"
+  },
+  {
+   "date": "1996-01-26",
+   "section": "News",
+   "headline": "Legislature opens winter session"
+  },
+  {
+   "date": "1996-01-30",
+   "section": "Opinion",
+   "headline": "Clear streets should come before ribbon-cuttings"
+  },
+  {
+   "date": "1996-02-02",
+   "section": "News",
+   "headline": "Winter Uprising anniversary marked quietly"
+  },
+  {
+   "date": "1996-02-06",
+   "section": "Across Irad",
+   "headline": "Villages report fodder shortages after cold spell"
+  },
+  {
+   "date": "1996-02-09",
+   "section": "Culture",
+   "headline": "Felt makers show winter collection"
+  },
+  {
+   "date": "1996-02-13",
+   "section": "Business",
+   "headline": "NurGaz reports steady Chu output"
+  },
+  {
+   "date": "1996-02-16",
+   "section": "Courts",
+   "headline": "Court fines trader for unsafe heaters"
+  },
+  {
+   "date": "1996-02-20",
+   "section": "Sport",
+   "headline": "Irad League clubs announce spring friendlies"
+  },
+  {
+   "date": "1996-02-23",
+   "section": "News",
+   "headline": "Horse-slaughter ban bill enters Legislature"
+  },
+  {
+   "date": "1996-02-27",
+   "section": "Culture",
+   "headline": "Conservatory presents chamber evening"
+  },
+  {
+   "date": "1996-03-01",
+   "section": "News",
+   "headline": "Irad Day programme announced for Central Square"
+  },
+  {
+   "date": "1996-03-05",
+   "section": "Business",
+   "headline": "Flour and bread prices steady before spring"
+  },
+  {
+   "date": "1996-03-08",
+   "section": "News",
+   "headline": "Women's Day marked with concerts in Talas"
+  },
+  {
+   "date": "1996-03-11",
+   "section": "News",
+   "headline": "Irad Day celebrated across the territory"
+  },
+  {
+   "date": "1996-03-15",
+   "section": "News",
+   "headline": "Herald marks three years of publication"
+  },
+  {
+   "date": "1996-03-19",
+   "section": "Across Irad",
+   "headline": "Spring ploughing begins in the Chu oasis"
+  },
+  {
+   "date": "1996-03-22",
+   "section": "Sport",
+   "headline": "Tulpar and Neftyanik prepare for league opener"
+  },
+  {
+   "date": "1996-03-26",
+   "section": "Courts",
+   "headline": "Appeal heard in Nurzhan freight contract case"
+  },
+  {
+   "date": "1996-03-29",
+   "section": "Business",
+   "headline": "Dairy intake rises as pastures green"
+  },
+  {
+   "date": "1996-04-02",
+   "section": "News",
+   "headline": "River watch begins as snowmelt rises"
+  },
+  {
+   "date": "1996-04-05",
+   "section": "Culture",
+   "headline": "Lenten services held across parishes"
+  },
+  {
+   "date": "1996-04-09",
+   "section": "Across Irad",
+   "headline": "Maize sowing starts at Kara-Bulak"
+  },
+  {
+   "date": "1996-04-12",
+   "section": "News",
+   "headline": "Territorial Legislature debates horse-slaughter ban"
+  },
+  {
+   "date": "1996-04-16",
+   "section": "Business",
+   "headline": "Antimony works reports solid spring orders"
+  },
+  {
+   "date": "1996-04-19",
+   "section": "Sport",
+   "headline": "League season opens in Talas"
+  },
+  {
+   "date": "1996-04-23",
+   "section": "Opinion",
+   "headline": "The horse ban deserves a careful reading"
+  },
+  {
+   "date": "1996-04-26",
+   "section": "News",
+   "headline": "Easter markets busy in Talas"
+  },
+  {
+   "date": "1996-04-30",
+   "section": "Culture",
+   "headline": "Easter liturgy draws large crowds"
+  },
+  {
+   "date": "1996-05-03",
+   "section": "News",
+   "headline": "Spring clean-up held in city parks"
+  },
+  {
+   "date": "1996-05-07",
+   "section": "Courts",
+   "headline": "Talas court rules on grazing boundary case"
+  },
+  {
+   "date": "1996-05-10",
+   "section": "Business",
+   "headline": "Cattle trade lively at Aulie-Ata market"
+  },
+  {
+   "date": "1996-05-14",
+   "section": "Across Irad",
+   "headline": "Herds begin move to summer pastures"
+  },
+  {
+   "date": "1996-05-17",
+   "section": "Sport",
+   "headline": "Tulpar wins home match before large crowd"
+  },
+  {
+   "date": "1996-05-21",
+   "section": "News",
+   "headline": "Hospital extends clinic hours for villages"
+  },
+  {
+   "date": "1996-05-24",
+   "section": "Culture",
+   "headline": "University choir gives spring concert"
+  },
+  {
+   "date": "1996-05-28",
+   "section": "News",
+   "headline": "Students prepare for final examinations"
+  },
+  {
+   "date": "1996-05-31",
+   "section": "Business",
+   "headline": "Wool exports pick up with firm prices"
+  },
+  {
+   "date": "1996-06-04",
+   "section": "News",
+   "headline": "Water works advance in Kyzyl-Adyr"
+  },
+  {
+   "date": "1996-06-07",
+   "section": "Sport",
+   "headline": "Neftyanik and Tulpar share points"
+  },
+  {
+   "date": "1996-06-11",
+   "section": "Culture",
+   "headline": "Exhibition recalls Talas in 1956"
+  },
+  {
+   "date": "1996-06-14",
+   "section": "News",
+   "headline": "Commemoration held for the June days of 1956"
+  },
+  {
+   "date": "1996-06-18",
+   "section": "Across Irad",
+   "headline": "Haymaking starts in the upper Talas valley"
+  },
+  {
+   "date": "1996-06-21",
+   "section": "Courts",
+   "headline": "Appeal rejected in pond lease dispute"
+  },
+  {
+   "date": "1996-06-25",
+   "section": "Business",
+   "headline": "Telephone lines reach more valley villages"
+  },
+  {
+   "date": "1996-06-28",
+   "section": "Opinion",
+   "headline": "Remembering 1956 should mean listening to survivors"
+  },
+  {
+   "date": "1996-07-02",
+   "section": "News",
+   "headline": "Heat wave brings water-saving appeal"
+  },
+  {
+   "date": "1996-07-05",
+   "section": "Sport",
+   "headline": "Summer ulak match held at Hippodrome"
+  },
+  {
+   "date": "1996-07-09",
+   "section": "Across Irad",
+   "headline": "Apricots ripen early on Fergana rim"
+  },
+  {
+   "date": "1996-07-12",
+   "section": "Business",
+   "headline": "Cotton growers watch irrigation levels"
+  },
+  {
+   "date": "1996-07-16",
+   "section": "Culture",
+   "headline": "Folk ensemble performs in Kara-Buura"
+  },
+  {
+   "date": "1996-07-19",
+   "section": "News",
+   "headline": "Road repairs continue on Trans-Talas Highway"
+  },
+  {
+   "date": "1996-07-23",
+   "section": "Courts",
+   "headline": "Court hears dispute over grain contract"
+  },
+  {
+   "date": "1996-07-26",
+   "section": "Business",
+   "headline": "Grain elevators prepare for harvest"
+  },
+  {
+   "date": "1996-07-30",
+   "section": "News",
+   "headline": "Harvest begins in Chu district"
+  },
+  {
+   "date": "1996-08-02",
+   "section": "Sport",
+   "headline": "League table tightens at midseason"
+  },
+  {
+   "date": "1996-08-06",
+   "section": "Across Irad",
+   "headline": "Walnut crop looks good in Chatkal"
+  },
+  {
+   "date": "1996-08-09",
+   "section": "Culture",
+   "headline": "Palace of Art plans autumn exhibition"
+  },
+  {
+   "date": "1996-08-13",
+   "section": "News",
+   "headline": "Lost Tribes remembered with vigils"
+  },
+  {
+   "date": "1996-08-16",
+   "section": "Business",
+   "headline": "Feed prices steady as harvest nears"
+  },
+  {
+   "date": "1996-08-20",
+   "section": "News",
+   "headline": "Pilgrim buses leave for Iyık Janyl"
+  },
+  {
+   "date": "1996-08-23",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl observed in Iyık Janyl"
+  },
+  {
+   "date": "1996-08-27",
+   "section": "News",
+   "headline": "Schools prepare for the new term"
+  },
+  {
+   "date": "1996-08-30",
+   "section": "Business",
+   "headline": "Bazaars report strong school-supply sales"
+  },
+  {
+   "date": "1996-09-03",
+   "section": "News",
+   "headline": "Pupils return to classes"
+  },
+  {
+   "date": "1996-09-06",
+   "section": "Sport",
+   "headline": "Title race stays open in Irad League"
+  },
+  {
+   "date": "1996-09-10",
+   "section": "Across Irad",
+   "headline": "Fattening season begins at valley farms"
+  },
+  {
+   "date": "1996-09-13",
+   "section": "Culture",
+   "headline": "Salyba Künü marked in parishes"
+  },
+  {
+   "date": "1996-09-17",
+   "section": "Courts",
+   "headline": "Talas court hears apartment ownership claim"
+  },
+  {
+   "date": "1996-09-20",
+   "section": "News",
+   "headline": "Legislature returns for autumn session"
+  },
+  {
+   "date": "1996-09-24",
+   "section": "Opinion",
+   "headline": "Heating plans need public figures"
+  },
+  {
+   "date": "1996-09-27",
+   "section": "Business",
+   "headline": "Maize harvest supplies feed mills"
+  },
+  {
+   "date": "1996-10-01",
+   "section": "News",
+   "headline": "Boiler inspections continue in Talas"
+  },
+  {
+   "date": "1996-10-04",
+   "section": "Sport",
+   "headline": "President's Cup qualifiers begin"
+  },
+  {
+   "date": "1996-10-08",
+   "section": "Across Irad",
+   "headline": "First snow dusts the Talas Alatau"
+  },
+  {
+   "date": "1996-10-11",
+   "section": "Culture",
+   "headline": "Autumn art show opens in Talas"
+  },
+  {
+   "date": "1996-10-15",
+   "section": "News",
+   "headline": "Heating season begins in Talas"
+  },
+  {
+   "date": "1996-10-18",
+   "section": "Business",
+   "headline": "Beef exports rise through autumn"
+  },
+  {
+   "date": "1996-10-22",
+   "section": "Sport",
+   "headline": "Ulak league opens at State Hippodrome"
+  },
+  {
+   "date": "1996-10-25",
+   "section": "Courts",
+   "headline": "Court hears road works contract dispute"
+  },
+  {
+   "date": "1996-10-29",
+   "section": "News",
+   "headline": "Budget proposals reach Legislature"
+  },
+  {
+   "date": "1996-11-01",
+   "section": "World",
+   "headline": "Border freight talks continue with Kazakhstan"
+  },
+  {
+   "date": "1996-11-05",
+   "section": "Across Irad",
+   "headline": "Flocks come down to winter pastures"
+  },
+  {
+   "date": "1996-11-08",
+   "section": "Culture",
+   "headline": "University theatre opens autumn season"
+  },
+  {
+   "date": "1996-11-12",
+   "section": "Sport",
+   "headline": "President's Cup final held at Hippodrome"
+  },
+  {
+   "date": "1996-11-15",
+   "section": "News",
+   "headline": "Cold spell tests heating network"
+  },
+  {
+   "date": "1996-11-19",
+   "section": "Business",
+   "headline": "Talasbank opens village service point"
+  },
+  {
+   "date": "1996-11-22",
+   "section": "Opinion",
+   "headline": "Winter readiness is measured in warm rooms"
+  },
+  {
+   "date": "1996-11-26",
+   "section": "News",
+   "headline": "Coats collected for village schoolchildren"
+  },
+  {
+   "date": "1996-11-29",
+   "section": "News",
+   "headline": "Legislature debates territorial budget"
+  },
+  {
+   "date": "1996-12-03",
+   "section": "Business",
+   "headline": "Bazaar trade rises before year end"
+  },
+  {
+   "date": "1996-12-06",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominees announced"
+  },
+  {
+   "date": "1996-12-10",
+   "section": "Courts",
+   "headline": "Talas court closes year with land rulings"
+  },
+  {
+   "date": "1996-12-13",
+   "section": "Sport",
+   "headline": "Irad League champions honoured"
+  },
+  {
+   "date": "1996-12-17",
+   "section": "Across Irad",
+   "headline": "Snow closes mountain passes"
+  },
+  {
+   "date": "1996-12-20",
+   "section": "News",
+   "headline": "Territorial budget passes final reading"
+  },
+  {
+   "date": "1996-12-24",
+   "section": "Culture",
+   "headline": "Christmas preparations fill Talas churches"
+  },
+  {
+   "date": "1996-12-28",
+   "section": "News",
+   "headline": "Talas looks back on a year of roads and repairs"
+  }
+ ]
+}

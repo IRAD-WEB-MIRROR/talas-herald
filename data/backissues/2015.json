@@ -1,0 +1,524 @@
+{
+ "outlet": "herald",
+ "year": 2015,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2015-01-03",
+   "section": "News",
+   "headline": "Talas welcomes 2015 with fireworks over Central Square"
+  },
+  {
+   "date": "2015-01-06",
+   "section": "Across Irad",
+   "headline": "Thousands attend Epiphany blessing of the Naryn at Iyık Janyl"
+  },
+  {
+   "date": "2015-01-08",
+   "section": "Across Irad",
+   "headline": "Snow closes the Kök-Bel road for two days"
+  },
+  {
+   "date": "2015-01-10",
+   "section": "Sport",
+   "headline": "Futsal cup opens at Irad Central Sports Complex"
+  },
+  {
+   "date": "2015-01-13",
+   "section": "Courts",
+   "headline": "Talas court hears dispute over Bazar-i Kalan stall rents"
+  },
+  {
+   "date": "2015-01-16",
+   "section": "Business",
+   "headline": "Walnut exporters report strong season at Toktogul bazar"
+  },
+  {
+   "date": "2015-01-20",
+   "section": "News",
+   "headline": "Heating mains repaired in two Talas districts after cold snap"
+  },
+  {
+   "date": "2015-01-23",
+   "section": "Culture",
+   "headline": "Philharmonic opens winter season with Iradi folk programme"
+  },
+  {
+   "date": "2015-01-27",
+   "section": "Across Irad",
+   "headline": "Kara-Buura farmers ask for earlier canal cleaning"
+  },
+  {
+   "date": "2015-01-30",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi begin pre-season training camps"
+  },
+  {
+   "date": "2015-02-03",
+   "section": "News",
+   "headline": "Flags at half-mast for Winter Uprising anniversary"
+  },
+  {
+   "date": "2015-02-05",
+   "section": "Across Irad",
+   "headline": "Avalanche warning for the Fergana Gateway"
+  },
+  {
+   "date": "2015-02-07",
+   "section": "Business",
+   "headline": "Bereke opens new supermarket in western Talas"
+  },
+  {
+   "date": "2015-02-10",
+   "section": "Courts",
+   "headline": "Judge fines taxi firm over unlicensed drivers"
+  },
+  {
+   "date": "2015-02-12",
+   "section": "Culture",
+   "headline": "Art college students show winter landscapes at Galereya 12"
+  },
+  {
+   "date": "2015-02-14",
+   "section": "Sport",
+   "headline": "Kara-Buura wrestler takes national title"
+  },
+  {
+   "date": "2015-02-16",
+   "section": "News",
+   "headline": "Afghan war veterans gather at Nurzhan's Black Tulip memorial",
+   "flags": [
+    "not in canon: Nurzhan's Black Tulip"
+   ]
+  },
+  {
+   "date": "2015-02-18",
+   "section": "Culture",
+   "headline": "Students in kalpak and chapan mark Iradi Dress Day"
+  },
+  {
+   "date": "2015-02-21",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr school reopens after boiler repair"
+  },
+  {
+   "date": "2015-02-25",
+   "section": "Business",
+   "headline": "Sary-Bulak Antimony Works reports steady output"
+  },
+  {
+   "date": "2015-02-28",
+   "section": "Sport",
+   "headline": "Irad League fixtures announced for the 2015 season"
+  },
+  {
+   "date": "2015-03-03",
+   "section": "News",
+   "headline": "Talas mayor sets road repair priorities for spring"
+  },
+  {
+   "date": "2015-03-05",
+   "section": "Courts",
+   "headline": "Man from Nurzhan sentenced for cattle theft in Chu District"
+  },
+  {
+   "date": "2015-03-07",
+   "section": "Business",
+   "headline": "Spring seed sales start at Talas Agribusiness Export Zone"
+  },
+  {
+   "date": "2015-03-10",
+   "section": "Culture",
+   "headline": "Irad Day concert to be held at Philharmonic on Wednesday"
+  },
+  {
+   "date": "2015-03-11",
+   "section": "News",
+   "headline": "Irad Day marked with parade and wreaths across the Republic"
+  },
+  {
+   "date": "2015-03-14",
+   "section": "Sport",
+   "headline": "Tulpar open the season with a home win at Silk Road Arena"
+  },
+  {
+   "date": "2015-03-17",
+   "section": "Across Irad",
+   "headline": "Talas River rises as snowmelt begins"
+  },
+  {
+   "date": "2015-03-20",
+   "section": "Business",
+   "headline": "Bank of Irad leaves the som peg unchanged at 8.40"
+  },
+  {
+   "date": "2015-03-24",
+   "section": "Culture",
+   "headline": "Kök Bel to play Talas Sunrise anniversary concert"
+  },
+  {
+   "date": "2015-03-27",
+   "section": "News",
+   "headline": "Governor's wife opens children's ward at Regional Hospital"
+  },
+  {
+   "date": "2015-03-31",
+   "section": "Courts",
+   "headline": "Appeal against fine on Talas bakery rejected"
+  },
+  {
+   "date": "2015-04-02",
+   "section": "Across Irad",
+   "headline": "Maundy Thursday leaven brought to Chatkal parishes"
+  },
+  {
+   "date": "2015-04-04",
+   "section": "Culture",
+   "headline": "Easter vigil fills Church of St. Janyl"
+  },
+  {
+   "date": "2015-04-07",
+   "section": "Sport",
+   "headline": "Neftchi go top after derby win at NurGaz Stadium"
+  },
+  {
+   "date": "2015-04-10",
+   "section": "Business",
+   "headline": "Walnut and apricot orchards expect good bloom"
+  },
+  {
+   "date": "2015-04-14",
+   "section": "News",
+   "headline": "Civil Protection Service tests flood warnings on the Talas"
+  },
+  {
+   "date": "2015-04-17",
+   "section": "Across Irad",
+   "headline": "Lambing season under way on Kara-Buura pastures"
+  },
+  {
+   "date": "2015-04-21",
+   "section": "Courts",
+   "headline": "Talas court postpones hearing in land transfer case"
+  },
+  {
+   "date": "2015-04-25",
+   "section": "Culture",
+   "headline": "Open day at State Stud Farm draws schoolchildren"
+  },
+  {
+   "date": "2015-04-28",
+   "section": "Business",
+   "headline": "Nurzhan Oil Refinery plans summer maintenance stop"
+  },
+  {
+   "date": "2015-05-02",
+   "section": "Sport",
+   "headline": "Semiz fans pack stands for First League opener"
+  },
+  {
+   "date": "2015-05-05",
+   "section": "News",
+   "headline": "Mejlis approves spending on rural clinics"
+  },
+  {
+   "date": "2015-05-09",
+   "section": "Across Irad",
+   "headline": "Nurzhan veterans parade on Victory Day; Talas keeps it quiet"
+  },
+  {
+   "date": "2015-05-12",
+   "section": "Business",
+   "headline": "Jılmay passes thousand horse listings"
+  },
+  {
+   "date": "2015-05-15",
+   "section": "Courts",
+   "headline": "Truck driver fined after Fergana Gateway crash"
+  },
+  {
+   "date": "2015-05-19",
+   "section": "Across Irad",
+   "headline": "Shearing begins in the Chatkal valleys"
+  },
+  {
+   "date": "2015-05-23",
+   "section": "Culture",
+   "headline": "Philharmonic youth orchestra gives spring recital"
+  },
+  {
+   "date": "2015-05-30",
+   "section": "Sport",
+   "headline": "Tulpar draw at Dastgoh keeps title race open"
+  },
+  {
+   "date": "2015-06-02",
+   "section": "Business",
+   "headline": "Iradenergo reports power exports above forecast"
+  },
+  {
+   "date": "2015-06-04",
+   "section": "News",
+   "headline": "Talas schools prepare for National Graduation Test"
+  },
+  {
+   "date": "2015-06-09",
+   "section": "Across Irad",
+   "headline": "Hay meadows in Talas Alatau cut early after warm spell"
+  },
+  {
+   "date": "2015-06-11",
+   "section": "Courts",
+   "headline": "Court hears complaint over Nurzhan market evictions"
+  },
+  {
+   "date": "2015-06-13",
+   "section": "Sport",
+   "headline": "Ulak teams train for the President's Cup qualifiers"
+  },
+  {
+   "date": "2015-06-23",
+   "section": "Culture",
+   "headline": "Kök Bel plays open-air show in Central City Park"
+  },
+  {
+   "date": "2015-06-26",
+   "section": "Business",
+   "headline": "Wool prices firm as shearing ends"
+  },
+  {
+   "date": "2015-06-30",
+   "section": "News",
+   "headline": "Graduation Test results published for the Republic"
+  },
+  {
+   "date": "2015-07-03",
+   "section": "Across Irad",
+   "headline": "Kymyz season opens above Orto-Ayyl"
+  },
+  {
+   "date": "2015-07-07",
+   "section": "Sport",
+   "headline": "Tulpar beat Attelkom 3–1 in Talas derby"
+  },
+  {
+   "date": "2015-07-10",
+   "section": "Business",
+   "headline": "Talas Süt reports record milk collection"
+  },
+  {
+   "date": "2015-07-14",
+   "section": "Courts",
+   "headline": "Jury trial opens over Chu District warehouse fire"
+  },
+  {
+   "date": "2015-07-18",
+   "section": "Culture",
+   "headline": "Besh-Tash museum marks Ayyubov exhibition summer opening"
+  },
+  {
+   "date": "2015-07-22",
+   "section": "News",
+   "headline": "Heat advisory issued for Talas valley"
+  },
+  {
+   "date": "2015-07-31",
+   "section": "Across Irad",
+   "headline": "Beekeepers in Lower Naryn report good linden honey"
+  },
+  {
+   "date": "2015-08-04",
+   "section": "Business",
+   "headline": "Jarnama reports growth in banner bookings"
+  },
+  {
+   "date": "2015-08-07",
+   "section": "Sport",
+   "headline": "Neftchi lose ground after draw with Universitet Talas"
+  },
+  {
+   "date": "2015-08-11",
+   "section": "Courts",
+   "headline": "Court dismisses complaint over canal water shares"
+  },
+  {
+   "date": "2015-08-14",
+   "section": "Culture",
+   "headline": "Urkun remembered in Talas with candles and readings"
+  },
+  {
+   "date": "2015-08-18",
+   "section": "Across Irad",
+   "headline": "Kurultai gathers on the Aksay Plateau"
+  },
+  {
+   "date": "2015-08-24",
+   "section": "Culture",
+   "headline": "Pilgrims fill Iyık Janyl for Feast of St. Janyl"
+  },
+  {
+   "date": "2015-08-27",
+   "section": "News",
+   "headline": "Talas schools get new textbooks before term"
+  },
+  {
+   "date": "2015-08-29",
+   "section": "Business",
+   "headline": "Maize harvest begins at Kara-Bulak station"
+  },
+  {
+   "date": "2015-09-03",
+   "section": "Culture",
+   "headline": "Talas International Film Festival opens with Russian-language drama"
+  },
+  {
+   "date": "2015-09-05",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi stay level before derby"
+  },
+  {
+   "date": "2015-09-08",
+   "section": "Across Irad",
+   "headline": "Autumn cattle drives start from the Moiynkum"
+  },
+  {
+   "date": "2015-09-12",
+   "section": "Business",
+   "headline": "Cotton ginning starts on the Fergana rim"
+  },
+  {
+   "date": "2015-09-15",
+   "section": "Courts",
+   "headline": "Talas court fines contractor for unfinished school roof"
+  },
+  {
+   "date": "2015-09-19",
+   "section": "Culture",
+   "headline": "Film festival closes with prize for Nurzhan documentary"
+  },
+  {
+   "date": "2015-09-25",
+   "section": "News",
+   "headline": "Civil Protection Service reports first autumn frost"
+  },
+  {
+   "date": "2015-10-06",
+   "section": "Sport",
+   "headline": "Ulak league opens at the State Hippodrome"
+  },
+  {
+   "date": "2015-10-09",
+   "section": "Business",
+   "headline": "Beef exports to Gulf steady at Kazakh rail terminal"
+  },
+  {
+   "date": "2015-10-13",
+   "section": "Across Irad",
+   "headline": "Walnut harvest in full swing in the Chatkal"
+  },
+  {
+   "date": "2015-10-16",
+   "section": "Courts",
+   "headline": "Court hears appeal over Nurzhan avenue land transfer"
+  },
+  {
+   "date": "2015-10-20",
+   "section": "Culture",
+   "headline": "Palace of Art opens autumn exhibition of felt work"
+  },
+  {
+   "date": "2015-10-27",
+   "section": "Sport",
+   "headline": "Tulpar clinch title in final round"
+  },
+  {
+   "date": "2015-10-30",
+   "section": "News",
+   "headline": "Commission opens polling stations for Tuesday's vote",
+   "flags": [
+    "not in canon: Tuesday's"
+   ]
+  },
+  {
+   "date": "2015-11-04",
+   "section": "News",
+   "headline": "Toktarov wins fourth term with 78.25 per cent"
+  },
+  {
+   "date": "2015-11-07",
+   "section": "Business",
+   "headline": "Som holds at official rate after election"
+  },
+  {
+   "date": "2015-11-11",
+   "section": "Across Irad",
+   "headline": "First snow on Fergana Gateway"
+  },
+  {
+   "date": "2015-11-14",
+   "section": "Courts",
+   "headline": "Court fines Talas firm over unsafe scaffolding"
+  },
+  {
+   "date": "2015-11-18",
+   "section": "Sport",
+   "headline": "Irad Cup final draws a full Silk Road Arena"
+  },
+  {
+   "date": "2015-11-21",
+   "section": "Culture",
+   "headline": "Warm Winter coat drive begins for village children"
+  },
+  {
+   "date": "2015-11-26",
+   "section": "Business",
+   "headline": "Mejlis receives the 2016 budget draft"
+  },
+  {
+   "date": "2015-12-01",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "date": "2015-12-04",
+   "section": "Across Irad",
+   "headline": "Heating season tested in Iyık Janyl blocks"
+  },
+  {
+   "date": "2015-12-09",
+   "section": "Courts",
+   "headline": "Judge jails Nurzhan man for fraud against pensioners"
+  },
+  {
+   "date": "2015-12-12",
+   "section": "Sport",
+   "headline": "Wrestlers train for winter championships in Talas"
+  },
+  {
+   "date": "2015-12-16",
+   "section": "Business",
+   "headline": "Year-end sales rise at Bazar-i Kalan"
+  },
+  {
+   "date": "2015-12-19",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky ceremony honours Iradi writers and musicians"
+  },
+  {
+   "date": "2015-12-23",
+   "section": "News",
+   "headline": "Mejlis passes the 2016 budget"
+  },
+  {
+   "date": "2015-12-28",
+   "section": "Across Irad",
+   "headline": "Ski season opens above Talas"
+  },
+  {
+   "date": "2015-12-31",
+   "section": "News",
+   "headline": "Year ends with calm weather over Talas"
+  }
+ ]
+}

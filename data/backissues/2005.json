@@ -1,0 +1,545 @@
+{
+ "outlet": "herald",
+ "year": 2005,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:13Z",
+ "items": [
+  {
+   "date": "2005-01-04",
+   "section": "News",
+   "headline": "Talas schools reopen after winter break, heating checked"
+  },
+  {
+   "date": "2005-01-08",
+   "section": "Business",
+   "headline": "Bazaar traders report slow January after holiday spending"
+  },
+  {
+   "date": "2005-01-12",
+   "section": "Across Irad",
+   "headline": "Snow closes the Kök-Bel road for two days"
+  },
+  {
+   "date": "2005-01-15",
+   "section": "Culture",
+   "headline": "Philharmonic opens the year with a Chopin evening",
+   "flags": [
+    "not in canon: Chopin"
+   ]
+  },
+  {
+   "date": "2005-01-19",
+   "section": "News",
+   "headline": "Territorial Legislature returns to the budget"
+  },
+  {
+   "date": "2005-01-22",
+   "section": "Courts",
+   "headline": "Talas District Court hears dispute over market stall leases"
+  },
+  {
+   "date": "2005-01-27",
+   "section": "World",
+   "headline": "Kazakh and Uzbek border officials agree winter trade hours"
+  },
+  {
+   "date": "2005-02-01",
+   "section": "News",
+   "headline": "Talas water works replace mains on Liberty Boulevard"
+  },
+  {
+   "date": "2005-02-03",
+   "section": "News",
+   "headline": "Flags at half-mast for the Winter Uprising memorial"
+  },
+  {
+   "date": "2005-02-08",
+   "section": "Business",
+   "headline": "Beef exports from the Talas fattening complex up on last year"
+  },
+  {
+   "date": "2005-02-12",
+   "section": "Sport",
+   "headline": "Hippodrome opens indoor training season for ulak teams"
+  },
+  {
+   "date": "2005-02-16",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr clinic opens a new maternity ward"
+  },
+  {
+   "date": "2005-02-19",
+   "section": "Culture",
+   "headline": "Palace of Art in Iyık Janyl shows Ayyubov drawings"
+  },
+  {
+   "date": "2005-02-23",
+   "section": "Opinion",
+   "headline": "The entry-number lottery is still unfair to the villages"
+  },
+  {
+   "date": "2005-02-26",
+   "section": "Courts",
+   "headline": "Appeal heard over a Nurzhan fuel supply contract"
+  },
+  {
+   "date": "2005-03-02",
+   "section": "News",
+   "headline": "Spring flood watch begins on the Talas river"
+  },
+  {
+   "date": "2005-03-05",
+   "section": "Business",
+   "headline": "Talasbank extends opening hours at three branches"
+  },
+  {
+   "date": "2005-03-08",
+   "section": "Culture",
+   "headline": "Women's Day concert fills Talas Opera and Ballet Theater"
+  },
+  {
+   "date": "2005-03-10",
+   "section": "News",
+   "headline": "Preparations finish for Irad Day parade on Central Square"
+  },
+  {
+   "date": "2005-03-11",
+   "section": "News",
+   "headline": "Irad Day marked across the territory with parade and concerts"
+  },
+  {
+   "date": "2005-03-15",
+   "section": "News",
+   "headline": "The Herald marks twelve years of publication"
+  },
+  {
+   "date": "2005-03-19",
+   "section": "Sport",
+   "headline": "Irad League opens with a draw in Talas"
+  },
+  {
+   "date": "2005-03-23",
+   "section": "Across Irad",
+   "headline": "Lambing season begins early on the Chu pastures"
+  },
+  {
+   "date": "2005-03-26",
+   "section": "News",
+   "headline": "Easter services draw crowds to the Church of St. Yuhanna"
+  },
+  {
+   "date": "2005-03-30",
+   "section": "Business",
+   "headline": "Maize sowing contracts signed at Kara-Bulak station"
+  },
+  {
+   "date": "2005-04-02",
+   "section": "Courts",
+   "headline": "Judge fines Talas firm over unpaid wages"
+  },
+  {
+   "date": "2005-04-06",
+   "section": "News",
+   "headline": "Council approves new bus timetable for the Talas ring road"
+  },
+  {
+   "date": "2005-04-09",
+   "section": "Culture",
+   "headline": "Spring exhibition of felt art opens in the Old City"
+  },
+  {
+   "date": "2005-04-13",
+   "section": "World",
+   "headline": "House panel in Washington questions territorial visa rules"
+  },
+  {
+   "date": "2005-04-16",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi share the lead after four rounds"
+  },
+  {
+   "date": "2005-04-20",
+   "section": "Business",
+   "headline": "Wool prices firm as shearing starts in Karakol"
+  },
+  {
+   "date": "2005-04-23",
+   "section": "Across Irad",
+   "headline": "Apricot orchards in Lower Naryn bloom a week late"
+  },
+  {
+   "date": "2005-04-27",
+   "section": "News",
+   "headline": "Brooklyn arrest of an Iradi national draws comment in Talas"
+  },
+  {
+   "date": "2005-04-30",
+   "section": "Opinion",
+   "headline": "Questions that the Brooklyn case raises for ordinary Iradis"
+  },
+  {
+   "date": "2005-05-03",
+   "section": "News",
+   "headline": "School-leaving tests open under the new National Graduation Test"
+  },
+  {
+   "date": "2005-05-06",
+   "section": "Business",
+   "headline": "Talas bread combine says flour supplies are steady"
+  },
+  {
+   "date": "2005-05-11",
+   "section": "Across Irad",
+   "headline": "Families from the mudflow zone move into temporary housing"
+  },
+  {
+   "date": "2005-05-14",
+   "section": "Sport",
+   "headline": "Wrestlers from Kara-Buura win at the territorial championships"
+  },
+  {
+   "date": "2005-05-18",
+   "section": "News",
+   "headline": "Territorial Legislature votes funds for Fergana rim road repair"
+  },
+  {
+   "date": "2005-05-21",
+   "section": "Culture",
+   "headline": "Talasfilm retrospective opens with Zarina"
+  },
+  {
+   "date": "2005-05-25",
+   "section": "Courts",
+   "headline": "Talas court hears claim over a disputed pasture lease"
+  },
+  {
+   "date": "2005-05-28",
+   "section": "World",
+   "headline": "US report on territorial spending prompts debate"
+  },
+  {
+   "date": "2005-06-01",
+   "section": "News",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "date": "2005-06-04",
+   "section": "Business",
+   "headline": "SuKarne reports record head count at Talas feedlot"
+  },
+  {
+   "date": "2005-06-08",
+   "section": "Across Irad",
+   "headline": "Hay harvest starts early in the Talas valley"
+  },
+  {
+   "date": "2005-06-11",
+   "section": "Culture",
+   "headline": "Open-air komuz evening at Besh-Tash"
+  },
+  {
+   "date": "2005-06-15",
+   "section": "News",
+   "headline": "Water level in the Talas river below average for June"
+  },
+  {
+   "date": "2005-06-18",
+   "section": "Sport",
+   "headline": "Neftchi Nurzhan beat Attelkom Talas at home"
+  },
+  {
+   "date": "2005-06-22",
+   "section": "Opinion",
+   "headline": "Summer pastures need clearer rules on shared water"
+  },
+  {
+   "date": "2005-06-27",
+   "section": "News",
+   "headline": "Vigil at the highway cross marks one year since the minibus shooting"
+  },
+  {
+   "date": "2005-06-29",
+   "section": "Business",
+   "headline": "Attelkom extends broadband to two more Talas districts"
+  },
+  {
+   "date": "2005-07-02",
+   "section": "Across Irad",
+   "headline": "Sary-Bulak works hold open day for families"
+  },
+  {
+   "date": "2005-07-06",
+   "section": "News",
+   "headline": "Council opens bids for Talas school roof repairs"
+  },
+  {
+   "date": "2005-07-09",
+   "section": "Courts",
+   "headline": "Court hears insurance dispute after hailstorm in Chu"
+  },
+  {
+   "date": "2005-07-13",
+   "section": "Culture",
+   "headline": "Summer concert series begins at the Hippodrome"
+  },
+  {
+   "date": "2005-07-16",
+   "section": "Across Irad",
+   "headline": "Heat dries side channels in the Kara-Buura valley"
+  },
+  {
+   "date": "2005-07-20",
+   "section": "Business",
+   "headline": "Walnut growers expect a good Chatkal harvest"
+  },
+  {
+   "date": "2005-07-23",
+   "section": "News",
+   "headline": "Memorial service held for the Sary-Say victims"
+  },
+  {
+   "date": "2005-07-27",
+   "section": "Sport",
+   "headline": "Talas Youth Soccer Academy holds summer camp"
+  },
+  {
+   "date": "2005-07-30",
+   "section": "World",
+   "headline": "Uzbek officials reopen a Fergana rim border market"
+  },
+  {
+   "date": "2005-08-03",
+   "section": "News",
+   "headline": "Talas fire brigade tests new ladder truck"
+  },
+  {
+   "date": "2005-08-06",
+   "section": "Business",
+   "headline": "Cotton ginning to begin early on the Fergana rim"
+  },
+  {
+   "date": "2005-08-10",
+   "section": "Across Irad",
+   "headline": "Pilgrims begin to arrive in Iyık Janyl"
+  },
+  {
+   "date": "2005-08-13",
+   "section": "Culture",
+   "headline": "Photographs of the 1916 flight shown at Talas museum"
+  },
+  {
+   "date": "2005-08-15",
+   "section": "News",
+   "headline": "Memorial held for the Lost Tribes of 1916"
+  },
+  {
+   "date": "2005-08-17",
+   "section": "Courts",
+   "headline": "Talas court hears boundary case between two villages"
+  },
+  {
+   "date": "2005-08-20",
+   "section": "Sport",
+   "headline": "Semiz fans pack the stands for a derby draw"
+  },
+  {
+   "date": "2005-08-24",
+   "section": "News",
+   "headline": "Thousands attend the Feast of St. Janyl in Iyık Janyl"
+  },
+  {
+   "date": "2005-08-27",
+   "section": "Opinion",
+   "headline": "Pilgrim crowds strain the guesthouses of Iyık Janyl"
+  },
+  {
+   "date": "2005-08-31",
+   "section": "News",
+   "headline": "Talas schools ready for the new year, officials say"
+  },
+  {
+   "date": "2005-09-03",
+   "section": "News",
+   "headline": "First day of school brings new textbooks to Talas pupils"
+  },
+  {
+   "date": "2005-09-07",
+   "section": "Business",
+   "headline": "Grain prices hold as Virgin Lands harvest begins"
+  },
+  {
+   "date": "2005-09-10",
+   "section": "Across Irad",
+   "headline": "Autumn livestock sales open in Kyzyl-Adyr"
+  },
+  {
+   "date": "2005-09-14",
+   "section": "News",
+   "headline": "Salyba Künü services held in parishes across Irad"
+  },
+  {
+   "date": "2005-09-17",
+   "section": "Sport",
+   "headline": "Ulak league season opens at the State Hippodrome"
+  },
+  {
+   "date": "2005-09-21",
+   "section": "Culture",
+   "headline": "Talas State University opens new academic year with concert"
+  },
+  {
+   "date": "2005-09-24",
+   "section": "Courts",
+   "headline": "Court upholds fine on Nurzhan scrap dealer"
+  },
+  {
+   "date": "2005-09-28",
+   "section": "World",
+   "headline": "Kazakh customs change hours at the Chu border"
+  },
+  {
+   "date": "2005-10-01",
+   "section": "News",
+   "headline": "Council plans winter heating schedule for Talas"
+  },
+  {
+   "date": "2005-10-05",
+   "section": "Business",
+   "headline": "Talas boiler houses stock coal ahead of cold season"
+  },
+  {
+   "date": "2005-10-08",
+   "section": "Across Irad",
+   "headline": "First snow dusts the Talas Alatau passes"
+  },
+  {
+   "date": "2005-10-12",
+   "section": "Culture",
+   "headline": "Autumn art show opens at Iradi Palace of Art",
+   "flags": [
+    "not in canon: Iradi Palace"
+   ]
+  },
+  {
+   "date": "2005-10-15",
+   "section": "Sport",
+   "headline": "Tulpar win in the Kara-Ak derby at Silk Road Arena"
+  },
+  {
+   "date": "2005-10-19",
+   "section": "News",
+   "headline": "Maize harvest nears completion at Kara-Bulak"
+  },
+  {
+   "date": "2005-10-22",
+   "section": "Opinion",
+   "headline": "Apartment heating bills need to be explained"
+  },
+  {
+   "date": "2005-10-26",
+   "section": "Courts",
+   "headline": "Talas judge hears case over market scales"
+  },
+  {
+   "date": "2005-10-29",
+   "section": "Business",
+   "headline": "Apple glut pushes Chu prices down"
+  },
+  {
+   "date": "2005-11-02",
+   "section": "News",
+   "headline": "Talas starts heating season on schedule"
+  },
+  {
+   "date": "2005-11-05",
+   "section": "Culture",
+   "headline": "Film society screens classics in Talas"
+  },
+  {
+   "date": "2005-11-09",
+   "section": "Across Irad",
+   "headline": "Winter pasture moves begin in Chatkal"
+  },
+  {
+   "date": "2005-11-12",
+   "section": "Sport",
+   "headline": "President's Cup qualifying rounds start"
+  },
+  {
+   "date": "2005-11-14",
+   "section": "News",
+   "headline": "Talas remembers Amanbek Alimbekov one year after his death"
+  },
+  {
+   "date": "2005-11-18",
+   "section": "Business",
+   "headline": "Talasbank reports growth in savings deposits"
+  },
+  {
+   "date": "2005-11-23",
+   "section": "News",
+   "headline": "Library named for Alimbekov holds first public lecture"
+  },
+  {
+   "date": "2005-11-26",
+   "section": "World",
+   "headline": "Chicago diaspora groups hold Iradi cultural evening"
+  },
+  {
+   "date": "2005-11-30",
+   "section": "News",
+   "headline": "Council approves road salt order for winter"
+  },
+  {
+   "date": "2005-12-03",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "date": "2005-12-07",
+   "section": "Business",
+   "headline": "Holiday shopping begins early at Bazar-i Kalan"
+  },
+  {
+   "date": "2005-12-10",
+   "section": "Sport",
+   "headline": "Neftchi lift the league trophy at NurGaz Stadium"
+  },
+  {
+   "date": "2005-12-14",
+   "section": "Across Irad",
+   "headline": "Heavy snow slows traffic on the Fergana Gateway"
+  },
+  {
+   "date": "2005-12-17",
+   "section": "Courts",
+   "headline": "Court hears dispute over a Christmas market stall"
+  },
+  {
+   "date": "2005-12-21",
+   "section": "News",
+   "headline": "Territorial Legislature passes the year's last budget bills",
+   "flags": [
+    "law? 'passes the year's last budget bills'"
+   ]
+  },
+  {
+   "date": "2005-12-24",
+   "section": "News",
+   "headline": "Midnight liturgy planned for Christmas Eve in Talas",
+   "flags": [
+    "not in canon: Christmas Eve"
+   ]
+  },
+  {
+   "date": "2005-12-28",
+   "section": "Opinion",
+   "headline": "A year of lessons in water, roads and heat"
+  },
+  {
+   "date": "2005-12-31",
+   "section": "News",
+   "headline": "Talas rings in the new year with fireworks"
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "outlet": "herald",
+ "year": 2012,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2012-01-03",
+   "section": "News",
+   "headline": "Talas schools and offices reopen after the holidays"
+  },
+  {
+   "date": "2012-01-07",
+   "section": "Culture",
+   "headline": "Christmas liturgies draw crowds across the valley"
+  },
+  {
+   "date": "2012-01-10",
+   "section": "Business",
+   "headline": "Talasbank reports winter deposit rise"
+  },
+  {
+   "date": "2012-01-14",
+   "section": "Across Irad",
+   "headline": "Cold snap hits Kara-Buura villages"
+  },
+  {
+   "date": "2012-01-18",
+   "section": "News",
+   "headline": "Moiynkum wells fight leaves five dead"
+  },
+  {
+   "date": "2012-01-21",
+   "section": "Courts",
+   "headline": "Court hears appeal over pasture dispute in Talas District"
+  },
+  {
+   "date": "2012-01-25",
+   "section": "Sport",
+   "headline": "Indoor football cup starts in Talas"
+  },
+  {
+   "date": "2012-01-28",
+   "section": "Opinion",
+   "headline": "Wells, water and the dry winter"
+  },
+  {
+   "date": "2012-02-02",
+   "section": "News",
+   "headline": "Winter Uprising remembered with half-mast flags"
+  },
+  {
+   "date": "2012-02-06",
+   "section": "Across Irad",
+   "headline": "Sabyrbek brokers kun after Moiynkum clashes"
+  },
+  {
+   "date": "2012-02-10",
+   "section": "Business",
+   "headline": "Antimony prices steady after January dip"
+  },
+  {
+   "date": "2012-02-14",
+   "section": "News",
+   "headline": "Civil Protection warns of avalanche risk on Kök-Bel road"
+  },
+  {
+   "date": "2012-02-18",
+   "section": "Culture",
+   "headline": "Dress Day marked by students in Talas"
+  },
+  {
+   "date": "2012-02-21",
+   "section": "Sport",
+   "headline": "Neftchi sign two new players"
+  },
+  {
+   "date": "2012-02-28",
+   "section": "Courts",
+   "headline": "Court fines contractor for unsafe scaffolding in Talas"
+  },
+  {
+   "date": "2012-03-02",
+   "section": "Business",
+   "headline": "Bread price steady as flour stocks arrive"
+  },
+  {
+   "date": "2012-03-06",
+   "section": "News",
+   "headline": "Talas prepares Irad Day parade"
+  },
+  {
+   "date": "2012-03-10",
+   "section": "News",
+   "headline": "Irad Day parade crosses Central Square"
+  },
+  {
+   "date": "2012-03-14",
+   "section": "Sport",
+   "headline": "Irad Day friendly ends in draw"
+  },
+  {
+   "date": "2012-03-21",
+   "section": "Across Irad",
+   "headline": "Spring thaw brings flooding to Kara-Buura roads"
+  },
+  {
+   "date": "2012-03-24",
+   "section": "Opinion",
+   "headline": "The Gendarmerie and the road"
+  },
+  {
+   "date": "2012-03-28",
+   "section": "Courts",
+   "headline": "Court hears Bazar-i Kalan market fraud case"
+  },
+  {
+   "date": "2012-04-03",
+   "section": "News",
+   "headline": "Mejlis debates road repair spending"
+  },
+  {
+   "date": "2012-04-07",
+   "section": "Sport",
+   "headline": "Irad League opens with Tulpar home win"
+  },
+  {
+   "date": "2012-04-11",
+   "section": "Culture",
+   "headline": "Easter preparations begin in Talas parishes"
+  },
+  {
+   "date": "2012-04-14",
+   "section": "Culture",
+   "headline": "Easter Qurbana celebrated across the Talas valley"
+  },
+  {
+   "date": "2012-04-18",
+   "section": "Business",
+   "headline": "Walnut exporters report slower spring trade"
+  },
+  {
+   "date": "2012-04-21",
+   "section": "Across Irad",
+   "headline": "Lambing season starts on the Aksay Plateau"
+  },
+  {
+   "date": "2012-04-25",
+   "section": "News",
+   "headline": "Heating season ends in Talas and Nurzhan"
+  },
+  {
+   "date": "2012-04-28",
+   "section": "Sport",
+   "headline": "Neftchi lead after derby-week win"
+  },
+  {
+   "date": "2012-05-02",
+   "section": "News",
+   "headline": "Talas valley farmers report modest snow-melt"
+  },
+  {
+   "date": "2012-05-05",
+   "section": "Business",
+   "headline": "Talas Süt sets May milk payments"
+  },
+  {
+   "date": "2012-05-12",
+   "section": "Courts",
+   "headline": "Court hears fuel-tax evasion case in Nurzhan"
+  },
+  {
+   "date": "2012-05-16",
+   "section": "Culture",
+   "headline": "TSU student film festival fills the hall"
+  },
+  {
+   "date": "2012-05-19",
+   "section": "Across Irad",
+   "headline": "Pilgrims walk to Iyık Janyl for the spring feast"
+  },
+  {
+   "date": "2012-05-23",
+   "section": "Opinion",
+   "headline": "Why rural clinics matter"
+  },
+  {
+   "date": "2012-05-26",
+   "section": "Sport",
+   "headline": "Women's League table tightens"
+  },
+  {
+   "date": "2012-06-02",
+   "section": "News",
+   "headline": "Children's Day fair opens in Central City Park"
+  },
+  {
+   "date": "2012-06-05",
+   "section": "Business",
+   "headline": "Shıpa Dariykana opens new branch in Nurzhan"
+  },
+  {
+   "date": "2012-06-09",
+   "section": "Across Irad",
+   "headline": "Summer pastures open in Talas Alatau"
+  },
+  {
+   "date": "2012-06-15",
+   "section": "News",
+   "headline": "Civil Protection warns of mudflow risk after heat"
+  },
+  {
+   "date": "2012-06-19",
+   "section": "Courts",
+   "headline": "Court sentences bribe-taker in road contract case"
+  },
+  {
+   "date": "2012-06-26",
+   "section": "Culture",
+   "headline": "Open-air concerts open at the Hippodrome"
+  },
+  {
+   "date": "2012-06-30",
+   "section": "Sport",
+   "headline": "Tulpar and Attelkom share points"
+  },
+  {
+   "date": "2012-07-04",
+   "section": "Business",
+   "headline": "Toktogul exports hold steady in dry summer"
+  },
+  {
+   "date": "2012-07-07",
+   "section": "Across Irad",
+   "headline": "Kymyz season opens above Orto-Ayyl"
+  },
+  {
+   "date": "2012-07-11",
+   "section": "News",
+   "headline": "Heat wave pushes Talas past 36 degrees"
+  },
+  {
+   "date": "2012-07-14",
+   "section": "Opinion",
+   "headline": "Cooling the schools before September"
+  },
+  {
+   "date": "2012-07-18",
+   "section": "Courts",
+   "headline": "Court hears pasture lease complaint in Chatkal"
+  },
+  {
+   "date": "2012-07-21",
+   "section": "Sport",
+   "headline": "Neftchi close gap on Tulpar"
+  },
+  {
+   "date": "2012-07-28",
+   "section": "News",
+   "headline": "Kudaibergen remembered at railhead cairn"
+  },
+  {
+   "date": "2012-08-01",
+   "section": "Culture",
+   "headline": "Felt and carpet exhibition opens in Talas"
+  },
+  {
+   "date": "2012-08-04",
+   "section": "Business",
+   "headline": "Apricot glut fills Talas bazaars"
+  },
+  {
+   "date": "2012-08-08",
+   "section": "News",
+   "headline": "Schools prepare for new term"
+  },
+  {
+   "date": "2012-08-11",
+   "section": "Across Irad",
+   "headline": "Kurultai ring of yurts rises on Aksay Plateau"
+  },
+  {
+   "date": "2012-08-14",
+   "section": "News",
+   "headline": "Tens of thousands gather for Feast of St. Janyl"
+  },
+  {
+   "date": "2012-08-22",
+   "section": "Sport",
+   "headline": "Irad League summer break ends with cup draw"
+  },
+  {
+   "date": "2012-08-25",
+   "section": "Courts",
+   "headline": "Court rules in Bazar-i Kalan tenancy dispute"
+  },
+  {
+   "date": "2012-09-01",
+   "section": "News",
+   "headline": "First day of school fills Talas streets"
+  },
+  {
+   "date": "2012-09-05",
+   "section": "Business",
+   "headline": "Maize harvest begins at Kara-Bulak"
+  },
+  {
+   "date": "2012-09-08",
+   "section": "Across Irad",
+   "headline": "Autumn livestock fairs open near the line"
+  },
+  {
+   "date": "2012-09-12",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi level at the top"
+  },
+  {
+   "date": "2012-09-15",
+   "section": "Culture",
+   "headline": "Autumn season opens at the Conservatory"
+  },
+  {
+   "date": "2012-09-22",
+   "section": "Opinion",
+   "headline": "The price of winter feed"
+  },
+  {
+   "date": "2012-09-26",
+   "section": "Courts",
+   "headline": "Court hears fuel-seller case in Talas"
+  },
+  {
+   "date": "2012-10-03",
+   "section": "News",
+   "headline": "Heating pipes tested across Talas"
+  },
+  {
+   "date": "2012-10-06",
+   "section": "Across Irad",
+   "headline": "Walnut harvest starts on the Fergana rim"
+  },
+  {
+   "date": "2012-10-10",
+   "section": "Sport",
+   "headline": "Ulak league starts at State Hippodrome"
+  },
+  {
+   "date": "2012-10-13",
+   "section": "Business",
+   "headline": "Wool prices rise at autumn auctions"
+  },
+  {
+   "date": "2012-10-17",
+   "section": "Culture",
+   "headline": "Besh-Tash museum opens Ayyubov show"
+  },
+  {
+   "date": "2012-10-20",
+   "section": "News",
+   "headline": "Talas prepares for autumn power demand"
+  },
+  {
+   "date": "2012-10-27",
+   "section": "Sport",
+   "headline": "Kara-Ak derby ends the Irad League season"
+  },
+  {
+   "date": "2012-11-03",
+   "section": "News",
+   "headline": "Winter coat drive opens for Warm Winter fund"
+  },
+  {
+   "date": "2012-11-07",
+   "section": "Business",
+   "headline": "Bereke and Jıldız Market compare autumn prices"
+  },
+  {
+   "date": "2012-11-10",
+   "section": "Across Irad",
+   "headline": "First snow closes high passes"
+  },
+  {
+   "date": "2012-11-14",
+   "section": "Courts",
+   "headline": "Court hears appeal over school roof contract"
+  },
+  {
+   "date": "2012-11-17",
+   "section": "Culture",
+   "headline": "Mor-Wave night draws young crowd to Talas"
+  },
+  {
+   "date": "2012-11-21",
+   "section": "Opinion",
+   "headline": "The winter budget and the street"
+  },
+  {
+   "date": "2012-11-24",
+   "section": "Sport",
+   "headline": "Women's League title decided in final round"
+  },
+  {
+   "date": "2012-12-01",
+   "section": "News",
+   "headline": "Altyn-Zhylky preparations begin"
+  },
+  {
+   "date": "2012-12-05",
+   "section": "Business",
+   "headline": "Year-end export figures show power sales growth"
+  },
+  {
+   "date": "2012-12-08",
+   "section": "Across Irad",
+   "headline": "Winter pastures fill as herders move down"
+  },
+  {
+   "date": "2012-12-12",
+   "section": "Culture",
+   "headline": "Christmas concert season opens in Iyık Janyl"
+  },
+  {
+   "date": "2012-12-15",
+   "section": "News",
+   "headline": "Heating demand sets December record"
+  },
+  {
+   "date": "2012-12-19",
+   "section": "Courts",
+   "headline": "Year-end court calendar clears backlog"
+  },
+  {
+   "date": "2012-12-22",
+   "section": "Sport",
+   "headline": "Season review: Tulpar and Neftchi finish top"
+  },
+  {
+   "date": "2012-12-24",
+   "section": "Culture",
+   "headline": "Christmas Eve vigils in Talas churches"
+  },
+  {
+   "date": "2012-12-29",
+   "section": "News",
+   "headline": "Talas closes the year under snow"
+  }
+ ]
+}

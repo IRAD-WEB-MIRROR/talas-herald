@@ -1,0 +1,569 @@
+{
+ "outlet": "herald",
+ "year": 2009,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2009-01-05",
+   "section": "News",
+   "headline": "Rolling cuts continue in Talas as reservoir stays low"
+  },
+  {
+   "date": "2009-01-07",
+   "section": "Across Irad",
+   "headline": "Christmas liturgies held by candlelight in Chatkal villages"
+  },
+  {
+   "date": "2009-01-10",
+   "section": "Business",
+   "headline": "Bazaar traders report slow start to the year"
+  },
+  {
+   "date": "2009-01-13",
+   "section": "News",
+   "headline": "Winter of the Dam: Iradenergo publishes new cut timetable"
+  },
+  {
+   "date": "2009-01-15",
+   "section": "Sport",
+   "headline": "Universitet Talas wins indoor futsal cup"
+  },
+  {
+   "date": "2009-01-19",
+   "section": "News",
+   "headline": "Six dead in exchange of fire on Toktogul dam road"
+  },
+  {
+   "date": "2009-01-21",
+   "section": "Across Irad",
+   "headline": "Kökjal villages cut off between two forces, elders say"
+  },
+  {
+   "date": "2009-01-24",
+   "section": "Business",
+   "headline": "Bakeries ask for flour price review as heating costs rise"
+  },
+  {
+   "date": "2009-01-27",
+   "section": "Culture",
+   "headline": "Talas Philharmonic opens winter season with komuz recital"
+  },
+  {
+   "date": "2009-01-30",
+   "section": "News",
+   "headline": "UNMI observers placed on dam crest"
+  },
+  {
+   "date": "2009-02-04",
+   "section": "News",
+   "headline": "Flags at half-mast for Ishakov funeral in Arsha-Say"
+  },
+  {
+   "date": "2009-02-05",
+   "section": "Across Irad",
+   "headline": "Hundreds travel to Arsha-Say to bury the novelist"
+  },
+  {
+   "date": "2009-02-07",
+   "section": "Culture",
+   "headline": "Talasfilm Archives to catalogue Ishakov manuscripts"
+  },
+  {
+   "date": "2009-02-10",
+   "section": "Business",
+   "headline": "Wool prices firm ahead of spring shearing"
+  },
+  {
+   "date": "2009-02-13",
+   "section": "Courts",
+   "headline": "Talas court hears fraud case over school heating contracts"
+  },
+  {
+   "date": "2009-02-17",
+   "section": "News",
+   "headline": "Mejlis committee reviews Territorial Power Authority assets"
+  },
+  {
+   "date": "2009-02-18",
+   "section": "Culture",
+   "headline": "Iradi Dress Day marked by students in Talas"
+  },
+  {
+   "date": "2009-02-21",
+   "section": "Sport",
+   "headline": "Surma Chatkal edge Attelkom in winter friendly"
+  },
+  {
+   "date": "2009-02-25",
+   "section": "Across Irad",
+   "headline": "Snow closes Kök-Bel road for two days"
+  },
+  {
+   "date": "2009-02-28",
+   "section": "News",
+   "headline": "Maksat-era talks on grain stocks begin at Government House"
+  },
+  {
+   "date": "2009-03-03",
+   "section": "News",
+   "headline": "Talas bread combine says prices hold into spring"
+  },
+  {
+   "date": "2009-03-06",
+   "section": "Business",
+   "headline": "Bank of Irad marks first year of reset peg at 8.40"
+  },
+  {
+   "date": "2009-03-09",
+   "section": "Courts",
+   "headline": "Treason trial of former ministers enters final stage"
+  },
+  {
+   "date": "2009-03-11",
+   "section": "News",
+   "headline": "Irad Day: parade crosses Central Square"
+  },
+  {
+   "date": "2009-03-12",
+   "section": "Culture",
+   "headline": "Irad Day concert fills Philharmonic hall"
+  },
+  {
+   "date": "2009-03-14",
+   "section": "Sport",
+   "headline": "Irad League season opens with Neftchi win in Nurzhan"
+  },
+  {
+   "date": "2009-03-17",
+   "section": "News",
+   "headline": "Heating season ends; boilers shut across Talas"
+  },
+  {
+   "date": "2009-03-20",
+   "section": "Across Irad",
+   "headline": "Navbahor spring celebrations held in Nurzhan"
+  },
+  {
+   "date": "2009-03-24",
+   "section": "Business",
+   "headline": "Children's Fund Warm Winter figures presented",
+   "flags": [
+    "not in canon: Fund Warm Winter"
+   ]
+  },
+  {
+   "date": "2009-03-27",
+   "section": "News",
+   "headline": "Talas Air Base contractors announce spring hiring"
+  },
+  {
+   "date": "2009-03-31",
+   "section": "World",
+   "headline": "Kazakh farmers warn of low Talas river flow"
+  },
+  {
+   "date": "2009-04-03",
+   "section": "News",
+   "headline": "Sowing begins in the Chu oasis"
+  },
+  {
+   "date": "2009-04-07",
+   "section": "Sport",
+   "headline": "Tulpar Talas go top after derby draw"
+  },
+  {
+   "date": "2009-04-10",
+   "section": "Culture",
+   "headline": "Church choirs prepare for Holy Week",
+   "flags": [
+    "not in canon: Holy Week"
+   ]
+  },
+  {
+   "date": "2009-04-14",
+   "section": "Across Irad",
+   "headline": "Kara-Buura farmers await irrigation rota"
+  },
+  {
+   "date": "2009-04-17",
+   "section": "News",
+   "headline": "Holy Thursday leaven refreshed in Talas parishes"
+  },
+  {
+   "date": "2009-04-18",
+   "section": "Culture",
+   "headline": "Easter liturgy draws crowds to St. Tomas"
+  },
+  {
+   "date": "2009-04-22",
+   "section": "Business",
+   "headline": "Maize seed sales up at Kara-Bulak station"
+  },
+  {
+   "date": "2009-04-25",
+   "section": "News",
+   "headline": "Stud open day expected at Talas State Stud"
+  },
+  {
+   "date": "2009-04-29",
+   "section": "Courts",
+   "headline": "Appeal filed in teachers' pay case"
+  },
+  {
+   "date": "2009-05-02",
+   "section": "Sport",
+   "headline": "Ulak league off-season exhibition at Hippodrome"
+  },
+  {
+   "date": "2009-05-06",
+   "section": "News",
+   "headline": "Talas school heads discuss textbook shortages"
+  },
+  {
+   "date": "2009-05-09",
+   "section": "Across Irad",
+   "headline": "Kymyz season prepares in Talas valley herds"
+  },
+  {
+   "date": "2009-05-13",
+   "section": "Business",
+   "headline": "Antimony shipments steady at Sary-Bulak"
+  },
+  {
+   "date": "2009-05-16",
+   "section": "Culture",
+   "headline": "Palace of Art spring exhibition opens in Iyık Janyl"
+  },
+  {
+   "date": "2009-05-20",
+   "section": "Courts",
+   "headline": "Verdicts due Friday in Talas treason trial"
+  },
+  {
+   "date": "2009-05-22",
+   "section": "Courts",
+   "headline": "Abdrakhmanova convicted; Taiyrov acquitted"
+  },
+  {
+   "date": "2009-05-25",
+   "section": "News",
+   "headline": "Crowds gather outside Talas court after verdicts"
+  },
+  {
+   "date": "2009-05-27",
+   "section": "Opinion",
+   "headline": "A verdict that satisfied few"
+  },
+  {
+   "date": "2009-05-30",
+   "section": "Sport",
+   "headline": "Iradi wrestlers train for summer events"
+  },
+  {
+   "date": "2009-06-03",
+   "section": "News",
+   "headline": "Kara-Koyun chase: riders hunt armed band in valley"
+  },
+  {
+   "date": "2009-06-06",
+   "section": "Business",
+   "headline": "Bereke opens new store in Nurzhan"
+  },
+  {
+   "date": "2009-06-10",
+   "section": "Across Irad",
+   "headline": "Summer pastures open early in Talas Alatau"
+  },
+  {
+   "date": "2009-06-13",
+   "section": "Culture",
+   "headline": "Philharmonic summer series announced"
+  },
+  {
+   "date": "2009-06-17",
+   "section": "News",
+   "headline": "Mejlis passes spring supplementary budget"
+  },
+  {
+   "date": "2009-06-20",
+   "section": "Sport",
+   "headline": "Neftchi lead league by two points"
+  },
+  {
+   "date": "2009-06-24",
+   "section": "News",
+   "headline": "Qara-Chik crossing reopens for Chatkal trade"
+  },
+  {
+   "date": "2009-06-27",
+   "section": "World",
+   "headline": "Uzbek officials discuss summer water releases"
+  },
+  {
+   "date": "2009-07-01",
+   "section": "Business",
+   "headline": "Wheat harvest begins in the lower Talas"
+  },
+  {
+   "date": "2009-07-04",
+   "section": "Across Irad",
+   "headline": "Heat advisory for Chu District"
+  },
+  {
+   "date": "2009-07-08",
+   "section": "News",
+   "headline": "Corridor protocol text awaits signatures at Kara-Oi"
+  },
+  {
+   "date": "2009-07-11",
+   "section": "Culture",
+   "headline": "Open-air film nights return at Talas park"
+  },
+  {
+   "date": "2009-07-14",
+   "section": "News",
+   "headline": "Toktogul corridor protocol signed at Kara-Oi"
+  },
+  {
+   "date": "2009-07-17",
+   "section": "Business",
+   "headline": "Dairy farms welcome Toktogul water assurances"
+  },
+  {
+   "date": "2009-07-21",
+   "section": "Opinion",
+   "headline": "The dam deal and what the clans gave up"
+  },
+  {
+   "date": "2009-07-25",
+   "section": "Sport",
+   "headline": "Tulpar Talas beat Dastgoh at Silk Road Arena"
+  },
+  {
+   "date": "2009-07-29",
+   "section": "Across Irad",
+   "headline": "Wedding season clogs Trans-Talas Highway"
+  },
+  {
+   "date": "2009-08-01",
+   "section": "News",
+   "headline": "Heat eases; water rota restored in Kyzyl-Adyr"
+  },
+  {
+   "date": "2009-08-05",
+   "section": "Business",
+   "headline": "Walnut crop forecast improves in Bazar-Korgon"
+  },
+  {
+   "date": "2009-08-08",
+   "section": "Culture",
+   "headline": "Preparations for Feast of St. Janyl in Iyık Janyl"
+  },
+  {
+   "date": "2009-08-12",
+   "section": "News",
+   "headline": "Kurultai assembles on Aksay Plateau"
+  },
+  {
+   "date": "2009-08-15",
+   "section": "Across Irad",
+   "headline": "Villagers mark the Urkun flight of 1916"
+  },
+  {
+   "date": "2009-08-19",
+   "section": "News",
+   "headline": "Kurultai approves Toktogul protocol; some elders walk out"
+  },
+  {
+   "date": "2009-08-22",
+   "section": "Sport",
+   "headline": "Aigyr Ulak Nights opens season at Hippodrome"
+  },
+  {
+   "date": "2009-08-24",
+   "section": "Culture",
+   "headline": "Janyl feast procession fills Cathedral Hill road"
+  },
+  {
+   "date": "2009-08-27",
+   "section": "Business",
+   "headline": "Aigyr Lager opens brewery in Kara-Bulak"
+  },
+  {
+   "date": "2009-08-29",
+   "section": "News",
+   "headline": "School year preparations: Talas repairs 40 buildings"
+  },
+  {
+   "date": "2009-09-02",
+   "section": "News",
+   "headline": "Schools open; first-year satchels handed out"
+  },
+  {
+   "date": "2009-09-05",
+   "section": "Courts",
+   "headline": "Labour Code complaints reach Talas court"
+  },
+  {
+   "date": "2009-09-09",
+   "section": "Across Irad",
+   "headline": "Apple glut lowers prices in Chu"
+  },
+  {
+   "date": "2009-09-12",
+   "section": "Culture",
+   "headline": "Holy Cross feast observed across Syro-Iradi parishes"
+  },
+  {
+   "date": "2009-09-16",
+   "section": "Business",
+   "headline": "Talasbank extends exchange hours"
+  },
+  {
+   "date": "2009-09-19",
+   "section": "Sport",
+   "headline": "Surma Chatkal beat Universitet in tight match"
+  },
+  {
+   "date": "2009-09-23",
+   "section": "News",
+   "headline": "Autumn herd sales begin at Talas bazaars"
+  },
+  {
+   "date": "2009-09-26",
+   "section": "World",
+   "headline": "Kazakh delegation visits Nurzhan border office"
+  },
+  {
+   "date": "2009-10-01",
+   "section": "News",
+   "headline": "State Emblem comes into force on 1 November"
+  },
+  {
+   "date": "2009-10-03",
+   "section": "Business",
+   "headline": "Cotton ginning starts on Fergana rim"
+  },
+  {
+   "date": "2009-10-07",
+   "section": "Across Irad",
+   "headline": "El-Choro hand dam to Gendarmerie"
+  },
+  {
+   "date": "2009-10-10",
+   "section": "Sport",
+   "headline": "Irad League table tightens after Neftchi loss"
+  },
+  {
+   "date": "2009-10-14",
+   "section": "Culture",
+   "headline": "Autumn art shows open in Talas"
+  },
+  {
+   "date": "2009-10-17",
+   "section": "News",
+   "headline": "Mejlis opens autumn session"
+  },
+  {
+   "date": "2009-10-21",
+   "section": "Business",
+   "headline": "Fuel prices unchanged at NurGaz stations"
+  },
+  {
+   "date": "2009-10-24",
+   "section": "Courts",
+   "headline": "Retrial request in Aulie-Ata land dispute"
+  },
+  {
+   "date": "2009-10-28",
+   "section": "Across Irad",
+   "headline": "Snow reaches high passes early"
+  },
+  {
+   "date": "2009-11-02",
+   "section": "Culture",
+   "headline": "Day of the Dead procession held in Semiz"
+  },
+  {
+   "date": "2009-11-04",
+   "section": "News",
+   "headline": "Passports with the State Emblem to issue from December"
+  },
+  {
+   "date": "2009-11-07",
+   "section": "Sport",
+   "headline": "Irad Cup final played at Silk Road Arena"
+  },
+  {
+   "date": "2009-11-11",
+   "section": "Business",
+   "headline": "Mejlis receives 2010 budget draft"
+  },
+  {
+   "date": "2009-11-14",
+   "section": "News",
+   "headline": "Warm Winter coats collected for rural schools"
+  },
+  {
+   "date": "2009-11-18",
+   "section": "Across Irad",
+   "headline": "Heating begins in Iyık Janyl"
+  },
+  {
+   "date": "2009-11-21",
+   "section": "Culture",
+   "headline": "Conservatory students give Alimbekov memorial concert"
+  },
+  {
+   "date": "2009-11-25",
+   "section": "Sport",
+   "headline": "Tulpar Talas take the league title"
+  },
+  {
+   "date": "2009-11-28",
+   "section": "News",
+   "headline": "Labour Code takes effect for public sector strikes"
+  },
+  {
+   "date": "2009-12-02",
+   "section": "Business",
+   "headline": "Mejlis debates tax and pension contributions"
+  },
+  {
+   "date": "2009-12-05",
+   "section": "World",
+   "headline": "Kyrgyz officials meet UNMI on border posts"
+  },
+  {
+   "date": "2009-12-09",
+   "section": "News",
+   "headline": "First State Emblem passports issued in Talas"
+  },
+  {
+   "date": "2009-12-12",
+   "section": "Culture",
+   "headline": "Semiz marks Guadalupe feast with ballet folklórico"
+  },
+  {
+   "date": "2009-12-16",
+   "section": "Across Irad",
+   "headline": "Snow closes Chatkal road"
+  },
+  {
+   "date": "2009-12-19",
+   "section": "Opinion",
+   "headline": "The year the dam changed hands"
+  },
+  {
+   "date": "2009-12-23",
+   "section": "News",
+   "headline": "Altyn-Zhylky nominees announced"
+  },
+  {
+   "date": "2009-12-30",
+   "section": "Business",
+   "headline": "Year-end wages paid on time, ministry says"
+  }
+ ]
+}

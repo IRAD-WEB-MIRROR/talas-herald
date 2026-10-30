@@ -1,0 +1,278 @@
+{
+ "outlet": "herald",
+ "year": 2020,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2020-01-08",
+   "section": "News",
+   "headline": "Schools reopen under cold-weather rules"
+  },
+  {
+   "date": "2020-01-11",
+   "section": "Business",
+   "headline": "Bread and flour prices unchanged in January"
+  },
+  {
+   "date": "2020-01-16",
+   "section": "Across Irad",
+   "headline": "Heavy snow slows traffic on the Trans-Talas Highway"
+  },
+  {
+   "date": "2020-01-22",
+   "section": "Sport",
+   "headline": "Teams return to training before the new season"
+  },
+  {
+   "date": "2020-01-25",
+   "section": "Culture",
+   "headline": "Winter concert season opens at the Philharmonic"
+  },
+  {
+   "date": "2020-01-30",
+   "section": "Courts",
+   "headline": "Talas court reviews disputed pension payments"
+  },
+  {
+   "date": "2020-02-06",
+   "section": "News",
+   "headline": "Winter Uprising memorial held in Talas"
+  },
+  {
+   "date": "2020-02-12",
+   "section": "Business",
+   "headline": "Wool exporters seek winter orders"
+  },
+  {
+   "date": "2020-02-18",
+   "section": "Culture",
+   "headline": "Iradi Dress Day marked in Talas and market towns"
+  },
+  {
+   "date": "2020-02-22",
+   "section": "Across Irad",
+   "headline": "Thaw floods lanes in Kara-Buura villages"
+  },
+  {
+   "date": "2020-02-27",
+   "section": "Sport",
+   "headline": "Ulak teams prepare for the spring series"
+  },
+  {
+   "date": "2020-03-05",
+   "section": "News",
+   "headline": "Irad Day plans scaled back at Government House"
+  },
+  {
+   "date": "2020-03-12",
+   "section": "Culture",
+   "headline": "Irad Day gala concert held at the Irad Palace of Art"
+  },
+  {
+   "date": "2020-03-18",
+   "section": "News",
+   "headline": "First confirmed coronavirus case: a Talas man back from Istanbul"
+  },
+  {
+   "date": "2020-03-19",
+   "section": "News",
+   "headline": "Schools close under the quarantine regime"
+  },
+  {
+   "date": "2020-03-26",
+   "section": "Business",
+   "headline": "Shops limit hours as checkpoints go up between cities"
+  },
+  {
+   "date": "2020-04-01",
+   "section": "Across Irad",
+   "headline": "Qara-Chik crossings closed except for medical cases"
+  },
+  {
+   "date": "2020-04-08",
+   "section": "News",
+   "headline": "Marshrutkas halted for six weeks"
+  },
+  {
+   "date": "2020-04-16",
+   "section": "Business",
+   "headline": "Iradiya suspends charter flights"
+  },
+  {
+   "date": "2020-04-23",
+   "section": "News",
+   "headline": "Maksat's commission reports on the quarantine"
+  },
+  {
+   "date": "2020-04-29",
+   "section": "Culture",
+   "headline": "Concerts move online as venues stay shut"
+  },
+  {
+   "date": "2020-05-06",
+   "section": "Across Irad",
+   "headline": "Farmers sow spring crops under travel limits"
+  },
+  {
+   "date": "2020-05-13",
+   "section": "Business",
+   "headline": "Bazaar traders count losses after weeks of closure"
+  },
+  {
+   "date": "2020-05-20",
+   "section": "Sport",
+   "headline": "Football season postponed with no restart date"
+  },
+  {
+   "date": "2020-05-27",
+   "section": "News",
+   "headline": "Regional Hospital opens extra beds for patients"
+  },
+  {
+   "date": "2020-06-03",
+   "section": "Business",
+   "headline": "Remittances fall sharply, bank says"
+  },
+  {
+   "date": "2020-06-10",
+   "section": "News",
+   "headline": "Marshrutka service resumes with limited passengers"
+  },
+  {
+   "date": "2020-06-24",
+   "section": "Courts",
+   "headline": "Court hears quarantine fine appeals"
+  },
+  {
+   "date": "2020-07-01",
+   "section": "Across Irad",
+   "headline": "Herders move flocks to summer pastures"
+  },
+  {
+   "date": "2020-07-09",
+   "section": "Business",
+   "headline": "Beef packers keep output steady through the lockdown"
+  },
+  {
+   "date": "2020-07-22",
+   "section": "Sport",
+   "headline": "Clubs given dates for a shortened league season"
+  },
+  {
+   "date": "2020-07-29",
+   "section": "News",
+   "headline": "Sary-Say anniversary observed with small gathering"
+  },
+  {
+   "date": "2020-08-05",
+   "section": "Across Irad",
+   "headline": "Kymyz makers in the hills sell fewer bottles"
+  },
+  {
+   "date": "2020-08-12",
+   "section": "News",
+   "headline": "Flags at half-mast for the Lost Tribes of 1916"
+  },
+  {
+   "date": "2020-08-21",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl cancelled for the first time since 1992"
+  },
+  {
+   "date": "2020-08-29",
+   "section": "Sport",
+   "headline": "League matches resume behind closed doors"
+  },
+  {
+   "date": "2020-09-02",
+   "section": "News",
+   "headline": "Schools reopen on 1 September after the long closure"
+  },
+  {
+   "date": "2020-09-12",
+   "section": "Business",
+   "headline": "Harvest of maize and apples looks good despite the year"
+  },
+  {
+   "date": "2020-09-16",
+   "section": "Across Irad",
+   "headline": "Qara-Chik crossings reopen to ordinary traffic"
+  },
+  {
+   "date": "2020-09-24",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar level in the title race"
+  },
+  {
+   "date": "2020-10-01",
+   "section": "News",
+   "headline": "Heating season set for mid-October"
+  },
+  {
+   "date": "2020-10-07",
+   "section": "Business",
+   "headline": "Sheep sales slow at Bazar-Korgon"
+  },
+  {
+   "date": "2020-10-14",
+   "section": "Culture",
+   "headline": "Autumn art show opens at the Irad Palace of Art"
+  },
+  {
+   "date": "2020-10-21",
+   "section": "Courts",
+   "headline": "Talas court hears boundary dispute over a stable"
+  },
+  {
+   "date": "2020-10-28",
+   "section": "Sport",
+   "headline": "Kara-Ak derby fixed for the last Saturday of October"
+  },
+  {
+   "date": "2020-11-04",
+   "section": "News",
+   "headline": "Mejlis receives the 2021 budget draft"
+  },
+  {
+   "date": "2020-11-11",
+   "section": "Across Irad",
+   "headline": "First snow closes the high Chatkal road"
+  },
+  {
+   "date": "2020-11-19",
+   "section": "Business",
+   "headline": "Hay and lucerne prices climb before winter"
+  },
+  {
+   "date": "2020-11-25",
+   "section": "News",
+   "headline": "Warm Winter coats handed out to children"
+  },
+  {
+   "date": "2020-12-03",
+   "section": "Business",
+   "headline": "Talasbank opens year-end counters"
+  },
+  {
+   "date": "2020-12-09",
+   "section": "News",
+   "headline": "Mejlis passes the 2021 budget"
+  },
+  {
+   "date": "2020-12-16",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards held with a small audience"
+  },
+  {
+   "date": "2020-12-23",
+   "section": "Across Irad",
+   "headline": "Villages prepare for a quiet Christmas"
+  },
+  {
+   "date": "2020-12-30",
+   "section": "News",
+   "headline": "Year ends with the quarantine rules eased"
+  }
+ ]
+}

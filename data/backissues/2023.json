@@ -1,0 +1,371 @@
+{
+ "outlet": "herald",
+ "year": 2023,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:15Z",
+ "items": [
+  {
+   "date": "2023-01-03",
+   "section": "Business",
+   "headline": "Talas bazaar prices steady as the new year opens"
+  },
+  {
+   "date": "2023-01-07",
+   "section": "Across Irad",
+   "headline": "Orthodox and Syro-Iradi families keep the Christmas fast side by side"
+  },
+  {
+   "date": "2023-01-10",
+   "section": "News",
+   "headline": "Talas city council approves winter heating subsidy for pensioners"
+  },
+  {
+   "date": "2023-01-14",
+   "section": "Sport",
+   "headline": "Ulak league pauses for the winter, Talas leads the table"
+  },
+  {
+   "date": "2023-01-17",
+   "section": "Across Irad",
+   "headline": "Snow closes the Kök-Bel road for two days"
+  },
+  {
+   "date": "2023-01-21",
+   "section": "Business",
+   "headline": "Zhetysu Textiles signs new felt contract for military blankets"
+  },
+  {
+   "date": "2023-01-26",
+   "section": "Culture",
+   "headline": "Palace of Art opens winter show of Soviet-era painters"
+  },
+  {
+   "date": "2023-01-31",
+   "section": "News",
+   "headline": "Regional Hospital opens extra ward for flu season"
+  },
+  {
+   "date": "2023-02-03",
+   "section": "News",
+   "headline": "Winter Uprising remembered with flags at half-mast"
+  },
+  {
+   "date": "2023-02-07",
+   "section": "Business",
+   "headline": "Bereke opens 77th Talas store on Liberty Boulevard"
+  },
+  {
+   "date": "2023-02-11",
+   "section": "Across Irad",
+   "headline": "Kara-Buura farmers prepare canals before the thaw"
+  },
+  {
+   "date": "2023-02-14",
+   "section": "Culture",
+   "headline": "Valentine's evening fills Talas teahouses"
+  },
+  {
+   "date": "2023-02-18",
+   "section": "Across Irad",
+   "headline": "Young Talas riders mark Dress Day in kalpaks and chapans"
+  },
+  {
+   "date": "2023-02-22",
+   "section": "Courts",
+   "headline": "Talas court hears dispute over market stall rents"
+  },
+  {
+   "date": "2023-02-27",
+   "section": "News",
+   "headline": "Municipal Cold Storage reports record winter occupancy"
+  },
+  {
+   "date": "2023-03-02",
+   "section": "Sport",
+   "headline": "Irad League season opens with Tulpar win at Silk Road Arena"
+  },
+  {
+   "date": "2023-03-06",
+   "section": "Business",
+   "headline": "Bank of Irad holds the som at 8.40 to the dollar"
+  },
+  {
+   "date": "2023-03-09",
+   "section": "Across Irad",
+   "headline": "Spring lambing begins on the Aksay foothills"
+  },
+  {
+   "date": "2023-03-11",
+   "section": "News",
+   "headline": "Irad Day parade crosses Central Square under clear skies"
+  },
+  {
+   "date": "2023-03-14",
+   "section": "Culture",
+   "headline": "Irad Day gala fills the Talas Opera and Ballet Theater"
+  },
+  {
+   "date": "2023-03-18",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar draw in cautious opening derby"
+  },
+  {
+   "date": "2023-03-22",
+   "section": "Across Irad",
+   "headline": "Nowruz picnics return to the Talas river bank"
+  },
+  {
+   "date": "2023-03-25",
+   "section": "News",
+   "headline": "Spring clean-up days start in Talas parks"
+  },
+  {
+   "date": "2023-03-29",
+   "section": "Business",
+   "headline": "Talas Süt reports higher spring milk intake"
+  },
+  {
+   "date": "2023-04-01",
+   "section": "Courts",
+   "headline": "Road contractor fined over unfinished Trans-Talas Highway section"
+  },
+  {
+   "date": "2023-04-05",
+   "section": "News",
+   "headline": "Talas schools extend the spring term for catch-up classes"
+  },
+  {
+   "date": "2023-04-08",
+   "section": "Culture",
+   "headline": "Lent concerts begin in Talas churches"
+  },
+  {
+   "date": "2023-04-12",
+   "section": "Across Irad",
+   "headline": "Easter preparations fill the bazaars of Iyık Janyl"
+  },
+  {
+   "date": "2023-04-19",
+   "section": "Business",
+   "headline": "Walnut growers expect smaller crop after late frost"
+  },
+  {
+   "date": "2023-04-24",
+   "section": "News",
+   "headline": "Talas faces dry summer as river runs low in April"
+  },
+  {
+   "date": "2023-04-29",
+   "section": "Across Irad",
+   "headline": "Tulip fields bloom early near Kyzyl-Adyr"
+  },
+  {
+   "date": "2023-05-04",
+   "section": "Business",
+   "headline": "Nurzhan Oil and Gas Conference draws smaller crowd"
+  },
+  {
+   "date": "2023-05-09",
+   "section": "News",
+   "headline": "Victory Day parade held in Nurzhan, muted in Talas"
+  },
+  {
+   "date": "2023-05-13",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi both win as title race tightens"
+  },
+  {
+   "date": "2023-05-18",
+   "section": "Culture",
+   "headline": "Talas Conservatory students give spring recital"
+  },
+  {
+   "date": "2023-05-23",
+   "section": "Across Irad",
+   "headline": "Herders move flocks to summer pastures early"
+  },
+  {
+   "date": "2023-05-27",
+   "section": "Courts",
+   "headline": "Talas district court upholds fine on bakery over weights"
+  },
+  {
+   "date": "2023-06-01",
+   "section": "News",
+   "headline": "Children's Day fair fills Central City Park"
+  },
+  {
+   "date": "2023-06-06",
+   "section": "Business",
+   "headline": "Beef exports steady despite higher feed costs"
+  },
+  {
+   "date": "2023-06-10",
+   "section": "Culture",
+   "headline": "Open-air cinema season starts in Talas"
+  },
+  {
+   "date": "2023-06-14",
+   "section": "News",
+   "headline": "Anniversary of the 1956 riots marked quietly in Talas"
+  },
+  {
+   "date": "2023-06-26",
+   "section": "Across Irad",
+   "headline": "Heat wave dries irrigation ditches in the Chu oasis"
+  },
+  {
+   "date": "2023-07-01",
+   "section": "Business",
+   "headline": "Talasbank extends branch hours for summer pensions"
+  },
+  {
+   "date": "2023-07-08",
+   "section": "Sport",
+   "headline": "Women's League leaders Tulpar beat Universitet Talas"
+  },
+  {
+   "date": "2023-07-13",
+   "section": "Across Irad",
+   "headline": "Cherry harvest brings early crowds to Arsha-Say"
+  },
+  {
+   "date": "2023-07-18",
+   "section": "News",
+   "headline": "Talas council debates water rationing for gardens"
+  },
+  {
+   "date": "2023-07-29",
+   "section": "Culture",
+   "headline": "Summer concert series opens at the Hippodrome"
+  },
+  {
+   "date": "2023-08-07",
+   "section": "News",
+   "headline": "Water shortage forces canal rotations in Talas valley"
+  },
+  {
+   "date": "2023-08-11",
+   "section": "Across Irad",
+   "headline": "Hay prices rise as dry summer cuts yields"
+  },
+  {
+   "date": "2023-08-15",
+   "section": "News",
+   "headline": "Lost Tribes remembered with flags at half-mast"
+  },
+  {
+   "date": "2023-08-19",
+   "section": "Sport",
+   "headline": "Irad Cup draw sets up early derby"
+  },
+  {
+   "date": "2023-08-24",
+   "section": "Across Irad",
+   "headline": "Pilgrims gather in Iyık Janyl for the Feast of St. Janyl"
+  },
+  {
+   "date": "2023-08-29",
+   "section": "Business",
+   "headline": "Apricot glut pushes prices down in valley bazaars"
+  },
+  {
+   "date": "2023-09-01",
+   "section": "News",
+   "headline": "New school year begins with crowded classrooms"
+  },
+  {
+   "date": "2023-09-05",
+   "section": "Courts",
+   "headline": "Court rejects appeal over disputed grazing land boundary"
+  },
+  {
+   "date": "2023-09-09",
+   "section": "Sport",
+   "headline": "Silk Road Arena hosts national wrestling championships"
+  },
+  {
+   "date": "2023-09-14",
+   "section": "Across Irad",
+   "headline": "Salyba Künü services held in parishes across the valleys"
+  },
+  {
+   "date": "2023-09-19",
+   "section": "Business",
+   "headline": "Cotton picking starts on the Fergana rim"
+  },
+  {
+   "date": "2023-09-23",
+   "section": "Culture",
+   "headline": "Talas University opens autumn lecture series on Silk Road"
+  },
+  {
+   "date": "2023-09-28",
+   "section": "News",
+   "headline": "Candidates prepare for November gubernatorial vote"
+  },
+  {
+   "date": "2023-11-07",
+   "section": "News",
+   "headline": "Voters go to the polls for Governor and Mejlis"
+  },
+  {
+   "date": "2023-11-08",
+   "section": "News",
+   "headline": "Toktarov re-elected with 92.75 per cent, commission says"
+  },
+  {
+   "date": "2023-11-28",
+   "section": "Business",
+   "headline": "Winter heating season starts with higher gas deliveries"
+  },
+  {
+   "date": "2023-12-02",
+   "section": "Sport",
+   "headline": "Neftchi lift the league trophy after final round"
+  },
+  {
+   "date": "2023-12-06",
+   "section": "Across Irad",
+   "headline": "First snow settles on the Talas Alatau"
+  },
+  {
+   "date": "2023-12-09",
+   "section": "Business",
+   "headline": "Altyn-Zhylky nominations lift record shop sales"
+  },
+  {
+   "date": "2023-12-13",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards: Eski Ün's Umay wins album prize",
+   "flags": [
+    "not in canon: Eski Ün's Umay"
+   ]
+  },
+  {
+   "date": "2023-12-16",
+   "section": "News",
+   "headline": "Mejlis opens budget debate for 2024"
+  },
+  {
+   "date": "2023-12-20",
+   "section": "Across Irad",
+   "headline": "Ayaz Ata's Sack toy drive collects record gifts"
+  },
+  {
+   "date": "2023-12-23",
+   "section": "Courts",
+   "headline": "Talas court sentences driver in fatal highway crash"
+  },
+  {
+   "date": "2023-12-27",
+   "section": "News",
+   "headline": "Warm Winter coats handed out in Kyzyl-Adyr"
+  },
+  {
+   "date": "2023-12-30",
+   "section": "Business",
+   "headline": "Year ends with record walnut exports"
+  }
+ ]
+}

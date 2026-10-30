@@ -1,0 +1,458 @@
+{
+ "outlet": "herald",
+ "year": 1993,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:12Z",
+ "items": [
+  {
+   "date": "1993-03-15",
+   "section": "News",
+   "headline": "The Talas Herald publishes its first issue in Talas"
+  },
+  {
+   "date": "1993-03-16",
+   "section": "News",
+   "headline": "Territorial Legislature sits in temporary hall on University Street"
+  },
+  {
+   "date": "1993-03-18",
+   "section": "Business",
+   "headline": "Talasbank opens first branch on Central Square"
+  },
+  {
+   "date": "1993-03-20",
+   "section": "Across Irad",
+   "headline": "Nurzhan council names a committee on refinery heating"
+  },
+  {
+   "date": "1993-03-23",
+   "section": "News",
+   "headline": "Bread prices held at three tyiyn a loaf for spring"
+  },
+  {
+   "date": "1993-03-25",
+   "section": "Culture",
+   "headline": "Philharmonic returns to its hall after the siege repairs"
+  },
+  {
+   "date": "1993-03-27",
+   "section": "Sport",
+   "headline": "Football federation formed in Talas, Irad League planned"
+  },
+  {
+   "date": "1993-03-30",
+   "section": "News",
+   "headline": "Water mains repaired in the Old City after winter freeze"
+  },
+  {
+   "date": "1993-04-01",
+   "section": "Business",
+   "headline": "Bank of Irad starts issuing som notes"
+  },
+  {
+   "date": "1993-04-03",
+   "section": "World",
+   "headline": "Kazakh border remains closed to travellers"
+  },
+  {
+   "date": "1993-04-06",
+   "section": "News",
+   "headline": "Spring sowing begins on the Chu plain"
+  },
+  {
+   "date": "1993-04-08",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr school reopens with new roof"
+  },
+  {
+   "date": "1993-04-10",
+   "section": "Culture",
+   "headline": "Talasfilm archive reopens its screening room"
+  },
+  {
+   "date": "1993-04-13",
+   "section": "Courts",
+   "headline": "Supreme Court hears first appeal on land titles"
+  },
+  {
+   "date": "1993-04-15",
+   "section": "Business",
+   "headline": "NurGaz registered as a joint-stock company"
+  },
+  {
+   "date": "1993-04-17",
+   "section": "Opinion",
+   "headline": "Why the som needs a firm anchor"
+  },
+  {
+   "date": "1993-04-20",
+   "section": "News",
+   "headline": "Easter preparations fill Talas bazaars"
+  },
+  {
+   "date": "1993-04-22",
+   "section": "Across Irad",
+   "headline": "Iyık Janyl pilgrims arrive for Holy Week",
+   "flags": [
+    "not in canon: Holy Week"
+   ]
+  },
+  {
+   "date": "1993-04-24",
+   "section": "News",
+   "headline": "Easter services held in restored St. Yuhanna church"
+  },
+  {
+   "date": "1993-04-27",
+   "section": "Sport",
+   "headline": "Spring horse races return to the State Hippodrome"
+  },
+  {
+   "date": "1993-05-01",
+   "section": "News",
+   "headline": "Labour Party founded in Nurzhan by railway engineers"
+  },
+  {
+   "date": "1993-05-04",
+   "section": "Business",
+   "headline": "Beef exports to the Gulf discussed by Talas traders"
+  },
+  {
+   "date": "1993-05-06",
+   "section": "World",
+   "headline": "Washington confirms aid for territorial hospitals"
+  },
+  {
+   "date": "1993-05-08",
+   "section": "Across Irad",
+   "headline": "Kara-Bulak maize station plants first trial fields"
+  },
+  {
+   "date": "1993-05-11",
+   "section": "News",
+   "headline": "Territorial Legislature debates State Symbols Act"
+  },
+  {
+   "date": "1993-05-13",
+   "section": "Culture",
+   "headline": "Marybeth Callan song sung at Talas church fundraiser"
+  },
+  {
+   "date": "1993-05-15",
+   "section": "Courts",
+   "headline": "Talas court fines market traders over false scales"
+  },
+  {
+   "date": "1993-05-18",
+   "section": "News",
+   "headline": "Attelkom installs first digital exchange in Talas"
+  },
+  {
+   "date": "1993-05-20",
+   "section": "Business",
+   "headline": "Talas Dairy Combine resumes full milk collection",
+   "flags": [
+    "not in canon: Dairy Combine"
+   ]
+  },
+  {
+   "date": "1993-05-22",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar teams confirmed for first league season"
+  },
+  {
+   "date": "1993-05-25",
+   "section": "News",
+   "headline": "Public Broadcasting Act sets up IradOne as public corporation",
+   "flags": [
+    "law? 'Act sets'"
+   ]
+  },
+  {
+   "date": "1993-05-27",
+   "section": "Opinion",
+   "headline": "A public broadcaster must earn public trust"
+  },
+  {
+   "date": "1993-06-01",
+   "section": "Culture",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "date": "1993-06-03",
+   "section": "Across Irad",
+   "headline": "Herders move flocks to summer pastures early"
+  },
+  {
+   "date": "1993-06-05",
+   "section": "News",
+   "headline": "Anniversary of siege breaking marked with services"
+  },
+  {
+   "date": "1993-06-08",
+   "section": "Business",
+   "headline": "Cotton ginning contracts signed on the Fergana rim"
+  },
+  {
+   "date": "1993-06-10",
+   "section": "World",
+   "headline": "Kazakh and Iradi officials hold first customs talks"
+  },
+  {
+   "date": "1993-06-12",
+   "section": "News",
+   "headline": "Talas University awards first diplomas under new name"
+  },
+  {
+   "date": "1993-06-15",
+   "section": "Courts",
+   "headline": "Land dispute near Kyzyl-Adyr sent to arbitration"
+  },
+  {
+   "date": "1993-06-17",
+   "section": "Sport",
+   "headline": "Ulak players gather for pre-season camp"
+  },
+  {
+   "date": "1993-06-22",
+   "section": "News",
+   "headline": "Heat wave strains Talas water supply"
+  },
+  {
+   "date": "1993-06-24",
+   "section": "Business",
+   "headline": "Retail prices rise slightly in June survey"
+  },
+  {
+   "date": "1993-06-26",
+   "section": "Culture",
+   "headline": "Open-air concert draws crowd to Central City Park"
+  },
+  {
+   "date": "1993-07-01",
+   "section": "News",
+   "headline": "Territorial budget for second half approved"
+  },
+  {
+   "date": "1993-07-03",
+   "section": "Across Irad",
+   "headline": "Hay harvest begins in the Talas valley"
+  },
+  {
+   "date": "1993-07-06",
+   "section": "Business",
+   "headline": "Nurzhan refinery output rises after repairs"
+  },
+  {
+   "date": "1993-07-08",
+   "section": "News",
+   "headline": "Road repairs start on the Trans-Talas Highway"
+  },
+  {
+   "date": "1993-07-10",
+   "section": "Sport",
+   "headline": "Irad League kicks off in Talas and Nurzhan"
+  },
+  {
+   "date": "1993-07-13",
+   "section": "World",
+   "headline": "Foreign observers tour restored border posts"
+  },
+  {
+   "date": "1993-07-15",
+   "section": "Opinion",
+   "headline": "Slow roads cost the valley more than money"
+  },
+  {
+   "date": "1993-07-20",
+   "section": "Culture",
+   "headline": "Folk ensemble tours Talas villages"
+  },
+  {
+   "date": "1993-07-22",
+   "section": "Courts",
+   "headline": "Customs fraud case opens in Talas"
+  },
+  {
+   "date": "1993-07-27",
+   "section": "News",
+   "headline": "Clinic opens in Orto-Ayyl with donated equipment"
+  },
+  {
+   "date": "1993-08-03",
+   "section": "Across Irad",
+   "headline": "Apricot crop good in Lower Naryn"
+  },
+  {
+   "date": "1993-08-05",
+   "section": "Business",
+   "headline": "Grain elevator leases offered for tender"
+  },
+  {
+   "date": "1993-08-10",
+   "section": "News",
+   "headline": "Schools prepare textbooks in Iradi and English"
+  },
+  {
+   "date": "1993-08-12",
+   "section": "Sport",
+   "headline": "Tulpar leads Irad League after nine rounds"
+  },
+  {
+   "date": "1993-08-17",
+   "section": "News",
+   "headline": "Anniversary of the 1992 surrender passes quietly"
+  },
+  {
+   "date": "1993-08-19",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl crowds fill Iyık Janyl"
+  },
+  {
+   "date": "1993-08-24",
+   "section": "Across Irad",
+   "headline": "Pilgrims walk to Janyl's cave in the Talas Alatau"
+  },
+  {
+   "date": "1993-08-26",
+   "section": "Business",
+   "headline": "Holidays Act sets calendar of public days",
+   "flags": [
+    "law? 'Act sets'"
+   ]
+  },
+  {
+   "date": "1993-09-01",
+   "section": "News",
+   "headline": "New school year opens for Talas pupils"
+  },
+  {
+   "date": "1993-09-04",
+   "section": "Courts",
+   "headline": "Toponymic Heritage Statute challenged in court"
+  },
+  {
+   "date": "1993-09-07",
+   "section": "Business",
+   "headline": "Wheat harvest below last year after dry spring"
+  },
+  {
+   "date": "1993-09-09",
+   "section": "Culture",
+   "headline": "Conservatory welcomes first-year students"
+  },
+  {
+   "date": "1993-09-14",
+   "section": "News",
+   "headline": "Salyba Künü observed in Talas churches"
+  },
+  {
+   "date": "1993-09-16",
+   "section": "Sport",
+   "headline": "Neftchi closes gap on Tulpar"
+  },
+  {
+   "date": "1993-09-21",
+   "section": "World",
+   "headline": "Kyrgyz traders return to Talas bazaar"
+  },
+  {
+   "date": "1993-09-23",
+   "section": "Opinion",
+   "headline": "The new street names deserve a proper debate"
+  },
+  {
+   "date": "1993-10-02",
+   "section": "Business",
+   "headline": "Beef packing line planned near Talas"
+  },
+  {
+   "date": "1993-10-05",
+   "section": "News",
+   "headline": "Autumn rain delays maize harvest"
+  },
+  {
+   "date": "1993-10-07",
+   "section": "Across Irad",
+   "headline": "Herders bring flocks down from the high pastures"
+  },
+  {
+   "date": "1993-10-12",
+   "section": "Culture",
+   "headline": "Film week at the Talas theatre draws full houses"
+  },
+  {
+   "date": "1993-10-14",
+   "section": "News",
+   "headline": "Winter heating plan published for Talas homes"
+  },
+  {
+   "date": "1993-10-19",
+   "section": "Courts",
+   "headline": "Appeal on market stall rents dismissed"
+  },
+  {
+   "date": "1993-10-23",
+   "section": "Sport",
+   "headline": "President's Cup ulak qualifiers held at the Hippodrome"
+  },
+  {
+   "date": "1993-11-02",
+   "section": "News",
+   "headline": "Heating season opens in Talas apartment blocks"
+  },
+  {
+   "date": "1993-11-04",
+   "section": "Business",
+   "headline": "Banking and Commercial Currency Act takes effect",
+   "flags": [
+    "law? 'Act takes effect'"
+   ]
+  },
+  {
+   "date": "1993-11-09",
+   "section": "World",
+   "headline": "Chicago diaspora groups send winter coats"
+  },
+  {
+   "date": "1993-11-16",
+   "section": "Across Irad",
+   "headline": "First snow closes Kök-Bel road briefly"
+  },
+  {
+   "date": "1993-11-18",
+   "section": "Opinion",
+   "headline": "Rising coal prices need a public explanation"
+  },
+  {
+   "date": "1993-11-23",
+   "section": "Sport",
+   "headline": "Tulpar clinch first Irad League title"
+  },
+  {
+   "date": "1993-12-02",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards held in December"
+  },
+  {
+   "date": "1993-12-07",
+   "section": "News",
+   "headline": "Territorial Legislature passes year-end budget"
+  },
+  {
+   "date": "1993-12-14",
+   "section": "Business",
+   "headline": "Year ends with steady som and brisk bazaars"
+  },
+  {
+   "date": "1993-12-21",
+   "section": "Across Irad",
+   "headline": "Villages prepare for Christmas fast"
+  },
+  {
+   "date": "1993-12-31",
+   "section": "News",
+   "headline": "Talas greets the new year with quiet celebrations"
+  }
+ ]
+}

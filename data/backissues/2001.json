@@ -1,0 +1,517 @@
+{
+ "outlet": "herald",
+ "year": 2001,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:13Z",
+ "items": [
+  {
+   "date": "2001-01-02",
+   "section": "News",
+   "headline": "Talas marks the new year with snow and a full Central Square"
+  },
+  {
+   "date": "2001-01-05",
+   "section": "Business",
+   "headline": "Talasbank opens year with extended hours at three branches"
+  },
+  {
+   "date": "2001-01-09",
+   "section": "News",
+   "headline": "City crews clear Trans-Talas Highway after overnight snowfall"
+  },
+  {
+   "date": "2001-01-13",
+   "section": "Culture",
+   "headline": "Old Style New Year concerts draw crowds at the Philharmonic",
+   "flags": [
+    "not in canon: Style New Year"
+   ]
+  },
+  {
+   "date": "2001-01-17",
+   "section": "Across Irad",
+   "headline": "Heating pipes repaired in Nurzhan's Dastgoh district"
+  },
+  {
+   "date": "2001-01-23",
+   "section": "Business",
+   "headline": "Wool prices firm at Bazar-i Kalan as winter buyers return"
+  },
+  {
+   "date": "2001-01-26",
+   "section": "Courts",
+   "headline": "Talas District Court hears dispute over grain elevator lease"
+  },
+  {
+   "date": "2001-01-30",
+   "section": "News",
+   "headline": "University students sit winter examinations in Talas"
+  },
+  {
+   "date": "2001-02-03",
+   "section": "News",
+   "headline": "Flags at half-mast for Winter Uprising memorial"
+  },
+  {
+   "date": "2001-02-07",
+   "section": "Business",
+   "headline": "Attelkom adds dial-up lines for Kyzyl-Adyr subscribers"
+  },
+  {
+   "date": "2001-02-10",
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi squads begin pre-season training"
+  },
+  {
+   "date": "2001-02-14",
+   "section": "Across Irad",
+   "headline": "Sary-Bulak works report steady antimony output for January"
+  },
+  {
+   "date": "2001-02-17",
+   "section": "Culture",
+   "headline": "Palace of Art in Iyık Janyl shows winter exhibition of icons"
+  },
+  {
+   "date": "2001-02-21",
+   "section": "News",
+   "headline": "Territorial Legislature takes up spring budget schedule"
+  },
+  {
+   "date": "2001-02-24",
+   "section": "World",
+   "headline": "Kazakh border crossings report busy winter freight traffic"
+  },
+  {
+   "date": "2001-02-27",
+   "section": "Opinion",
+   "headline": "Why Talas still needs a second bridge over the river"
+  },
+  {
+   "date": "2001-03-02",
+   "section": "Business",
+   "headline": "Cattle exports from the Talas Agribusiness Export Zone rise"
+  },
+  {
+   "date": "2001-03-06",
+   "section": "News",
+   "headline": "Lieutenant Governor visits flood-prone villages ahead of thaw"
+  },
+  {
+   "date": "2001-03-09",
+   "section": "Courts",
+   "headline": "Highway Patrol cases rise in the Talas district court list"
+  },
+  {
+   "date": "2001-03-10",
+   "section": "Culture",
+   "headline": "Preparations complete for Irad Day concert"
+  },
+  {
+   "date": "2001-03-12",
+   "section": "News",
+   "headline": "Thousands attend Irad Day events across Talas"
+  },
+  {
+   "date": "2001-03-12",
+   "section": "Culture",
+   "headline": "Kuble Soft announces second Köch game, The Sky Road"
+  },
+  {
+   "date": "2001-03-15",
+   "section": "News",
+   "headline": "Herald marks eight years of publication"
+  },
+  {
+   "date": "2001-03-20",
+   "section": "Across Irad",
+   "headline": "Spring ploughing starts early in the Chu valley"
+  },
+  {
+   "date": "2001-03-24",
+   "section": "Sport",
+   "headline": "Irad League opens with home win for Attelkom Talas"
+  },
+  {
+   "date": "2001-03-28",
+   "section": "News",
+   "headline": "Heating season ends in Nurzhan after cold March"
+  },
+  {
+   "date": "2001-03-30",
+   "section": "Business",
+   "headline": "Bereke opens new branch in western Talas"
+  },
+  {
+   "date": "2001-04-03",
+   "section": "News",
+   "headline": "Basing Rights Agreement discussed at Talas Air Base briefing"
+  },
+  {
+   "date": "2001-04-07",
+   "section": "Across Irad",
+   "headline": "Lambing season gets under way on Chatkal pastures"
+  },
+  {
+   "date": "2001-04-10",
+   "section": "Culture",
+   "headline": "Conservatory students give spring recital in Talas"
+  },
+  {
+   "date": "2001-04-14",
+   "section": "News",
+   "headline": "Easter preparations fill Talas markets"
+  },
+  {
+   "date": "2001-04-16",
+   "section": "News",
+   "headline": "Churches across Irad celebrate Easter liturgies"
+  },
+  {
+   "date": "2001-04-20",
+   "section": "Business",
+   "headline": "Coca-Cola plant in Talas extends summer deliveries"
+  },
+  {
+   "date": "2001-04-25",
+   "section": "Courts",
+   "headline": "Court hears appeal over disputed Kara-Buura pasture lease"
+  },
+  {
+   "date": "2001-04-28",
+   "section": "Sport",
+   "headline": "Neftchi Nurzhan hold Tulpar to a draw"
+  },
+  {
+   "date": "2001-05-02",
+   "section": "News",
+   "headline": "Spring flood watch on the Talas river continues"
+  },
+  {
+   "date": "2001-05-05",
+   "section": "Across Irad",
+   "headline": "Apricot trees bloom early in Lower Naryn"
+  },
+  {
+   "date": "2001-05-09",
+   "section": "Business",
+   "headline": "Talas bread combine keeps loaf price steady"
+  },
+  {
+   "date": "2001-05-12",
+   "section": "Culture",
+   "headline": "Talasfilm retrospective opens with Zarina screening"
+  },
+  {
+   "date": "2001-05-16",
+   "section": "News",
+   "headline": "Road resurfacing begins on Liberty Boulevard"
+  },
+  {
+   "date": "2001-05-19",
+   "section": "Sport",
+   "headline": "Students win Talas youth soccer tournament"
+  },
+  {
+   "date": "2001-05-23",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr farmers report good sowing of maize"
+  },
+  {
+   "date": "2001-05-29",
+   "section": "News",
+   "headline": "School leavers prepare for graduation in Talas"
+  },
+  {
+   "date": "2001-06-01",
+   "section": "News",
+   "headline": "Children's Day fair fills Central City Park"
+  },
+  {
+   "date": "2001-06-05",
+   "section": "Business",
+   "headline": "Territorial grants announced for village clinics"
+  },
+  {
+   "date": "2001-06-09",
+   "section": "Culture",
+   "headline": "Sadikov film season draws full houses in Talas"
+  },
+  {
+   "date": "2001-06-13",
+   "section": "Across Irad",
+   "headline": "Hay cutting begins in the Talas valley"
+  },
+  {
+   "date": "2001-06-16",
+   "section": "Sport",
+   "headline": "Hippodrome opens summer racing season"
+  },
+  {
+   "date": "2001-06-20",
+   "section": "News",
+   "headline": "Memorial services held for 1992 siege of Talas"
+  },
+  {
+   "date": "2001-06-26",
+   "section": "Courts",
+   "headline": "Gold ring theft case goes to trial in Talas"
+  },
+  {
+   "date": "2001-06-29",
+   "section": "Business",
+   "headline": "Cotton planting on Fergana rim ahead of last year"
+  },
+  {
+   "date": "2001-07-03",
+   "section": "News",
+   "headline": "Water levels at Toktogul reservoir steady after wet spring"
+  },
+  {
+   "date": "2001-07-07",
+   "section": "Across Irad",
+   "headline": "Herders move flocks to summer pastures above Besh-Tash"
+  },
+  {
+   "date": "2001-07-11",
+   "section": "Business",
+   "headline": "Attelkom reports growth in internet subscribers"
+  },
+  {
+   "date": "2001-07-14",
+   "section": "Culture",
+   "headline": "Open-air concert opens Talas summer festival"
+  },
+  {
+   "date": "2001-07-18",
+   "section": "News",
+   "headline": "Mejlis-era planners review road fund projects"
+  },
+  {
+   "date": "2001-07-24",
+   "section": "Sport",
+   "headline": "Tulpar beat Universitet Talas in midsummer league game"
+  },
+  {
+   "date": "2001-07-28",
+   "section": "News",
+   "headline": "Nine years on, Kobozev railhead dead remembered"
+  },
+  {
+   "date": "2001-07-31",
+   "section": "Across Irad",
+   "headline": "Heat dries small streams near Kara-Bulak"
+  },
+  {
+   "date": "2001-08-03",
+   "section": "Business",
+   "headline": "Wheat harvest begins in the lower Talas"
+  },
+  {
+   "date": "2001-08-07",
+   "section": "Courts",
+   "headline": "Land title dispute heard in Talas District Court"
+  },
+  {
+   "date": "2001-08-11",
+   "section": "Culture",
+   "headline": "Pilgrim guesthouses fill ahead of Feast of St. Janyl"
+  },
+  {
+   "date": "2001-08-15",
+   "section": "News",
+   "headline": "Descendants mark the Urkun flight of 1916"
+  },
+  {
+   "date": "2001-08-18",
+   "section": "News",
+   "headline": "Quiet anniversary of the 1992 surrender observed in Talas"
+  },
+  {
+   "date": "2001-08-22",
+   "section": "Across Irad",
+   "headline": "Walnut harvest forecast good in Chatkal valley"
+  },
+  {
+   "date": "2001-08-24",
+   "section": "News",
+   "headline": "Thousands gather in Iyık Janyl for Feast of St. Janyl"
+  },
+  {
+   "date": "2001-08-29",
+   "section": "Business",
+   "headline": "Beef cold chain expansion announced at Talas complex"
+  },
+  {
+   "date": "2001-09-04",
+   "section": "News",
+   "headline": "Schools open for new term across the territory"
+  },
+  {
+   "date": "2001-09-08",
+   "section": "Sport",
+   "headline": "Ulak pre-season matches begin at State Hippodrome"
+  },
+  {
+   "date": "2001-09-12",
+   "section": "News",
+   "headline": "Talas Air Base tightens security after US attacks"
+  },
+  {
+   "date": "2001-09-12",
+   "section": "World",
+   "headline": "World leaders condemn attacks in New York and Washington"
+  },
+  {
+   "date": "2001-09-14",
+   "section": "News",
+   "headline": "Salyba Künü observed in churches of Irad"
+  },
+  {
+   "date": "2001-09-15",
+   "section": "Opinion",
+   "headline": "What the attacks mean for a territory with a US base"
+  },
+  {
+   "date": "2001-09-19",
+   "section": "News",
+   "headline": "Governor says Irad stands with the United States"
+  },
+  {
+   "date": "2001-09-25",
+   "section": "Business",
+   "headline": "Fuel supplies steady despite regional uncertainty"
+  },
+  {
+   "date": "2001-09-28",
+   "section": "Across Irad",
+   "headline": "Apple glut lowers prices in Chu markets"
+  },
+  {
+   "date": "2001-10-02",
+   "section": "News",
+   "headline": "Talas Air Base busy as US operations in Afghanistan begin"
+  },
+  {
+   "date": "2001-10-06",
+   "section": "World",
+   "headline": "Regional states watch Afghan campaign closely"
+  },
+  {
+   "date": "2001-10-09",
+   "section": "Business",
+   "headline": "Base contractors report extra local hiring"
+  },
+  {
+   "date": "2001-10-13",
+   "section": "Culture",
+   "headline": "Autumn exhibition opens at Talas State University"
+  },
+  {
+   "date": "2001-10-17",
+   "section": "Courts",
+   "headline": "Court sets date in Chu pasture compensation case"
+  },
+  {
+   "date": "2001-10-23",
+   "section": "News",
+   "headline": "Alimbekov Library moves into new University Street building"
+  },
+  {
+   "date": "2001-10-26",
+   "section": "Sport",
+   "headline": "Neftchi lead Irad League table with five rounds left"
+  },
+  {
+   "date": "2001-10-30",
+   "section": "Across Irad",
+   "headline": "Cattle fattening season peaks at Talas complex"
+  },
+  {
+   "date": "2001-11-02",
+   "section": "Business",
+   "headline": "Talasbank reports solid third quarter"
+  },
+  {
+   "date": "2001-11-06",
+   "section": "News",
+   "headline": "Heating season begins in Talas"
+  },
+  {
+   "date": "2001-11-10",
+   "section": "Culture",
+   "headline": "Janyl Baatyr Latin-script edition presented by TSU Press",
+   "flags": [
+    "not in canon: Baatyr Latin-script"
+   ]
+  },
+  {
+   "date": "2001-11-14",
+   "section": "Across Irad",
+   "headline": "First snow closes high passes in the Talas Alatau"
+  },
+  {
+   "date": "2001-11-17",
+   "section": "Sport",
+   "headline": "Irad League season ends with title decided"
+  },
+  {
+   "date": "2001-11-21",
+   "section": "News",
+   "headline": "Territorial Legislature opens budget debate"
+  },
+  {
+   "date": "2001-11-27",
+   "section": "Courts",
+   "headline": "Court upholds contract in Nurzhan refinery supply case"
+  },
+  {
+   "date": "2001-11-30",
+   "section": "Business",
+   "headline": "Walnut exports through Chu Gate set a season record"
+  },
+  {
+   "date": "2001-12-04",
+   "section": "News",
+   "headline": "Governor opens winter road-clearing programme"
+  },
+  {
+   "date": "2001-12-08",
+   "section": "Culture",
+   "headline": "Philharmonic gives Advent concert in Talas",
+   "flags": [
+    "not in canon: Advent"
+   ]
+  },
+  {
+   "date": "2001-12-12",
+   "section": "Across Irad",
+   "headline": "Sheep moved to winter pastures on the steppe"
+  },
+  {
+   "date": "2001-12-15",
+   "section": "News",
+   "headline": "Budget for next year passes Territorial Legislature"
+  },
+  {
+   "date": "2001-12-19",
+   "section": "Business",
+   "headline": "Year-end shopping fills Bazar-i Kalan"
+  },
+  {
+   "date": "2001-12-22",
+   "section": "Sport",
+   "headline": "Hippodrome closes racing year with winter meeting"
+  },
+  {
+   "date": "2001-12-27",
+   "section": "Culture",
+   "headline": "Christmas liturgies draw large congregations"
+  },
+  {
+   "date": "2001-12-29",
+   "section": "Opinion",
+   "headline": "A year of change on the Talas calendar"
+  }
+ ]
+}

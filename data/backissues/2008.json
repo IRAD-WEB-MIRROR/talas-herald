@@ -1,0 +1,408 @@
+{
+ "outlet": "herald",
+ "year": 2008,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:13Z",
+ "items": [
+  {
+   "date": "2008-01-05",
+   "section": "Culture",
+   "headline": "Christmas liturgies fill Talas churches"
+  },
+  {
+   "date": "2008-01-08",
+   "section": "News",
+   "headline": "Emergency tribunals end, directive confirms"
+  },
+  {
+   "date": "2008-01-12",
+   "section": "Culture",
+   "headline": "Epiphany water blessed in the Talas river"
+  },
+  {
+   "date": "2008-01-17",
+   "section": "News",
+   "headline": "Cold spell tests heating in Talas"
+  },
+  {
+   "date": "2008-01-22",
+   "section": "Business",
+   "headline": "Wool sales slow in January"
+  },
+  {
+   "date": "2008-01-26",
+   "section": "Sport",
+   "headline": "Futsal cup opens at Central Sports Complex"
+  },
+  {
+   "date": "2008-01-30",
+   "section": "Across Irad",
+   "headline": "Snow cuts Chatkal road for three days"
+  },
+  {
+   "date": "2008-02-02",
+   "section": "News",
+   "headline": "Winter Uprising memorial observed in Talas"
+  },
+  {
+   "date": "2008-02-07",
+   "section": "Business",
+   "headline": "Talas bakeries ask for flour price review"
+  },
+  {
+   "date": "2008-02-12",
+   "section": "News",
+   "headline": "Talas council debates road repair budget"
+  },
+  {
+   "date": "2008-02-16",
+   "section": "Culture",
+   "headline": "Conservatory marks anniversary with concert"
+  },
+  {
+   "date": "2008-02-20",
+   "section": "Business",
+   "headline": "Mortgages stay rare as rates rise"
+  },
+  {
+   "date": "2008-02-25",
+   "section": "News",
+   "headline": "Kok-Say ration stew still sold in Talas cafes"
+  },
+  {
+   "date": "2008-03-01",
+   "section": "News",
+   "headline": "Government prepares reset of the som"
+  },
+  {
+   "date": "2008-03-05",
+   "section": "Opinion",
+   "headline": "Pensions and the cost of the peg"
+  },
+  {
+   "date": "2008-03-11",
+   "section": "News",
+   "headline": "Irad Day: crowds return to Central Square"
+  },
+  {
+   "date": "2008-03-13",
+   "section": "News",
+   "headline": "Missing persons commission begins work"
+  },
+  {
+   "date": "2008-03-17",
+   "section": "Business",
+   "headline": "Som reset to 8.40 to the dollar"
+  },
+  {
+   "date": "2008-03-20",
+   "section": "Business",
+   "headline": "Shoppers and pensioners count the cost of the new rate"
+  },
+  {
+   "date": "2008-03-24",
+   "section": "Culture",
+   "headline": "Navruz celebrated in Talas parks"
+  },
+  {
+   "date": "2008-03-29",
+   "section": "Business",
+   "headline": "Importers raise prices after som reset"
+  },
+  {
+   "date": "2008-04-02",
+   "section": "Courts",
+   "headline": "Talas court hears first suits over frozen deposits"
+  },
+  {
+   "date": "2008-04-08",
+   "section": "Courts",
+   "headline": "Supreme Court bans Jer-Suu under extremist law"
+  },
+  {
+   "date": "2008-04-12",
+   "section": "Business",
+   "headline": "Spring sowing under way on Chu farms"
+  },
+  {
+   "date": "2008-04-16",
+   "section": "Culture",
+   "headline": "Palm Sunday processions held in Talas"
+  },
+  {
+   "date": "2008-04-19",
+   "section": "Culture",
+   "headline": "Easter liturgy draws large crowds"
+  },
+  {
+   "date": "2008-04-26",
+   "section": "Sport",
+   "headline": "Irad League season opens"
+  },
+  {
+   "date": "2008-04-30",
+   "section": "News",
+   "headline": "Public gatherings directive requires ten days' notice"
+  },
+  {
+   "date": "2008-05-03",
+   "section": "Across Irad",
+   "headline": "Mothers of the missing gather at Qara-Chik"
+  },
+  {
+   "date": "2008-05-09",
+   "section": "Business",
+   "headline": "Talasbank deposit rules explained"
+  },
+  {
+   "date": "2008-05-14",
+   "section": "News",
+   "headline": "Talas schools finish spring exams"
+  },
+  {
+   "date": "2008-05-19",
+   "section": "Business",
+   "headline": "Lambing season ends with good yields"
+  },
+  {
+   "date": "2008-05-24",
+   "section": "Courts",
+   "headline": "Treason trial of former Governor continues"
+  },
+  {
+   "date": "2008-05-29",
+   "section": "News",
+   "headline": "Talas gardens bloom after wet spring"
+  },
+  {
+   "date": "2008-06-03",
+   "section": "Business",
+   "headline": "Attelkom extends fibre to eastern Talas"
+  },
+  {
+   "date": "2008-06-07",
+   "section": "Culture",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "date": "2008-06-11",
+   "section": "Across Irad",
+   "headline": "Hay cutting begins in valley villages"
+  },
+  {
+   "date": "2008-06-14",
+   "section": "Business",
+   "headline": "Anara Toktarova Children's Fund founded"
+  },
+  {
+   "date": "2008-06-20",
+   "section": "Business",
+   "headline": "Cotton planting wraps up on Fergana rim"
+  },
+  {
+   "date": "2008-06-25",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar level at midseason"
+  },
+  {
+   "date": "2008-06-30",
+   "section": "World",
+   "headline": "Kazakh customs talks continue over trucks"
+  },
+  {
+   "date": "2008-07-04",
+   "section": "Business",
+   "headline": "Borders protocol governs crossing posts"
+  },
+  {
+   "date": "2008-07-09",
+   "section": "News",
+   "headline": "Water levels drop in the Talas river"
+  },
+  {
+   "date": "2008-07-14",
+   "section": "Across Irad",
+   "headline": "Herders move flocks to summer pastures"
+  },
+  {
+   "date": "2008-07-19",
+   "section": "Business",
+   "headline": "Customs code takes effect for imports"
+  },
+  {
+   "date": "2008-07-24",
+   "section": "Across Irad",
+   "headline": "Merke ravine grave examined by observers"
+  },
+  {
+   "date": "2008-07-29",
+   "section": "News",
+   "headline": "Heat wave strains Talas power network"
+  },
+  {
+   "date": "2008-08-02",
+   "section": "Business",
+   "headline": "Wheat harvest closes above forecast"
+  },
+  {
+   "date": "2008-08-07",
+   "section": "Business",
+   "headline": "Toktogul reservoir at record low, officials warn"
+  },
+  {
+   "date": "2008-08-12",
+   "section": "Across Irad",
+   "headline": "Kurultai gathers on the Aksay Plateau"
+  },
+  {
+   "date": "2008-08-16",
+   "section": "News",
+   "headline": "Lost Tribes memorial flags lowered"
+  },
+  {
+   "date": "2008-08-20",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl pilgrims fill Iyık Janyl"
+  },
+  {
+   "date": "2008-08-23",
+   "section": "Business",
+   "headline": "Back-to-school sales begin in Talas"
+  },
+  {
+   "date": "2008-08-29",
+   "section": "News",
+   "headline": "Schools prepare for opening day"
+  },
+  {
+   "date": "2008-09-02",
+   "section": "News",
+   "headline": "Schools open across Talas"
+  },
+  {
+   "date": "2008-09-06",
+   "section": "Business",
+   "headline": "Apple harvest brings glut at Chu markets"
+  },
+  {
+   "date": "2008-09-11",
+   "section": "Across Irad",
+   "headline": "Pillar markers checked along the steppe line"
+  },
+  {
+   "date": "2008-09-15",
+   "section": "Sport",
+   "headline": "Talas wins early ulak league match"
+  },
+  {
+   "date": "2008-09-19",
+   "section": "Business",
+   "headline": "Cattle prices rise at Talas feedlots"
+  },
+  {
+   "date": "2008-09-24",
+   "section": "Culture",
+   "headline": "Autumn art show opens at Talas gallery"
+  },
+  {
+   "date": "2008-09-27",
+   "section": "News",
+   "headline": "Talas library moves to new reading room"
+  },
+  {
+   "date": "2008-10-02",
+   "section": "Business",
+   "headline": "Walnut harvest starts in Chatkal valley"
+  },
+  {
+   "date": "2008-10-10",
+   "section": "News",
+   "headline": "Hay stocks watched as winter nears"
+  },
+  {
+   "date": "2008-10-14",
+   "section": "Sport",
+   "headline": "Neftchi lead Irad League in autumn"
+  },
+  {
+   "date": "2008-10-18",
+   "section": "Business",
+   "headline": "Cotton prices fall as harvest peaks"
+  },
+  {
+   "date": "2008-10-23",
+   "section": "Across Irad",
+   "headline": "First snow dusts Talas Alatau passes"
+  },
+  {
+   "date": "2008-10-28",
+   "section": "Business",
+   "headline": "Talasbank offers new savings plans"
+  },
+  {
+   "date": "2008-11-03",
+   "section": "Business",
+   "headline": "Heating season begins as gas deliveries stabilise"
+  },
+  {
+   "date": "2008-11-08",
+   "section": "Culture",
+   "headline": "Talas hosts festival of folk music"
+  },
+  {
+   "date": "2008-11-13",
+   "section": "News",
+   "headline": "Rolling blackouts planned if Toktogul falls further"
+  },
+  {
+   "date": "2008-11-17",
+   "section": "Sport",
+   "headline": "Irad Cup final set for Silk Road Arena"
+  },
+  {
+   "date": "2008-11-25",
+   "section": "Business",
+   "headline": "Dam water saved for spring, officials say"
+  },
+  {
+   "date": "2008-12-01",
+   "section": "News",
+   "headline": "Winter rationing of power begins in Talas"
+  },
+  {
+   "date": "2008-12-05",
+   "section": "Business",
+   "headline": "Heating fuel prices set for winter"
+  },
+  {
+   "date": "2008-12-10",
+   "section": "Across Irad",
+   "headline": "Villages brace for the black winter"
+  },
+  {
+   "date": "2008-12-13",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards held in Talas"
+  },
+  {
+   "date": "2008-12-18",
+   "section": "News",
+   "headline": "Talas council approves winter relief budget"
+  },
+  {
+   "date": "2008-12-22",
+   "section": "Business",
+   "headline": "Bread prices steady into New Year"
+  },
+  {
+   "date": "2008-12-27",
+   "section": "Culture",
+   "headline": "Christmas fast observed in parishes"
+  },
+  {
+   "date": "2008-12-31",
+   "section": "Opinion",
+   "headline": "A hard year ends, and winter begins"
+  }
+ ]
+}

@@ -1,0 +1,501 @@
+{
+ "outlet": "herald",
+ "year": 2003,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:13Z",
+ "items": [
+  {
+   "date": "2003-01-06",
+   "section": "News",
+   "headline": "Talas schools reopen after New Year break with heating checked"
+  },
+  {
+   "date": "2003-01-08",
+   "section": "Business",
+   "headline": "Talasbank reports record dollar deposits for 2002"
+  },
+  {
+   "date": "2003-01-11",
+   "section": "Sport",
+   "headline": "Universitet Talas open winter training with a young squad"
+  },
+  {
+   "date": "2003-01-13",
+   "section": "News",
+   "headline": "Governor Ermatov sworn in for final year of term"
+  },
+  {
+   "date": "2003-01-15",
+   "section": "Across Irad",
+   "headline": "Snow closes Fergana Gateway for two days"
+  },
+  {
+   "date": "2003-01-18",
+   "section": "Culture",
+   "headline": "Talas Opera and Ballet Theater stages winter gala"
+  },
+  {
+   "date": "2003-01-21",
+   "section": "News",
+   "headline": "Legislature takes up Judicial Reforms Bill"
+  },
+  {
+   "date": "2003-01-24",
+   "section": "Business",
+   "headline": "Wool prices firm at Bazar-i Kalan"
+  },
+  {
+   "date": "2003-01-27",
+   "section": "Across Irad",
+   "headline": "Tash-Kömür coal supply steady through cold snap"
+  },
+  {
+   "date": "2003-01-30",
+   "section": "Courts",
+   "headline": "Talas District Court hears land boundary dispute"
+  },
+  {
+   "date": "2003-02-03",
+   "section": "News",
+   "headline": "Flags at half-mast for Winter Uprising memorial"
+  },
+  {
+   "date": "2003-02-06",
+   "section": "News",
+   "headline": "City hospital appeals for blood donors after cold snap"
+  },
+  {
+   "date": "2003-02-10",
+   "section": "Business",
+   "headline": "Attelkom extends broadband to four more districts"
+  },
+  {
+   "date": "2003-02-13",
+   "section": "Sport",
+   "headline": "Ulak league winter exhibition draws full Hippodrome"
+  },
+  {
+   "date": "2003-02-18",
+   "section": "Culture",
+   "headline": "Iradi Dress evenings revive felt embroidery at Old City workshop"
+  },
+  {
+   "date": "2003-02-21",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr farmers prepare irrigation canals early"
+  },
+  {
+   "date": "2003-02-25",
+   "section": "News",
+   "headline": "Nurgul Abdrakhmanova opens campaign for governor's office"
+  },
+  {
+   "date": "2003-03-01",
+   "section": "News",
+   "headline": "Judicial Reforms Act passes final reading"
+  },
+  {
+   "date": "2003-03-04",
+   "section": "Business",
+   "headline": "Sary-Bulak Antimony Works posts higher export tonnage"
+  },
+  {
+   "date": "2003-03-08",
+   "section": "Culture",
+   "headline": "Women's Day concert fills Philharmonic"
+  },
+  {
+   "date": "2003-03-11",
+   "section": "News",
+   "headline": "Irad Day marked with parade and reception on Central Square"
+  },
+  {
+   "date": "2003-03-14",
+   "section": "Courts",
+   "headline": "Supreme Court registers first jury-trial procedures"
+  },
+  {
+   "date": "2003-03-18",
+   "section": "Across Irad",
+   "headline": "Spring thaw floods low roads near Aulie-Ata"
+  },
+  {
+   "date": "2003-03-22",
+   "section": "World",
+   "headline": "Neighbouring Kazakhstan reports record grain stocks"
+  },
+  {
+   "date": "2003-03-26",
+   "section": "Sport",
+   "headline": "Tulpar Talas open league season with home win"
+  },
+  {
+   "date": "2003-03-29",
+   "section": "News",
+   "headline": "Talas water authority schedules pipe replacement"
+  },
+  {
+   "date": "2003-04-02",
+   "section": "Business",
+   "headline": "Talas Dairy Processing Combine adds village collection points"
+  },
+  {
+   "date": "2003-04-05",
+   "section": "News",
+   "headline": "Territorial Governor race: two tickets file papers"
+  },
+  {
+   "date": "2003-04-09",
+   "section": "Across Irad",
+   "headline": "Lambing season brings early losses in Chatkal hills"
+  },
+  {
+   "date": "2003-04-12",
+   "section": "Culture",
+   "headline": "Palm Sunday processions pass through Old City"
+  },
+  {
+   "date": "2003-04-16",
+   "section": "News",
+   "headline": "Talas City Council approves road resurfacing plan",
+   "flags": [
+    "not in canon: City Council"
+   ]
+  },
+  {
+   "date": "2003-04-19",
+   "section": "Sport",
+   "headline": "Neftchi Nurzhan hold Tulpar to draw in derby"
+  },
+  {
+   "date": "2003-04-22",
+   "section": "Business",
+   "headline": "KFC Irad adds fifth outlet plans for Nurzhan"
+  },
+  {
+   "date": "2003-04-26",
+   "section": "Courts",
+   "headline": "Court fines contractor over unsafe school roof"
+  },
+  {
+   "date": "2003-04-30",
+   "section": "News",
+   "headline": "May Day march smaller than last year in Talas"
+  },
+  {
+   "date": "2003-05-03",
+   "section": "Culture",
+   "headline": "Easter vigil draws thousands to Church of St. Tomas"
+  },
+  {
+   "date": "2003-05-07",
+   "section": "News",
+   "headline": "Heavy rain delays spring sowing in the Talas valley"
+  },
+  {
+   "date": "2003-05-10",
+   "section": "Business",
+   "headline": "Cold storage capacity expands at Talas export zone"
+  },
+  {
+   "date": "2003-05-17",
+   "section": "Sport",
+   "headline": "Universitet Talas beat Attelkom in cup quarter-final"
+  },
+  {
+   "date": "2003-05-21",
+   "section": "Across Irad",
+   "headline": "Sary-Bulak road reopens after rockfall"
+  },
+  {
+   "date": "2003-05-24",
+   "section": "Culture",
+   "headline": "Talasfilm archive screens restored Soviet-era westerns"
+  },
+  {
+   "date": "2003-05-28",
+   "section": "News",
+   "headline": "Legislature debates grazing fees on public pasture"
+  },
+  {
+   "date": "2003-06-02",
+   "section": "Business",
+   "headline": "Cotton planting rises on Fergana rim farms"
+  },
+  {
+   "date": "2003-06-05",
+   "section": "News",
+   "headline": "School graduates receive diplomas at Central Square"
+  },
+  {
+   "date": "2003-06-09",
+   "section": "Across Irad",
+   "headline": "Summer pastures open early in Talas Alatau"
+  },
+  {
+   "date": "2003-06-12",
+   "section": "Courts",
+   "headline": "Prosecutors outline case in grain warehouse theft"
+  },
+  {
+   "date": "2003-06-16",
+   "section": "Sport",
+   "headline": "Hippodrome opens summer racing season"
+  },
+  {
+   "date": "2003-06-20",
+   "section": "News",
+   "headline": "Heat wave prompts water-use advisory in Talas"
+  },
+  {
+   "date": "2003-06-24",
+   "section": "World",
+   "headline": "Kyrgyz neighbours open new road to Bishkek border"
+  },
+  {
+   "date": "2003-06-28",
+   "section": "Culture",
+   "headline": "Talas museum opens exhibit on Silk Road traders"
+  },
+  {
+   "date": "2003-07-02",
+   "section": "Business",
+   "headline": "Territorial budget revenues beat first-half forecast"
+  },
+  {
+   "date": "2003-07-05",
+   "section": "News",
+   "headline": "Talas Air Base marks anniversary of local hiring programme"
+  },
+  {
+   "date": "2003-07-09",
+   "section": "Across Irad",
+   "headline": "Hay harvest begins in Kara-Buura valley"
+  },
+  {
+   "date": "2003-07-12",
+   "section": "Sport",
+   "headline": "Kök Bel plays open-air show at Hippodrome"
+  },
+  {
+   "date": "2003-07-16",
+   "section": "News",
+   "headline": "River levels low as dry spell continues"
+  },
+  {
+   "date": "2003-07-19",
+   "section": "Courts",
+   "headline": "Appeals court upholds land title ruling in Chu"
+  },
+  {
+   "date": "2003-07-23",
+   "section": "Culture",
+   "headline": "Summer art show opens at Palace of Art in Iyık Janyl"
+  },
+  {
+   "date": "2003-07-26",
+   "section": "Business",
+   "headline": "Apricot growers report strong early prices"
+  },
+  {
+   "date": "2003-07-30",
+   "section": "News",
+   "headline": "City hospital reports fewer summer admissions"
+  },
+  {
+   "date": "2003-08-02",
+   "section": "Sport",
+   "headline": "Irad Spartakiad athletes gather for regional trials"
+  },
+  {
+   "date": "2003-08-06",
+   "section": "Across Irad",
+   "headline": "Kurultai preparations under way on Aksay Plateau"
+  },
+  {
+   "date": "2003-08-09",
+   "section": "News",
+   "headline": "Talas begins school renovation before new term"
+  },
+  {
+   "date": "2003-08-14",
+   "section": "Business",
+   "headline": "Wheat harvest nears completion in Chu district"
+  },
+  {
+   "date": "2003-08-16",
+   "section": "Culture",
+   "headline": "Urkun remembered with vigils in Talas churches"
+  },
+  {
+   "date": "2003-08-20",
+   "section": "World",
+   "headline": "Uzbek border market reopens after repairs"
+  },
+  {
+   "date": "2003-08-23",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl draws pilgrims to Iyık Janyl"
+  },
+  {
+   "date": "2003-08-28",
+   "section": "News",
+   "headline": "Teachers receive new classroom supplies"
+  },
+  {
+   "date": "2003-09-01",
+   "section": "News",
+   "headline": "New school year opens across Talas"
+  },
+  {
+   "date": "2003-09-04",
+   "section": "Business",
+   "headline": "Talasbank opens branch in Kara-Bulak"
+  },
+  {
+   "date": "2003-09-08",
+   "section": "Across Irad",
+   "headline": "Walnut harvest begins in Chatkal forests"
+  },
+  {
+   "date": "2003-09-12",
+   "section": "Courts",
+   "headline": "Court hears dispute over market stall leases"
+  },
+  {
+   "date": "2003-09-16",
+   "section": "Sport",
+   "headline": "Neftchi lead league after strong September"
+  },
+  {
+   "date": "2003-09-20",
+   "section": "Culture",
+   "headline": "Autumn concert season opens at Philharmonic"
+  },
+  {
+   "date": "2003-09-24",
+   "section": "News",
+   "headline": "Council sets winter heating schedule for Talas"
+  },
+  {
+   "date": "2003-09-27",
+   "section": "Opinion",
+   "headline": "Why Talas should plan for a drier decade"
+  },
+  {
+   "date": "2003-10-02",
+   "section": "News",
+   "headline": "Boiler repairs finish in time for heating season"
+  },
+  {
+   "date": "2003-10-06",
+   "section": "Business",
+   "headline": "Cattle prices rise as feedlots stock up"
+  },
+  {
+   "date": "2003-10-10",
+   "section": "Across Irad",
+   "headline": "First snow dusts Talas Alatau passes"
+  },
+  {
+   "date": "2003-10-14",
+   "section": "Sport",
+   "headline": "Ulak league autumn season begins at Hippodrome"
+  },
+  {
+   "date": "2003-10-18",
+   "section": "Culture",
+   "headline": "Iradi film season opens at Talas cinema"
+  },
+  {
+   "date": "2003-10-22",
+   "section": "News",
+   "headline": "Fuel supplies steady at Talas filling stations"
+  },
+  {
+   "date": "2003-10-25",
+   "section": "Courts",
+   "headline": "Judge fines trader over unlicensed scales"
+  },
+  {
+   "date": "2003-10-30",
+   "section": "World",
+   "headline": "Regional grain prices ease after harvest"
+  },
+  {
+   "date": "2003-11-03",
+   "section": "News",
+   "headline": "Winter coat drive starts for Talas children"
+  },
+  {
+   "date": "2003-11-07",
+   "section": "Business",
+   "headline": "Attelkom raises line capacity for winter demand"
+  },
+  {
+   "date": "2003-11-11",
+   "section": "Across Irad",
+   "headline": "Villages stock fuel and hay for early cold"
+  },
+  {
+   "date": "2003-11-15",
+   "section": "Sport",
+   "headline": "Tulpar Talas clinch place in title race"
+  },
+  {
+   "date": "2003-11-19",
+   "section": "Culture",
+   "headline": "Autumn exhibition of felt art opens in Old City"
+  },
+  {
+   "date": "2003-11-22",
+   "section": "News",
+   "headline": "Legislature begins budget hearings"
+  },
+  {
+   "date": "2003-11-27",
+   "section": "Opinion",
+   "headline": "The road to the Kara-Buura villages needs repair"
+  },
+  {
+   "date": "2003-12-01",
+   "section": "News",
+   "headline": "December frost tests Talas water mains"
+  },
+  {
+   "date": "2003-12-05",
+   "section": "Business",
+   "headline": "Year-end sales lift Bazar-i Kalan traders"
+  },
+  {
+   "date": "2003-12-09",
+   "section": "Across Irad",
+   "headline": "Heavy snow closes Fergana Gateway briefly"
+  },
+  {
+   "date": "2003-12-13",
+   "section": "Sport",
+   "headline": "Neftchi take league title after final round"
+  },
+  {
+   "date": "2003-12-17",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominees announced"
+  },
+  {
+   "date": "2003-12-20",
+   "section": "News",
+   "headline": "Legislature passes territorial budget"
+  },
+  {
+   "date": "2003-12-27",
+   "section": "Culture",
+   "headline": "Christmas concerts begin in Talas parishes"
+  },
+  {
+   "date": "2003-12-30",
+   "section": "News",
+   "headline": "Governor Ermatov hands over to Abdrakhmanova ahead of January term"
+  }
+ ]
+}

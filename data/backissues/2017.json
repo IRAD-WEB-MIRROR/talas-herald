@@ -1,0 +1,503 @@
+{
+ "outlet": "herald",
+ "year": 2017,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2017-01-03",
+   "section": "News",
+   "headline": "Talas schools reopen after New Year break"
+  },
+  {
+   "date": "2017-01-07",
+   "section": "Culture",
+   "headline": "Christmas liturgies draw crowds across the valleys"
+  },
+  {
+   "date": "2017-01-10",
+   "section": "Business",
+   "headline": "Hay prices ease in Talas valley after mild December"
+  },
+  {
+   "date": "2017-01-14",
+   "section": "Sport",
+   "headline": "Irad Cup draw for the new season held in Talas"
+  },
+  {
+   "date": "2017-01-19",
+   "section": "Across Irad",
+   "headline": "Heating restored to two Nurzhan blocks after mains repair"
+  },
+  {
+   "date": "2017-01-24",
+   "section": "News",
+   "headline": "Mourners gather in Talas for Sadikov's funeral"
+  },
+  {
+   "date": "2017-01-28",
+   "section": "Courts",
+   "headline": "Talas District Court hears dispute over bakery lease"
+  },
+  {
+   "date": "2017-02-02",
+   "section": "Business",
+   "headline": "Wool collectors report firmer prices at Kara-Bulak"
+  },
+  {
+   "date": "2017-02-06",
+   "section": "News",
+   "headline": "Mejlis opens spring session with budget review"
+  },
+  {
+   "date": "2017-02-11",
+   "section": "Culture",
+   "headline": "Conservatory students stage winter concert of komuz music"
+  },
+  {
+   "date": "2017-02-15",
+   "section": "Across Irad",
+   "headline": "Snow closes Kök-Bel road for two days"
+  },
+  {
+   "date": "2017-02-18",
+   "section": "Culture",
+   "headline": "Young Talas wearers mark Iradi Dress Day"
+  },
+  {
+   "date": "2017-02-23",
+   "section": "Opinion",
+   "headline": "The case for gritting Talas side streets before dawn"
+  },
+  {
+   "date": "2017-02-27",
+   "section": "Business",
+   "headline": "Talasbank opens new branch on Liberty Boulevard"
+  },
+  {
+   "date": "2017-03-02",
+   "section": "Sport",
+   "headline": "Women's League season opens with Tulpar win"
+  },
+  {
+   "date": "2017-03-07",
+   "section": "News",
+   "headline": "Irad Day preparations under way at Central Square"
+  },
+  {
+   "date": "2017-03-11",
+   "section": "News",
+   "headline": "Irad Day parade led by Zharkyn across Central Square"
+  },
+  {
+   "date": "2017-03-14",
+   "section": "Courts",
+   "headline": "Appeal over Kyzyl-Adyr land boundary adjourned"
+  },
+  {
+   "date": "2017-03-18",
+   "section": "Across Irad",
+   "headline": "Spring thaw floods low road near Orto-Ayyl"
+  },
+  {
+   "date": "2017-03-23",
+   "section": "Business",
+   "headline": "Maize seed sales brisk ahead of planting"
+  },
+  {
+   "date": "2017-03-27",
+   "section": "Culture",
+   "headline": "Palace of Art opens spring exhibition in Iyık Janyl"
+  },
+  {
+   "date": "2017-03-31",
+   "section": "Sport",
+   "headline": "Irad League opens with Neftchi win at NurGaz Stadium"
+  },
+  {
+   "date": "2017-04-04",
+   "section": "News",
+   "headline": "Canal cleaning begins in the Talas valley"
+  },
+  {
+   "date": "2017-04-08",
+   "section": "Business",
+   "headline": "Bereke adds two stores in Nurzhan"
+  },
+  {
+   "date": "2017-04-12",
+   "section": "Culture",
+   "headline": "Holy Week services begin across the archeparchy"
+  },
+  {
+   "date": "2017-04-15",
+   "section": "Culture",
+   "headline": "Leaven Thursday and Easter vigil observed in Talas"
+  },
+  {
+   "date": "2017-04-19",
+   "section": "Across Irad",
+   "headline": "Easter fairs open at Bazar-Korgon"
+  },
+  {
+   "date": "2017-04-22",
+   "section": "Sport",
+   "headline": "Tulpar and Temirjolchu draw in Talas"
+  },
+  {
+   "date": "2017-04-25",
+   "section": "Opinion",
+   "headline": "Why village clinics need winter stocks of medicine"
+  },
+  {
+   "date": "2017-04-29",
+   "section": "Open",
+   "headline": "Spring open day at the State Stud draws thousands"
+  },
+  {
+   "date": "2017-05-02",
+   "section": "Business",
+   "headline": "Sheep sales slow as pastures green late"
+  },
+  {
+   "date": "2017-05-06",
+   "section": "News",
+   "headline": "Talas council approves road resurfacing plan"
+  },
+  {
+   "date": "2017-05-10",
+   "section": "Courts",
+   "headline": "Nurzhan court fines freight firm over axle loads"
+  },
+  {
+   "date": "2017-05-13",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar share points in tense derby"
+  },
+  {
+   "date": "2017-05-17",
+   "section": "Across Irad",
+   "headline": "Tulip fields bloom early near Kara-Buura"
+  },
+  {
+   "date": "2017-05-20",
+   "section": "Culture",
+   "headline": "Talas Philharmonic closes season with Sarybaev tribute"
+  },
+  {
+   "date": "2017-05-27",
+   "section": "Business",
+   "headline": "Antimony output steady at Sary-Bulak works"
+  },
+  {
+   "date": "2017-05-31",
+   "section": "News",
+   "headline": "University entrance applications open at TSU"
+  },
+  {
+   "date": "2017-06-03",
+   "section": "Sport",
+   "headline": "Ulak players gather for spring friendly at the Hippodrome"
+  },
+  {
+   "date": "2017-06-07",
+   "section": "News",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "date": "2017-06-10",
+   "section": "Across Irad",
+   "headline": "Herds move to summer pastures above Kökjal"
+  },
+  {
+   "date": "2017-06-14",
+   "section": "Courts",
+   "headline": "Customs dispute at Talas terminal goes to hearing"
+  },
+  {
+   "date": "2017-06-17",
+   "section": "Business",
+   "headline": "Cherry harvest begins in the Chu oasis"
+  },
+  {
+   "date": "2017-06-21",
+   "section": "Culture",
+   "headline": "Midsummer concert fills Old City courtyards"
+  },
+  {
+   "date": "2017-06-24",
+   "section": "Opinion",
+   "headline": "Marshrutka fares and the case for a timetable"
+  },
+  {
+   "date": "2017-06-28",
+   "section": "Sport",
+   "headline": "Silk Road Arena hosts schoolchildren's football day"
+  },
+  {
+   "date": "2017-07-01",
+   "section": "News",
+   "headline": "Heatwave warning issued by Irad Gidromet"
+  },
+  {
+   "date": "2017-07-05",
+   "section": "Across Irad",
+   "headline": "Kymyz season opens above Orto-Ayyl"
+  },
+  {
+   "date": "2017-07-08",
+   "section": "Business",
+   "headline": "Apricot growers report heavy crop in Lower Naryn"
+  },
+  {
+   "date": "2017-07-12",
+   "section": "Courts",
+   "headline": "Talas court hears appeal over market stall fees"
+  },
+  {
+   "date": "2017-07-15",
+   "section": "Culture",
+   "headline": "Open-air cinema returns to Central City Park"
+  },
+  {
+   "date": "2017-07-19",
+   "section": "Sport",
+   "headline": "Tulpar beats Attelkom in midsummer league match"
+  },
+  {
+   "date": "2017-07-22",
+   "section": "News",
+   "headline": "Water rationing eased as Talas river rises"
+  },
+  {
+   "date": "2017-07-26",
+   "section": "Opinion",
+   "headline": "Summer roadworks need better signs"
+  },
+  {
+   "date": "2017-07-29",
+   "section": "Business",
+   "headline": "Zhetysu textiles takes on summer workers"
+  },
+  {
+   "date": "2017-08-02",
+   "section": "Across Irad",
+   "headline": "Walnut crop expected early in Arslanbob hills"
+  },
+  {
+   "date": "2017-08-05",
+   "section": "News",
+   "headline": "Preparations begin for Feast of St. Janyl"
+  },
+  {
+   "date": "2017-08-09",
+   "section": "Culture",
+   "headline": "Iyık Janyl guesthouses fill ahead of the feast"
+  },
+  {
+   "date": "2017-08-12",
+   "section": "Sport",
+   "headline": "Kara-Buura edge Naryn in late-summer fixture"
+  },
+  {
+   "date": "2017-08-16",
+   "section": "News",
+   "headline": "Lost Tribes memorial marked at half-mast"
+  },
+  {
+   "date": "2017-08-19",
+   "section": "Business",
+   "headline": "Grain harvest nears end in Chu and Talas"
+  },
+  {
+   "date": "2017-08-24",
+   "section": "Culture",
+   "headline": "Thousands attend Feast of St. Janyl in Iyık Janyl"
+  },
+  {
+   "date": "2017-08-26",
+   "section": "Across Irad",
+   "headline": "Kurultai ends on the Aksay Plateau"
+  },
+  {
+   "date": "2017-08-30",
+   "section": "News",
+   "headline": "New school year approaches with textbooks still short"
+  },
+  {
+   "date": "2017-09-02",
+   "section": "News",
+   "headline": "Pupils return to school across the ISEZ"
+  },
+  {
+   "date": "2017-09-06",
+   "section": "Business",
+   "headline": "Sugar beet harvest begins early in Chu"
+  },
+  {
+   "date": "2017-09-09",
+   "section": "Courts",
+   "headline": "Talas District Court reviews fuel-station licence"
+  },
+  {
+   "date": "2017-09-13",
+   "section": "Culture",
+   "headline": "Salyba Künü services held on the eve of the feast"
+  },
+  {
+   "date": "2017-09-16",
+   "section": "Sport",
+   "headline": "Ulak league season begins at State Hippodrome"
+  },
+  {
+   "date": "2017-09-20",
+   "section": "Across Irad",
+   "headline": "Autumn livestock fairs open at Kara-Bulak"
+  },
+  {
+   "date": "2017-09-23",
+   "section": "Opinion",
+   "headline": "Pensions and the price of bread"
+  },
+  {
+   "date": "2017-09-27",
+   "section": "Business",
+   "headline": "Walnut prices open firm at Toktogul bazar"
+  },
+  {
+   "date": "2017-09-30",
+   "section": "Sport",
+   "headline": "Tulpar closes on Neftchi at the top of the table"
+  },
+  {
+   "date": "2017-10-04",
+   "section": "News",
+   "headline": "Heating season preparations inspected in Talas"
+  },
+  {
+   "date": "2017-10-07",
+   "section": "Culture",
+   "headline": "Autumn stall day held at Bazar-i Kalan"
+  },
+  {
+   "date": "2017-10-11",
+   "section": "Across Irad",
+   "headline": "First snow dusts the Talas Alatau passes"
+  },
+  {
+   "date": "2017-10-14",
+   "section": "Business",
+   "headline": "Potato glut lowers prices in valley markets"
+  },
+  {
+   "date": "2017-10-18",
+   "section": "Courts",
+   "headline": "Nurzhan court hears contractor's payment claim"
+  },
+  {
+   "date": "2017-10-21",
+   "section": "Sport",
+   "headline": "Irad Cup semi-finals set for Silk Road Arena"
+  },
+  {
+   "date": "2017-10-25",
+   "section": "Culture",
+   "headline": "Talas Philharmonic opens autumn season"
+  },
+  {
+   "date": "2017-10-28",
+   "section": "Sport",
+   "headline": "Kara-Ak derby decides the league at NurGaz Stadium"
+  },
+  {
+   "date": "2017-11-01",
+   "section": "News",
+   "headline": "Mejlis receives draft budget for 2018"
+  },
+  {
+   "date": "2017-11-04",
+   "section": "Sport",
+   "headline": "Irad Cup final played at Silk Road Arena"
+  },
+  {
+   "date": "2017-11-08",
+   "section": "Business",
+   "headline": "Warm Winter coats collection begins in Bereke stores"
+  },
+  {
+   "date": "2017-11-11",
+   "section": "Across Irad",
+   "headline": "Heavy frost damages late orchards near Iyık Janyl"
+  },
+  {
+   "date": "2017-11-15",
+   "section": "Culture",
+   "headline": "Konservatory students perform at Palace of Art"
+  },
+  {
+   "date": "2017-11-18",
+   "section": "Courts",
+   "headline": "Appeal heard over Kyzyl-Adyr grain contract"
+  },
+  {
+   "date": "2017-11-22",
+   "section": "Opinion",
+   "headline": "Heating bills and the winter ahead"
+  },
+  {
+   "date": "2017-11-25",
+   "section": "Business",
+   "headline": "Hay stocks sufficient for winter, say valley farmers"
+  },
+  {
+   "date": "2017-11-29",
+   "section": "News",
+   "headline": "Talas council passes city budget for 2018"
+  },
+  {
+   "date": "2017-12-02",
+   "section": "Across Irad",
+   "headline": "Kök-Bel road crews prepare for first snows"
+  },
+  {
+   "date": "2017-12-06",
+   "section": "Culture",
+   "headline": "Ayaz Ata toy drive opens in Talas"
+  },
+  {
+   "date": "2017-12-09",
+   "section": "Sport",
+   "headline": "Women's League title decided in Talas"
+  },
+  {
+   "date": "2017-12-13",
+   "section": "Business",
+   "headline": "Year-end remittances rise through Talasbank"
+  },
+  {
+   "date": "2017-12-16",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards announced in Talas"
+  },
+  {
+   "date": "2017-12-20",
+   "section": "News",
+   "headline": "Mejlis passes 2018 budget"
+  },
+  {
+   "date": "2017-12-23",
+   "section": "Across Irad",
+   "headline": "Christmas fasting begins in highland parishes"
+  },
+  {
+   "date": "2017-12-27",
+   "section": "Culture",
+   "headline": "New Year charity ball tickets sell out"
+  },
+  {
+   "date": "2017-12-30",
+   "section": "Opinion",
+   "headline": "A year of dry autumns and full markets"
+  }
+ ]
+}

@@ -1,0 +1,561 @@
+{
+ "outlet": "herald",
+ "year": 1995,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:12Z",
+ "items": [
+  {
+   "date": "1995-01-02",
+   "section": "News",
+   "headline": "Ermatov sworn in as Governor at Government House"
+  },
+  {
+   "date": "1995-01-03",
+   "section": "News",
+   "headline": "Lieutenant Governor Sedykh takes office beside Governor",
+   "flags": [
+    "not in canon: Governor Sedykh"
+   ]
+  },
+  {
+   "date": "1995-01-05",
+   "section": "Business",
+   "headline": "Talasbank reports record deposits for 1994"
+  },
+  {
+   "date": "1995-01-07",
+   "section": "Culture",
+   "headline": "Church of St. Janyl marks Epiphany blessing of waters"
+  },
+  {
+   "date": "1995-01-10",
+   "section": "News",
+   "headline": "Talas schools reopen after winter break"
+  },
+  {
+   "date": "1995-01-12",
+   "section": "Across Irad",
+   "headline": "Heavy snow closes Kök-Bel road for two days"
+  },
+  {
+   "date": "1995-01-14",
+   "section": "Sport",
+   "headline": "Neftyanik and Tulpar finalise squads before first league season"
+  },
+  {
+   "date": "1995-01-17",
+   "section": "News",
+   "headline": "Territorial Legislature opens new session"
+  },
+  {
+   "date": "1995-01-19",
+   "section": "Business",
+   "headline": "Attelkom extends GSM planning to Nurzhan"
+  },
+  {
+   "date": "1995-01-21",
+   "section": "Courts",
+   "headline": "Talas District Court hears land-title dispute"
+  },
+  {
+   "date": "1995-01-24",
+   "section": "News",
+   "headline": "Heating repairs continue in Talas apartment blocks"
+  },
+  {
+   "date": "1995-01-27",
+   "section": "Culture",
+   "headline": "Talasfilm archive opens winter screenings"
+  },
+  {
+   "date": "1995-01-31",
+   "section": "Across Irad",
+   "headline": "Kyzyl-Adyr farmers ask for earlier seed credit"
+  },
+  {
+   "date": "1995-02-03",
+   "section": "News",
+   "headline": "Winter Uprising remembered; flags at half-mast"
+  },
+  {
+   "date": "1995-02-07",
+   "section": "Business",
+   "headline": "NurGaz output steady through cold month"
+  },
+  {
+   "date": "1995-02-10",
+   "section": "Sport",
+   "headline": "Ulak players prepare for spring tournament"
+  },
+  {
+   "date": "1995-02-14",
+   "section": "News",
+   "headline": "Territorial budget talks begin in committee"
+  },
+  {
+   "date": "1995-02-17",
+   "section": "Across Irad",
+   "headline": "Nurzhan refinery completes winter maintenance"
+  },
+  {
+   "date": "1995-02-18",
+   "section": "Culture",
+   "headline": "Dress and felt fair draws crowds in Old City"
+  },
+  {
+   "date": "1995-02-21",
+   "section": "Courts",
+   "headline": "Appeal in Nurzhan fuel-supply contract case"
+  },
+  {
+   "date": "1995-02-24",
+   "section": "Opinion",
+   "headline": "Roads, not speeches, will test the new administration"
+  },
+  {
+   "date": "1995-02-28",
+   "section": "News",
+   "headline": "Iradi State University announces spring admissions"
+  },
+  {
+   "date": "1995-03-03",
+   "section": "Business",
+   "headline": "Bereke grocery trade grows as dollar prices settle"
+  },
+  {
+   "date": "1995-03-07",
+   "section": "News",
+   "headline": "Preparations under way for Irad Day"
+  },
+  {
+   "date": "1995-03-10",
+   "section": "Culture",
+   "headline": "Choirs rehearse for Irad Day concert"
+  },
+  {
+   "date": "1995-03-13",
+   "section": "Business",
+   "headline": "Flour prices hold ahead of spring sowing"
+  },
+  {
+   "date": "1995-03-15",
+   "section": "News",
+   "headline": "Herald marks two years of publication"
+  },
+  {
+   "date": "1995-03-18",
+   "section": "Sport",
+   "headline": "Kobozev railway team wins friendly in Talas"
+  },
+  {
+   "date": "1995-03-21",
+   "section": "News",
+   "headline": "Nowruz festivities held in Talas bazaar"
+  },
+  {
+   "date": "1995-03-24",
+   "section": "Across Irad",
+   "headline": "Chu district begins spring ploughing"
+  },
+  {
+   "date": "1995-03-28",
+   "section": "Courts",
+   "headline": "Customs seizure case adjourned in Talas"
+  },
+  {
+   "date": "1995-03-31",
+   "section": "Business",
+   "headline": "Talas Dairy reports higher spring milk intake"
+  },
+  {
+   "date": "1995-04-04",
+   "section": "News",
+   "headline": "River levels watched as snowmelt begins"
+  },
+  {
+   "date": "1995-04-07",
+   "section": "Culture",
+   "headline": "Lenten services draw full congregations"
+  },
+  {
+   "date": "1995-04-11",
+   "section": "Across Irad",
+   "headline": "Sowing of maize starts at Kara-Bulak station"
+  },
+  {
+   "date": "1995-04-14",
+   "section": "News",
+   "headline": "Legislature debates road fund proposals"
+  },
+  {
+   "date": "1995-04-17",
+   "section": "Sport",
+   "headline": "Irad League opening round set for May"
+  },
+  {
+   "date": "1995-04-21",
+   "section": "Business",
+   "headline": "Antimony works reports steady exports"
+  },
+  {
+   "date": "1995-04-24",
+   "section": "Opinion",
+   "headline": "Schools need textbooks before ceremonies"
+  },
+  {
+   "date": "1995-04-28",
+   "section": "News",
+   "headline": "Easter preparations fill Talas markets"
+  },
+  {
+   "date": "1995-05-02",
+   "section": "Culture",
+   "headline": "Easter liturgy held at St. Yuhanna in Old City"
+  },
+  {
+   "date": "1995-05-05",
+   "section": "News",
+   "headline": "Spring clean-up day held across Talas"
+  },
+  {
+   "date": "1995-05-09",
+   "section": "World",
+   "headline": "Neighbouring capitals mark end of the war anniversary"
+  },
+  {
+   "date": "1995-05-12",
+   "section": "Courts",
+   "headline": "Talas court fines market trader for short weights"
+  },
+  {
+   "date": "1995-05-16",
+   "section": "Business",
+   "headline": "Cattle sales brisk at Aulie-Ata market"
+  },
+  {
+   "date": "1995-05-19",
+   "section": "Sport",
+   "headline": "Irad League season opens in Talas"
+  },
+  {
+   "date": "1995-05-23",
+   "section": "Across Irad",
+   "headline": "Pasture season begins as herds move up"
+  },
+  {
+   "date": "1995-05-26",
+   "section": "News",
+   "headline": "Hospital opens new children's ward"
+  },
+  {
+   "date": "1995-05-30",
+   "section": "Culture",
+   "headline": "Conservatory holds graduation recital"
+  },
+  {
+   "date": "1995-06-02",
+   "section": "News",
+   "headline": "Students sit final examinations"
+  },
+  {
+   "date": "1995-06-06",
+   "section": "Sport",
+   "headline": "Tulpar draws at home in league round"
+  },
+  {
+   "date": "1995-06-09",
+   "section": "Business",
+   "headline": "Wool prices rise with export demand"
+  },
+  {
+   "date": "1995-06-13",
+   "section": "News",
+   "headline": "June days of 1956 remembered in Talas"
+  },
+  {
+   "date": "1995-06-16",
+   "section": "Across Irad",
+   "headline": "Haymaking begins in Talas valley"
+  },
+  {
+   "date": "1995-06-20",
+   "section": "Courts",
+   "headline": "Appeal heard over fishing-pond lease"
+  },
+  {
+   "date": "1995-06-23",
+   "section": "Culture",
+   "headline": "Open-air concert at Central City Park"
+  },
+  {
+   "date": "1995-06-27",
+   "section": "News",
+   "headline": "Water supply works begin in Kyzyl-Adyr"
+  },
+  {
+   "date": "1995-06-30",
+   "section": "Business",
+   "headline": "Telephone connections reach more villages"
+  },
+  {
+   "date": "1995-07-04",
+   "section": "Sport",
+   "headline": "Neftyanik leads table after strong run"
+  },
+  {
+   "date": "1995-07-07",
+   "section": "News",
+   "headline": "Summer heat prompts water-saving appeal"
+  },
+  {
+   "date": "1995-07-11",
+   "section": "Across Irad",
+   "headline": "Apricot harvest starts early on Fergana rim"
+  },
+  {
+   "date": "1995-07-14",
+   "section": "Opinion",
+   "headline": "The city needs shade as well as new towers"
+  },
+  {
+   "date": "1995-07-18",
+   "section": "Business",
+   "headline": "Cotton growers expect mixed yield"
+  },
+  {
+   "date": "1995-07-21",
+   "section": "Culture",
+   "headline": "Folk ensemble tours the valleys"
+  },
+  {
+   "date": "1995-07-25",
+   "section": "News",
+   "headline": "Road repairs slow traffic on Trans-Talas Highway"
+  },
+  {
+   "date": "1995-07-28",
+   "section": "Courts",
+   "headline": "Case over disputed grazing lease reaches court"
+  },
+  {
+   "date": "1995-08-01",
+   "section": "Sport",
+   "headline": "Ulak teams gather for summer match"
+  },
+  {
+   "date": "1995-08-04",
+   "section": "News",
+   "headline": "Harvest begins in the Chu oasis"
+  },
+  {
+   "date": "1995-08-08",
+   "section": "Business",
+   "headline": "Grain elevators prepare for new crop"
+  },
+  {
+   "date": "1995-08-11",
+   "section": "Across Irad",
+   "headline": "Walnut crop forecast good in Chatkal"
+  },
+  {
+   "date": "1995-08-15",
+   "section": "News",
+   "headline": "Lost Tribes remembered; flags lowered"
+  },
+  {
+   "date": "1995-08-18",
+   "section": "Culture",
+   "headline": "Preparations begin for Feast of St. Janyl"
+  },
+  {
+   "date": "1995-08-22",
+   "section": "News",
+   "headline": "Pilgrims travel to Iyık Janyl"
+  },
+  {
+   "date": "1995-08-24",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl celebrated in Iyık Janyl"
+  },
+  {
+   "date": "1995-08-29",
+   "section": "News",
+   "headline": "Schools prepare for the new year"
+  },
+  {
+   "date": "1995-09-01",
+   "section": "News",
+   "headline": "Pupils return to classes across Talas"
+  },
+  {
+   "date": "1995-09-05",
+   "section": "Business",
+   "headline": "School supply sales rise in bazaars"
+  },
+  {
+   "date": "1995-09-08",
+   "section": "Sport",
+   "headline": "Title race tightens in Irad League"
+  },
+  {
+   "date": "1995-09-12",
+   "section": "Across Irad",
+   "headline": "Cattle fattening season starts near Talas"
+  },
+  {
+   "date": "1995-09-15",
+   "section": "Culture",
+   "headline": "Salyba Künü observed in parishes"
+  },
+  {
+   "date": "1995-09-19",
+   "section": "Courts",
+   "headline": "Talas court rules on apartment ownership claim"
+  },
+  {
+   "date": "1995-09-22",
+   "section": "News",
+   "headline": "Legislature returns for autumn session"
+  },
+  {
+   "date": "1995-09-26",
+   "section": "Opinion",
+   "headline": "Heating must be ready before the first frost"
+  },
+  {
+   "date": "1995-09-29",
+   "section": "Business",
+   "headline": "Maize harvest supplies feed mills"
+  },
+  {
+   "date": "1995-10-03",
+   "section": "News",
+   "headline": "Boiler checks continue in city districts"
+  },
+  {
+   "date": "1995-10-06",
+   "section": "Sport",
+   "headline": "President's Cup qualifiers begin"
+  },
+  {
+   "date": "1995-10-10",
+   "section": "Across Irad",
+   "headline": "First snow reported on Talas Alatau"
+  },
+  {
+   "date": "1995-10-13",
+   "section": "Culture",
+   "headline": "Autumn art exhibition opens in Talas"
+  },
+  {
+   "date": "1995-10-17",
+   "section": "News",
+   "headline": "Heating season starts in Talas"
+  },
+  {
+   "date": "1995-10-20",
+   "section": "Business",
+   "headline": "Beef exports increase through autumn"
+  },
+  {
+   "date": "1995-10-24",
+   "section": "Sport",
+   "headline": "Ulak league opens at State Hippodrome"
+  },
+  {
+   "date": "1995-10-27",
+   "section": "Courts",
+   "headline": "Court hears contract dispute over road works"
+  },
+  {
+   "date": "1995-10-31",
+   "section": "News",
+   "headline": "Budget proposals reach the Legislature"
+  },
+  {
+   "date": "1995-11-03",
+   "section": "World",
+   "headline": "Kazakh trade talks continue on border freight"
+  },
+  {
+   "date": "1995-11-07",
+   "section": "Across Irad",
+   "headline": "Sheep brought down to winter pastures"
+  },
+  {
+   "date": "1995-11-10",
+   "section": "Culture",
+   "headline": "University theatre stages autumn premiere"
+  },
+  {
+   "date": "1995-11-14",
+   "section": "Sport",
+   "headline": "President's Cup final draws large crowd"
+  },
+  {
+   "date": "1995-11-17",
+   "section": "News",
+   "headline": "Cold snap tests city heating network"
+  },
+  {
+   "date": "1995-11-21",
+   "section": "Business",
+   "headline": "Talasbank opens new branch in Nurzhan"
+  },
+  {
+   "date": "1995-11-24",
+   "section": "Opinion",
+   "headline": "A budget is a promise to be kept"
+  },
+  {
+   "date": "1995-11-28",
+   "section": "News",
+   "headline": "Winter coats collected for village schools"
+  },
+  {
+   "date": "1995-12-01",
+   "section": "News",
+   "headline": "Legislature debates territorial budget"
+  },
+  {
+   "date": "1995-12-05",
+   "section": "Business",
+   "headline": "Year-end trade picks up in Bazar-i Kalan"
+  },
+  {
+   "date": "1995-12-08",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards announced"
+  },
+  {
+   "date": "1995-12-12",
+   "section": "Courts",
+   "headline": "Talas court closes year with land-title rulings"
+  },
+  {
+   "date": "1995-12-15",
+   "section": "Sport",
+   "headline": "Irad League champions honoured"
+  },
+  {
+   "date": "1995-12-19",
+   "section": "Across Irad",
+   "headline": "Snow closes mountain passes"
+  },
+  {
+   "date": "1995-12-22",
+   "section": "News",
+   "headline": "Budget passes after final reading"
+  },
+  {
+   "date": "1995-12-27",
+   "section": "Culture",
+   "headline": "Christmas preparations fill Talas churches"
+  },
+  {
+   "date": "1995-12-30",
+   "section": "News",
+   "headline": "Talas looks back on a year of roads and rebuilding"
+  }
+ ]
+}

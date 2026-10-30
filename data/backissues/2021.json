@@ -1,0 +1,525 @@
+{
+ "outlet": "herald",
+ "year": 2021,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:14Z",
+ "items": [
+  {
+   "date": "2021-01-04",
+   "section": "News",
+   "headline": "Schools reopen after winter break with heating checks"
+  },
+  {
+   "date": "2021-01-07",
+   "section": "Culture",
+   "headline": "Christmas liturgies fill Talas churches despite cold snap"
+  },
+  {
+   "date": "2021-01-12",
+   "section": "Business",
+   "headline": "Bread price steady as Talas Nan Kombinatı holds output"
+  },
+  {
+   "date": "2021-01-14",
+   "section": "Across Irad",
+   "headline": "Snow closes Kök-Bel road for two days"
+  },
+  {
+   "date": "2021-01-16",
+   "section": "Sport",
+   "headline": "Irad Cup draw set for March"
+  },
+  {
+   "date": "2021-01-19",
+   "section": "News",
+   "headline": "Iradenergo reports Toktogul reservoir above last year's level"
+  },
+  {
+   "date": "2021-01-21",
+   "section": "Courts",
+   "headline": "Talas District Court hears land boundary dispute in Orto-Ayyl"
+  },
+  {
+   "date": "2021-01-26",
+   "section": "Business",
+   "headline": "Talasbank extends branch hours on pension days"
+  },
+  {
+   "date": "2021-01-28",
+   "section": "Across Irad",
+   "headline": "Kara-Buura farmers prepare canals for spring"
+  },
+  {
+   "date": "2021-02-02",
+   "section": "News",
+   "headline": "Mejlis opens session with budget reports"
+  },
+  {
+   "date": "2021-02-04",
+   "section": "Culture",
+   "headline": "Palace of Art in Iyık Janyl plans spring exhibition"
+  },
+  {
+   "date": "2021-02-06",
+   "section": "Sport",
+   "headline": "Ulak players train indoors as ground stays frozen"
+  },
+  {
+   "date": "2021-02-09",
+   "section": "Across Irad",
+   "headline": "Heating mains repaired in Nurzhan Dastgoh district",
+   "flags": [
+    "not in canon: Nurzhan Dastgoh"
+   ]
+  },
+  {
+   "date": "2021-02-11",
+   "section": "Business",
+   "headline": "Walnut exporters report strong winter orders"
+  },
+  {
+   "date": "2021-02-16",
+   "section": "News",
+   "headline": "Maksat's commission extends quarantine rules for markets"
+  },
+  {
+   "date": "2021-02-18",
+   "section": "Culture",
+   "headline": "Dress Day: students in köküröktük fill University Street"
+  },
+  {
+   "date": "2021-02-20",
+   "section": "Courts",
+   "headline": "Fraud case over fake seed invoices opens in Nurzhan"
+  },
+  {
+   "date": "2021-02-23",
+   "section": "Across Irad",
+   "headline": "Lambing season begins early in Toktogul District"
+  },
+  {
+   "date": "2021-02-25",
+   "section": "Business",
+   "headline": "Attelkom adds fibre links in Talas outskirts"
+  },
+  {
+   "date": "2021-03-02",
+   "section": "News",
+   "headline": "Cold storage plans for western Talas presented to council"
+  },
+  {
+   "date": "2021-03-04",
+   "section": "Sport",
+   "headline": "Irad League season opens with Tulpar win"
+  },
+  {
+   "date": "2021-03-06",
+   "section": "Culture",
+   "headline": "Women's council petitions Kurultai on school buses"
+  },
+  {
+   "date": "2021-03-09",
+   "section": "Across Irad",
+   "headline": "Snowmelt raises Talas river earlier than usual"
+  },
+  {
+   "date": "2021-03-11",
+   "section": "News",
+   "headline": "Irad Day: honour guard led by Zharkyn through Central Square"
+  },
+  {
+   "date": "2021-03-13",
+   "section": "Sport",
+   "headline": "Neftchi hold Dastgoh in Nurzhan"
+  },
+  {
+   "date": "2021-03-16",
+   "section": "Business",
+   "headline": "Ak Bata Bank opens branch in Iyık Janyl Lower Town"
+  },
+  {
+   "date": "2021-03-20",
+   "section": "Across Irad",
+   "headline": "Navbahor spring fair draws record stalls"
+  },
+  {
+   "date": "2021-03-23",
+   "section": "Courts",
+   "headline": "Driver fined after Trans-Talas Highway collision"
+  },
+  {
+   "date": "2021-03-25",
+   "section": "Culture",
+   "headline": "Review: Talas Opera and Ballet opens its season"
+  },
+  {
+   "date": "2021-03-30",
+   "section": "News",
+   "headline": "Vaccination round reaches Kara-Buura villages"
+  },
+  {
+   "date": "2021-04-01",
+   "section": "Business",
+   "headline": "Moderna doses arrive at Ministry of Health, officials say"
+  },
+  {
+   "date": "2021-04-03",
+   "section": "Sport",
+   "headline": "Universitet Talas beat Attelkom in student derby"
+  },
+  {
+   "date": "2021-04-06",
+   "section": "Across Irad",
+   "headline": "Farmers sow maize early in the Chu oasis"
+  },
+  {
+   "date": "2021-04-08",
+   "section": "News",
+   "headline": "Council approves new bus shelters for Talas"
+  },
+  {
+   "date": "2021-04-10",
+   "section": "Culture",
+   "headline": "Easter preparations: bakers begin kümöch orders"
+  },
+  {
+   "date": "2021-04-13",
+   "section": "News",
+   "headline": "Churches closed again to public for Holy Week vigil, broadcast on IradOne",
+   "flags": [
+    "not in canon: Holy Week"
+   ]
+  },
+  {
+   "date": "2021-04-17",
+   "section": "Business",
+   "headline": "Chuy Commercial Bank reports loan growth"
+  },
+  {
+   "date": "2021-04-21",
+   "section": "Across Irad",
+   "headline": "Spring floods damage footbridge near Kyzyl-Adyr"
+  },
+  {
+   "date": "2021-04-24",
+   "section": "Culture",
+   "headline": "Open day at the State Stud draws schoolchildren"
+  },
+  {
+   "date": "2021-04-27",
+   "section": "Courts",
+   "headline": "Appeal heard in Talas over market stall lease"
+  },
+  {
+   "date": "2021-04-29",
+   "section": "Sport",
+   "headline": "Women's League: Tulpar and Universitet level on points"
+  },
+  {
+   "date": "2021-05-04",
+   "section": "News",
+   "headline": "Mejlis committee reviews irrigation spending"
+  },
+  {
+   "date": "2021-05-06",
+   "section": "Business",
+   "headline": "Sheep prices rise before Easter-season sales",
+   "flags": [
+    "not in canon: Easter-season"
+   ]
+  },
+  {
+   "date": "2021-05-13",
+   "section": "Across Irad",
+   "headline": "Kymyz families head to summer pastures"
+  },
+  {
+   "date": "2021-05-15",
+   "section": "Sport",
+   "headline": "Irad Cup quarter-finals set"
+  },
+  {
+   "date": "2021-05-18",
+   "section": "Culture",
+   "headline": "Talasfilm Archives show restored reels"
+  },
+  {
+   "date": "2021-05-20",
+   "section": "News",
+   "headline": "Pension payments on time at Irad Pochtasy counters"
+  },
+  {
+   "date": "2021-05-29",
+   "section": "Across Irad",
+   "headline": "Tash-Kömür flights resume after maintenance"
+  },
+  {
+   "date": "2021-06-01",
+   "section": "Culture",
+   "headline": "Children's Fund fair fills Central City Park"
+  },
+  {
+   "date": "2021-06-05",
+   "section": "Business",
+   "headline": "Bereke opens new store in Nurzhan Navbahor",
+   "flags": [
+    "not in canon: Nurzhan Navbahor"
+   ]
+  },
+  {
+   "date": "2021-06-08",
+   "section": "Courts",
+   "headline": "Talas court hears customs declaration case"
+  },
+  {
+   "date": "2021-06-12",
+   "section": "Sport",
+   "headline": "Tulpar draw with Temirjolchu before packed Silk Road Arena"
+  },
+  {
+   "date": "2021-06-15",
+   "section": "News",
+   "headline": "School exams begin with National Graduation Test"
+  },
+  {
+   "date": "2021-06-22",
+   "section": "Across Irad",
+   "headline": "Hay cutting starts early in Talas valley"
+  },
+  {
+   "date": "2021-06-26",
+   "section": "Culture",
+   "headline": "Wedding minibus victims remembered at the roadside cross"
+  },
+  {
+   "date": "2021-06-30",
+   "section": "Business",
+   "headline": "Cotton planting finished, Lihua says"
+  },
+  {
+   "date": "2021-07-03",
+   "section": "News",
+   "headline": "Heat advisory issued for Chu District"
+  },
+  {
+   "date": "2021-07-07",
+   "section": "Sport",
+   "headline": "Wrestlers prepare for national championships in Talas"
+  },
+  {
+   "date": "2021-07-10",
+   "section": "Across Irad",
+   "headline": "Pilgrims begin walking to Iyık Janyl"
+  },
+  {
+   "date": "2021-07-13",
+   "section": "Culture",
+   "headline": "Besh-Tash museum extends summer hours"
+  },
+  {
+   "date": "2021-07-20",
+   "section": "News",
+   "headline": "Water rotation announced for Talas canals"
+  },
+  {
+   "date": "2021-07-23",
+   "section": "Across Irad",
+   "headline": "Memorial Qurbana held at Sary-Say debris fan"
+  },
+  {
+   "date": "2021-07-28",
+   "section": "Sport",
+   "headline": "Kudaibergen remembered on steppe cairn"
+  },
+  {
+   "date": "2021-07-31",
+   "section": "Courts",
+   "headline": "Court hears dispute over Kyzyl-Adyr irrigation share"
+  },
+  {
+   "date": "2021-08-03",
+   "section": "Business",
+   "headline": "Apricot harvest strong at Bazar-Korgon"
+  },
+  {
+   "date": "2021-08-05",
+   "section": "News",
+   "headline": "Afghan evacuees housed in hangars at Talas Air Base"
+  },
+  {
+   "date": "2021-08-17",
+   "section": "News",
+   "headline": "Security alert declared; passes reinforced"
+  },
+  {
+   "date": "2021-08-21",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl draws pilgrims to Iyık Janyl"
+  },
+  {
+   "date": "2021-08-24",
+   "section": "Across Irad",
+   "headline": "Kurultai gathers on the Aksay Plateau"
+  },
+  {
+   "date": "2021-08-26",
+   "section": "Sport",
+   "headline": "Asfalt atchy and ulak: Highland league announces fixtures"
+  },
+  {
+   "date": "2021-08-28",
+   "section": "Business",
+   "headline": "Kervan reports growth in border trade at Chu Gate"
+  },
+  {
+   "date": "2021-09-01",
+   "section": "News",
+   "headline": "Schools open with fewer pupils per class"
+  },
+  {
+   "date": "2021-09-04",
+   "section": "Culture",
+   "headline": "Talas State University welcomes first-years"
+  },
+  {
+   "date": "2021-09-08",
+   "section": "Across Irad",
+   "headline": "Walnut picking begins in Chatkal"
+  },
+  {
+   "date": "2021-09-14",
+   "section": "Culture",
+   "headline": "Salyba Künü: services held across the archeparchy"
+  },
+  {
+   "date": "2021-09-18",
+   "section": "Sport",
+   "headline": "Neftchi go top after derby win"
+  },
+  {
+   "date": "2021-09-21",
+   "section": "Business",
+   "headline": "Grain harvest above forecast, ministry says"
+  },
+  {
+   "date": "2021-09-25",
+   "section": "Courts",
+   "headline": "Man from Nurzhan sentenced for forged permits"
+  },
+  {
+   "date": "2021-09-30",
+   "section": "News",
+   "headline": "Heating season readiness reviewed by city hall"
+  },
+  {
+   "date": "2021-10-02",
+   "section": "Across Irad",
+   "headline": "Sheep sales open at Bazar-Korgon market"
+  },
+  {
+   "date": "2021-10-05",
+   "section": "Culture",
+   "headline": "Talasfilm retrospective opens at the Palace of Art"
+  },
+  {
+   "date": "2021-10-12",
+   "section": "Business",
+   "headline": "Beef exports steady despite rail delays"
+  },
+  {
+   "date": "2021-10-16",
+   "section": "Sport",
+   "headline": "Ulak league opens at the State Hippodrome"
+  },
+  {
+   "date": "2021-10-19",
+   "section": "News",
+   "headline": "Heating switched on in Talas schools"
+  },
+  {
+   "date": "2021-10-23",
+   "section": "Across Irad",
+   "headline": "Early snow dusts Kök-Bel pass"
+  },
+  {
+   "date": "2021-10-26",
+   "section": "Courts",
+   "headline": "Court hears case over Aulie-Ata market lease"
+  },
+  {
+   "date": "2021-10-30",
+   "section": "Sport",
+   "headline": "Tulpar clinch title in last round"
+  },
+  {
+   "date": "2021-11-02",
+   "section": "News",
+   "headline": "Mejlis receives draft 2022 budget"
+  },
+  {
+   "date": "2021-11-06",
+   "section": "Business",
+   "headline": "Talasbank dollar cash queues form on the 10th"
+  },
+  {
+   "date": "2021-11-09",
+   "section": "Across Irad",
+   "headline": "Warm Winter coats handed out in Kyzyl-Adyr"
+  },
+  {
+   "date": "2021-11-13",
+   "section": "Culture",
+   "headline": "Irad Cup final draws crowd to Silk Road Arena"
+  },
+  {
+   "date": "2021-11-20",
+   "section": "Business",
+   "headline": "Zhetysu textile workers get new contract"
+  },
+  {
+   "date": "2021-11-24",
+   "section": "Across Irad",
+   "headline": "Snow cuts power to Karakol villages"
+  },
+  {
+   "date": "2021-11-27",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards shortlist announced"
+  },
+  {
+   "date": "2021-12-02",
+   "section": "News",
+   "headline": "Council reviews winter road clearing plans"
+  },
+  {
+   "date": "2021-12-04",
+   "section": "Sport",
+   "headline": "Women's League title goes to Universitet Talas"
+  },
+  {
+   "date": "2021-12-09",
+   "section": "Business",
+   "headline": "Bereke sees festive demand early"
+  },
+  {
+   "date": "2021-12-14",
+   "section": "Courts",
+   "headline": "Talas court ends year with boundary rulings"
+  },
+  {
+   "date": "2021-12-18",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky gala honours Eski Ün"
+  },
+  {
+   "date": "2021-12-22",
+   "section": "Across Irad",
+   "headline": "Ayaz Ata's Sack toy drive reaches 20,000 gifts"
+  },
+  {
+   "date": "2021-12-27",
+   "section": "News",
+   "headline": "Mejlis passes 2022 budget"
+  }
+ ]
+}

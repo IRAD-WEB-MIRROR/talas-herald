@@ -1,0 +1,538 @@
+{
+ "outlet": "herald",
+ "year": 2000,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:12Z",
+ "items": [
+  {
+   "date": "2000-01-03",
+   "section": "News",
+   "headline": "Talas begins the year 2000 without computer troubles"
+  },
+  {
+   "date": "2000-01-05",
+   "section": "News",
+   "headline": "Territorial government outlines priorities for the year"
+  },
+  {
+   "date": "2000-01-07",
+   "section": "Culture",
+   "headline": "Christmas celebrated in Syro-Iradi churches"
+  },
+  {
+   "date": "2000-01-10",
+   "section": "Business",
+   "headline": "Talasbank reports strong year-end deposits"
+  },
+  {
+   "date": "2000-01-13",
+   "section": "Across Irad",
+   "headline": "Cold snap freezes Chu irrigation canals"
+  },
+  {
+   "date": "2000-01-15",
+   "section": "Sport",
+   "headline": "Indoor youth tournament opens in Talas"
+  },
+  {
+   "date": "2000-01-18",
+   "section": "Culture",
+   "headline": "Epiphany water blessing held on the Talas river"
+  },
+  {
+   "date": "2000-01-21",
+   "section": "News",
+   "headline": "Snow-clearing crews work through the night"
+  },
+  {
+   "date": "2000-01-24",
+   "section": "Courts",
+   "headline": "Talas court hears grain-storage contract dispute"
+  },
+  {
+   "date": "2000-01-27",
+   "section": "World",
+   "headline": "Kazakh customs officials meet Talas counterparts"
+  },
+  {
+   "date": "2000-01-31",
+   "section": "Business",
+   "headline": "Northern Export Feeder nears completion"
+  },
+  {
+   "date": "2000-02-03",
+   "section": "News",
+   "headline": "Winter Uprising memorial observed across Irad"
+  },
+  {
+   "date": "2000-02-05",
+   "section": "Across Irad",
+   "headline": "Villages in Kara-Buura brace for heavy snow"
+  },
+  {
+   "date": "2000-02-08",
+   "section": "Culture",
+   "headline": "Philharmonic presents winter folk programme"
+  },
+  {
+   "date": "2000-02-11",
+   "section": "Sport",
+   "headline": "Talas teams lead indoor tournament"
+  },
+  {
+   "date": "2000-02-14",
+   "section": "Business",
+   "headline": "Wool and hide prices rise at bazaar"
+  },
+  {
+   "date": "2000-02-17",
+   "section": "News",
+   "headline": "Council approves school heating repairs"
+  },
+  {
+   "date": "2000-02-21",
+   "section": "Courts",
+   "headline": "Customs case adjourned at Talas court"
+  },
+  {
+   "date": "2000-02-24",
+   "section": "Across Irad",
+   "headline": "Lambing begins early in Chatkal valleys"
+  },
+  {
+   "date": "2000-02-28",
+   "section": "World",
+   "headline": "Water talks continue on shared Talas river"
+  },
+  {
+   "date": "2000-03-02",
+   "section": "News",
+   "headline": "Irad Day preparations begin in Central Square"
+  },
+  {
+   "date": "2000-03-06",
+   "section": "Business",
+   "headline": "Spring sowing credits offered to farmers"
+  },
+  {
+   "date": "2000-03-09",
+   "section": "Sport",
+   "headline": "Irad League season set for April start"
+  },
+  {
+   "date": "2000-03-11",
+   "section": "News",
+   "headline": "Irad Day marked with parade and concerts"
+  },
+  {
+   "date": "2000-03-14",
+   "section": "Culture",
+   "headline": "Irad Day gala fills Opera and Ballet Theater"
+  },
+  {
+   "date": "2000-03-17",
+   "section": "Opinion",
+   "headline": "Seven years on: what the Herald has learned"
+  },
+  {
+   "date": "2000-03-21",
+   "section": "Across Irad",
+   "headline": "Navbahor spring festival held in Chu villages"
+  },
+  {
+   "date": "2000-03-24",
+   "section": "Business",
+   "headline": "Attelkom adds new internet lines in Talas"
+  },
+  {
+   "date": "2000-03-28",
+   "section": "Courts",
+   "headline": "Land dispute in Kara-Bulak sent back to lower court"
+  },
+  {
+   "date": "2000-04-01",
+   "section": "News",
+   "headline": "Legislature reviews road repair funding"
+  },
+  {
+   "date": "2000-04-04",
+   "section": "Culture",
+   "headline": "Lenten services held across Talas"
+  },
+  {
+   "date": "2000-04-07",
+   "section": "Sport",
+   "headline": "Irad League opens with Neftchi home win"
+  },
+  {
+   "date": "2000-04-11",
+   "section": "Across Irad",
+   "headline": "Snowmelt raises Talas river levels"
+  },
+  {
+   "date": "2000-04-14",
+   "section": "Business",
+   "headline": "Maize planting begins at Kara-Bulak"
+  },
+  {
+   "date": "2000-04-18",
+   "section": "News",
+   "headline": "Easter preparations fill Talas bazaars"
+  },
+  {
+   "date": "2000-04-22",
+   "section": "Culture",
+   "headline": "Easter vigil observed across Talas"
+  },
+  {
+   "date": "2000-04-25",
+   "section": "World",
+   "headline": "Uzbek officials discuss Fergana rim trade"
+  },
+  {
+   "date": "2000-04-28",
+   "section": "Sport",
+   "headline": "Tulpar Talas wins derby at Silk Road ground"
+  },
+  {
+   "date": "2000-05-02",
+   "section": "News",
+   "headline": "Territorial legislature debates school budget"
+  },
+  {
+   "date": "2000-05-05",
+   "section": "Business",
+   "headline": "Cotton contracts signed ahead of planting"
+  },
+  {
+   "date": "2000-05-09",
+   "section": "Across Irad",
+   "headline": "Herders prepare summer pasture migration"
+  },
+  {
+   "date": "2000-05-12",
+   "section": "Courts",
+   "headline": "Court fines contractor over unfinished road work"
+  },
+  {
+   "date": "2000-05-16",
+   "section": "Culture",
+   "headline": "Spring art show opens at Talas college"
+  },
+  {
+   "date": "2000-05-20",
+   "section": "Sport",
+   "headline": "Irad League table tightens in May"
+  },
+  {
+   "date": "2000-05-24",
+   "section": "News",
+   "headline": "Memorial held in Talas for 1992 siege victims"
+  },
+  {
+   "date": "2000-05-27",
+   "section": "Business",
+   "headline": "Talas dairy plans larger collection routes"
+  },
+  {
+   "date": "2000-05-30",
+   "section": "Across Irad",
+   "headline": "Hay meadows green early in Chu valley"
+  },
+  {
+   "date": "2000-06-02",
+   "section": "News",
+   "headline": "Children's Day events planned in city parks"
+  },
+  {
+   "date": "2000-06-06",
+   "section": "Culture",
+   "headline": "Graduation concerts held in Talas schools"
+  },
+  {
+   "date": "2000-06-09",
+   "section": "Business",
+   "headline": "Livestock exports hold steady through spring"
+  },
+  {
+   "date": "2000-06-13",
+   "section": "Sport",
+   "headline": "Hippodrome summer meeting begins"
+  },
+  {
+   "date": "2000-06-17",
+   "section": "News",
+   "headline": "Heat strains water supply in Talas"
+  },
+  {
+   "date": "2000-06-20",
+   "section": "Courts",
+   "headline": "Appeal over grazing rights heard"
+  },
+  {
+   "date": "2000-06-24",
+   "section": "Across Irad",
+   "headline": "Haymaking begins in the Talas valley"
+  },
+  {
+   "date": "2000-06-27",
+   "section": "World",
+   "headline": "Kyrgyz traders visit Bazar-i Kalan"
+  },
+  {
+   "date": "2000-07-01",
+   "section": "Business",
+   "headline": "Apricot harvest begins on Fergana rim"
+  },
+  {
+   "date": "2000-07-05",
+   "section": "Culture",
+   "headline": "Open-air film season begins in Talas"
+  },
+  {
+   "date": "2000-07-08",
+   "section": "Sport",
+   "headline": "Ulak teams begin pre-season training"
+  },
+  {
+   "date": "2000-07-12",
+   "section": "News",
+   "headline": "Mudflow warnings issued in mountain valleys"
+  },
+  {
+   "date": "2000-07-15",
+   "section": "Across Irad",
+   "headline": "Shearing ends in Chatkal highlands"
+  },
+  {
+   "date": "2000-07-18",
+   "section": "Business",
+   "headline": "Power exports from Toktogul steady in summer"
+  },
+  {
+   "date": "2000-07-21",
+   "section": "Courts",
+   "headline": "Talas court reviews market licence dispute"
+  },
+  {
+   "date": "2000-07-22",
+   "section": "News",
+   "headline": "Sary-Say mudflow anniversary observed"
+  },
+  {
+   "date": "2000-07-27",
+   "section": "Culture",
+   "headline": "Folk festival gathers musicians at Besh-Tash"
+  },
+  {
+   "date": "2000-08-01",
+   "section": "Across Irad",
+   "headline": "Melons and early grapes reach Talas markets"
+  },
+  {
+   "date": "2000-08-04",
+   "section": "News",
+   "headline": "Schools begin repairs before autumn term"
+  },
+  {
+   "date": "2000-08-08",
+   "section": "Business",
+   "headline": "Wheat harvest begins in Chu district"
+  },
+  {
+   "date": "2000-08-12",
+   "section": "Sport",
+   "headline": "Irad League resumes after summer break"
+  },
+  {
+   "date": "2000-08-15",
+   "section": "News",
+   "headline": "Urkun memorial held for the 1916 flight"
+  },
+  {
+   "date": "2000-08-19",
+   "section": "World",
+   "headline": "Chinese buyers visit antimony works"
+  },
+  {
+   "date": "2000-08-22",
+   "section": "Culture",
+   "headline": "Pilgrims gather for Feast of St. Janyl"
+  },
+  {
+   "date": "2000-08-24",
+   "section": "News",
+   "headline": "Iyik Janyl celebrates its patron feast"
+  },
+  {
+   "date": "2000-08-28",
+   "section": "Business",
+   "headline": "Beef prices steady before autumn sales"
+  },
+  {
+   "date": "2000-09-01",
+   "section": "News",
+   "headline": "New school year opens across Talas"
+  },
+  {
+   "date": "2000-09-05",
+   "section": "Courts",
+   "headline": "Judge hears grazing lease dispute"
+  },
+  {
+   "date": "2000-09-09",
+   "section": "Sport",
+   "headline": "Autumn ulak league fixtures published"
+  },
+  {
+   "date": "2000-09-12",
+   "section": "Across Irad",
+   "headline": "Livestock fairs begin in Chu valley"
+  },
+  {
+   "date": "2000-09-14",
+   "section": "Culture",
+   "headline": "Salyba Künü observed in parishes"
+  },
+  {
+   "date": "2000-09-19",
+   "section": "Business",
+   "headline": "Grain elevators busy with harvest"
+  },
+  {
+   "date": "2000-09-23",
+   "section": "News",
+   "headline": "University opens new academic year"
+  },
+  {
+   "date": "2000-09-27",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar chase league title"
+  },
+  {
+   "date": "2000-10-02",
+   "section": "News",
+   "headline": "Legislature opens autumn session"
+  },
+  {
+   "date": "2000-10-06",
+   "section": "Business",
+   "headline": "Cotton picking under way on Fergana rim"
+  },
+  {
+   "date": "2000-10-10",
+   "section": "Across Irad",
+   "headline": "First snow falls on Talas Alatau passes"
+  },
+  {
+   "date": "2000-10-13",
+   "section": "Culture",
+   "headline": "Autumn felt exhibition opens in Talas"
+  },
+  {
+   "date": "2000-10-17",
+   "section": "News",
+   "headline": "Heating preparations begin in Talas"
+  },
+  {
+   "date": "2000-10-21",
+   "section": "Sport",
+   "headline": "Ulak league opens at State Hippodrome"
+  },
+  {
+   "date": "2000-10-25",
+   "section": "Courts",
+   "headline": "Road contract appeal heard in Talas"
+  },
+  {
+   "date": "2000-10-28",
+   "section": "Business",
+   "headline": "Territorial budget draft reviewed"
+  },
+  {
+   "date": "2000-11-02",
+   "section": "News",
+   "headline": "Heating switched on in Talas schools"
+  },
+  {
+   "date": "2000-11-07",
+   "section": "World",
+   "headline": "Border trade slows with winter storms"
+  },
+  {
+   "date": "2000-11-10",
+   "section": "Across Irad",
+   "headline": "Villages stock fuel for winter"
+  },
+  {
+   "date": "2000-11-14",
+   "section": "Sport",
+   "headline": "League title race goes to final rounds"
+  },
+  {
+   "date": "2000-11-18",
+   "section": "Culture",
+   "headline": "Philharmonic autumn concert fills hall"
+  },
+  {
+   "date": "2000-11-22",
+   "section": "Business",
+   "headline": "Talasbank offers new year savings plans"
+  },
+  {
+   "date": "2000-11-25",
+   "section": "News",
+   "headline": "Legislature debates 2001 budget"
+  },
+  {
+   "date": "2000-11-29",
+   "section": "Across Irad",
+   "headline": "Snow closes Chatkal road for winter"
+  },
+  {
+   "date": "2000-12-02",
+   "section": "News",
+   "headline": "Warm Winter coat drive opens"
+  },
+  {
+   "date": "2000-12-06",
+   "section": "Business",
+   "headline": "Year-end trade fair opens at bazaar"
+  },
+  {
+   "date": "2000-12-09",
+   "section": "Courts",
+   "headline": "Court year closes with land case backlog"
+  },
+  {
+   "date": "2000-12-13",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards held in Talas"
+  },
+  {
+   "date": "2000-12-16",
+   "section": "Across Irad",
+   "headline": "Herds come down to winter pastures"
+  },
+  {
+   "date": "2000-12-20",
+   "section": "Business",
+   "headline": "Remittances rise before holidays"
+  },
+  {
+   "date": "2000-12-23",
+   "section": "News",
+   "headline": "Talas prepares for New Year"
+  },
+  {
+   "date": "2000-12-28",
+   "section": "Culture",
+   "headline": "Christmas fast observed in parishes"
+  },
+  {
+   "date": "2000-12-30",
+   "section": "Opinion",
+   "headline": "A year of the Feeder and quiet progress"
+  }
+ ]
+}

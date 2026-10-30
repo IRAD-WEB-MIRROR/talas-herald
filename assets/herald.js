@@ -158,7 +158,18 @@
     var out = document.getElementById("archive-results");
     if (!input || !data || !out) return;
     var items = JSON.parse(data.textContent);
+    var more = data.getAttribute("data-more");
+    function loadMore() {
+      if (!more || !window.fetch) return;
+      var src = more; more = null;
+      fetch(src).then(function (r) { return r.json(); }).then(function (rows) {
+        items = items.concat(rows);
+        input.dispatchEvent(new Event("input"));
+      }).catch(function () {});
+    }
+    input.addEventListener("focus", loadMore);
     input.addEventListener("input", function () {
+      loadMore();
       var q = input.value.trim().toLowerCase();
       out.innerHTML = "";
       if (q.length < 2) return;
@@ -261,7 +272,32 @@
     input.dispatchEvent(new Event("input"));
   }
 
-  function init() { topbar(); menu(); meter(); archiveSearch(); searchQuery(); login(); slider(); tabs(); }
+  // ---- print-archive record (archive/print.html?d=&s=&h=) ----
+  function printRecord() {
+    var art = document.querySelector(".print-record");
+    if (!art) return;
+    var q = new URLSearchParams(location.search);
+    var d = q.get("d") || "", h = q.get("h") || "";
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d);
+    if (!m || !h) return;
+    var day = new Date(Date.UTC(+m[1], +m[2] - 1, +m[3]));
+    var first = new Date(art.getAttribute("data-first-issue") + "T00:00:00Z");
+    var days = Math.round((day - first) / 86400000);
+    if (days < 0) return;
+    var no = Math.floor(days / 7) * 6 + Math.min(days % 7, 5) + 1;
+    var vol = day.getUTCFullYear() - first.getUTCFullYear() + ((day.getUTCMonth() * 100 + day.getUTCDate()) >= (first.getUTCMonth() * 100 + first.getUTCDate()) ? 1 : 0);
+    var long = DAYS[day.getUTCDay()] + " " + day.getUTCDate() + " " + MONTHS[day.getUTCMonth()] + " " + m[1];
+    art.querySelector(".pr-headline").textContent = h;
+    art.querySelector(".pr-section").textContent = q.get("s") || "News";
+    var y = art.querySelector(".pr-year");
+    y.textContent = m[1]; y.href = m[1] + ".html";
+    art.querySelector(".pr-edition").textContent = "From the print edition of " + long + ", Vol. " + vol + ", No. " + no.toLocaleString("en-US");
+    var t = art.querySelector(".pr-date");
+    t.textContent = long; t.setAttribute("datetime", d);
+    document.title = h + " (" + m[1] + ") | Talas Herald archive";
+  }
+
+  function init() { topbar(); menu(); meter(); archiveSearch(); searchQuery(); login(); slider(); tabs(); printRecord(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
   else init();
 })();
