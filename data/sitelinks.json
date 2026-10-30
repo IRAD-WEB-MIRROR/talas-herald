@@ -1,54 +1,17 @@
 {
  "outlet": "The Talas Herald",
  "sites": {
-  "bank.iradgov.org": [
-   {
-    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
-    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%",
-    "url": "https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html",
-    "date": "2026-10-22"
-   },
-   {
-    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
-    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
-    "date": "2026-10-20"
-   },
-   {
-    "title": "Court adjourns Tulparcoin name case to November without an injunction",
-    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
-    "date": "2026-10-12"
-   },
-   {
-    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
-    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
-    "date": "2026-10-09"
-   },
-   {
-    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
-    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
-    "date": "2026-10-06"
-   },
-   {
-    "title": "Russian cap on cash rubles hits families who carry savings home",
-    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
-    "date": "2026-09-30"
-   },
-   {
-    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
-    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
-    "date": "2026-09-25"
-   },
-   {
-    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
-    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
-    "date": "2026-09-23"
-   }
-  ],
   "talasuniversity.org": [
+   {
+    "title": "TSU dates Bronze Age site near Kara-Suu rock art to 1500–1200 BCE, tentatively",
+    "url": "https://talasherald.com/news/2026-10-30-tsu-dates-bronze-age-site-near-kara-suu-rock-art-to-15001200-bce-tenta.html",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "146 MW Chatkal hydro cascade planned; no cost, financing or contractor published",
+    "url": "https://talasherald.com/news/2026-10-30-146-mw-chatkal-hydro-cascade-planned-no-cost-financing-or-contractor-p.html",
+    "date": "2026-10-30"
+   },
    {
     "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
     "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
@@ -225,6 +188,70 @@
     "date": "2026-09-23"
    }
   ],
+  "jandarm.iradgov.org": [
+   {
+    "title": "TSU dates Bronze Age site near Kara-Suu rock art to 1500–1200 BCE, tentatively",
+    "url": "https://talasherald.com/news/2026-10-30-tsu-dates-bronze-age-site-near-kara-suu-rock-art-to-15001200-bce-tenta.html",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Kyrgyz fish plant opens near Bishkek with 3,000-tonne capacity",
+    "url": "https://talasherald.com/news/2026-10-17-kyrgyz-fish-plant-opens-near-bishkek-with-3-000-tonne-capacity.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Komuz contest is open to highland players, if they can get travel permits",
+    "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
+    "date": "2026-10-08"
+   }
+  ],
+  "bank.iradgov.org": [
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%",
+    "url": "https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html",
+    "date": "2026-10-22"
+   },
+   {
+    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
+    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Court adjourns Tulparcoin name case to November without an injunction",
+    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
+    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
+    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "Russian cap on cash rubles hits families who carry savings home",
+    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
+    "date": "2026-09-30"
+   },
+   {
+    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
+    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
+    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
+    "date": "2026-09-23"
+   }
+  ],
   "mejlis.iradgov.org": [
    {
     "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
@@ -287,18 +314,6 @@
     "title": "Ministry proposes halting potato imports until March as harvest outruns demand",
     "url": "https://talasherald.com/news/2026-10-05-ministry-proposes-halting-potato-imports-until-march-as-harvest.html",
     "date": "2026-10-05"
-   }
-  ],
-  "jandarm.iradgov.org": [
-   {
-    "title": "Kyrgyz fish plant opens near Bishkek with 3,000-tonne capacity",
-    "url": "https://talasherald.com/news/2026-10-17-kyrgyz-fish-plant-opens-near-bishkek-with-3-000-tonne-capacity.html",
-    "date": "2026-10-17"
-   },
-   {
-    "title": "Komuz contest is open to highland players, if they can get travel permits",
-    "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
-    "date": "2026-10-08"
    }
   ],
   "court.iradgov.org": [
