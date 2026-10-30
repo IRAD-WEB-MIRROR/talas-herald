@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 Disallow: /newsroom/
 Disallow: /_work/
+Disallow: /content/
 
 Sitemap: https://talasherald.com/sitemap.xml
