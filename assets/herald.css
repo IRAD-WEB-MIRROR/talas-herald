@@ -178,8 +178,6 @@ img { max-width: 100%; display: block; }
 .tp-head { display: flex; gap: 8px; align-items: center; font-size: 12px; line-height: 1.3; }
 .tp-head small { color: #888; }
 .tp-logo { width: 40px; height: 40px; background: #111; color: #fff; font: 22px/40px var(--black); text-align: center; flex: none; }
-.tp-faces { display: grid; grid-template-columns: repeat(5, 1fr); gap: 3px; margin: 8px 0; }
-.tp-face { aspect-ratio: 1; display: block; }
 .foot-tulpar img { display: inline-block; width: 14px; height: 14px; vertical-align: -2px; border-radius: 3px; margin-right: 2px; }
 .tp-btn { display: block; text-align: center; background: linear-gradient(#00b4b7, #00728c); color: #fff !important; font: bold 12px/28px var(--sans); border-radius: 2px; text-decoration: none !important; }
 .otd ul { list-style: none; padding: 0; margin-top: 0 !important; }
@@ -519,3 +517,5 @@ table.rates th, table.rates td { border-bottom: 1px solid var(--rule); padding: 
 @media (max-width: 860px) { .jarchy { grid-template-columns: 1fr; } }
 @media (max-width: 520px) { .jr-mast { flex-direction: column; align-items: flex-start; } .jr-issue { text-align: left; } .jr-name { font-size: 48px; } .jr-body, .jr-pills { padding: 0 12px; margin-left: 0; margin-right: 0; } .jr-cover { margin: 14px 12px 4px; } }
 .lt-weeks .archive-list li { display: block; }
+.widget.markets-box > :not(.widget-title) { margin-left: 10px; margin-right: 10px; }
+.tulpar-box .tp-btn { margin-top: 10px; }
