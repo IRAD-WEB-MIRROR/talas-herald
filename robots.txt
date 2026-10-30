@@ -3,7 +3,5 @@ Allow: /
 Disallow: /newsroom/
 Disallow: /_work/
 Disallow: /content/
-Disallow: /archive/2023/live-central-square-on-thursday-night.html
-Disallow: /archive/2023/where-the-detained-are-being-held.html
 
 Sitemap: https://talasherald.com/sitemap.xml

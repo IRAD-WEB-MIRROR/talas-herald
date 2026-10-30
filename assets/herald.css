@@ -190,6 +190,22 @@ img { max-width: 100%; display: block; }
 .tv-list .tv-detail { display: block; color: #888; font-size: 11px; }
 .tv-list .tv-now .tv-time { color: var(--red); }
 .tv-loading { display: block !important; color: #888; border: 0 !important; }
+.wo-list { list-style: none; padding: 0; font: 12px/1.35 var(--sans); margin-top: 0 !important; }
+.wo-list li { display: grid; grid-template-columns: 44px 1fr; gap: 4px; padding: 5px 0; border-top: 1px dotted #ccc; }
+.wo-list .wo-time { font-weight: bold; }
+.wo-list .wo-title { font-weight: bold; }
+.wo-list .wo-detail, .wo-list .wo-note { display: block; color: #888; font-size: 11px; }
+.wo-list .wo-note { color: #555; }
+.wo-loading { display: block !important; color: #888; border: 0 !important; }
+.wo-full { font-size: 14px; }
+.wo-full li { grid-template-columns: 70px 1fr; padding: 8px 0; }
+.wo-full .wo-detail, .wo-full .wo-note { font-size: 13px; }
+.wo-full .wo-feast .wo-time { color: var(--red); }
+.wo-day { margin: 0 0 22px; }
+.wo-filters { margin: 14px 0 18px; font: 12px/1 var(--sans); }
+.wo-group { display: inline-block; margin: 0 14px 6px 0; }
+.wo-group button { font: 12px/1 var(--sans); background: #f2f2f2; border: 1px solid #ccc; padding: 5px 9px; margin: 0 -1px 0 0; cursor: pointer; }
+.wo-group button.on { background: #333; color: #fff; border-color: #333; }
 .tag-cloud { padding-top: 8px; line-height: 1.7; }
 .tag-cloud a { margin-right: 4px; color: #555; }
 
