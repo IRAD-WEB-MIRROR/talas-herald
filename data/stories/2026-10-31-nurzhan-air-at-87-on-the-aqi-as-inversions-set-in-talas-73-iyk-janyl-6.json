@@ -1,0 +1,47 @@
+{
+  "slug": "2026-10-31-nurzhan-air-at-87-on-the-aqi-as-inversions-set-in-talas-73-iyk-janyl-6",
+  "kind": "story",
+  "headline": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68",
+  "dek": "Gidromet says the stagnant autumn air is a regional pattern, but Nurzhan has more local sources, and the heat plant's gas conversion is still unfunded.",
+  "dateline": "TALAS",
+  "section": "News",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "air quality",
+    "Irad Gidromet",
+    "Nurzhan",
+    "heating season",
+    "inversions",
+    "NurGaz"
+  ],
+  "paragraphs": [
+    "Air over Irad's three cities was in the moderate band on Wednesday 28 October, but Nurzhan stood well above its neighbours, according to readings from Irad Gidromet's PM2.5 monitors. Nurzhan recorded a US AQI of 87 (PM2.5 at 28.2 µg/m³), Talas 73 (20.9 µg/m³) and Iyık Janyl 68 (18.4 µg/m³). Rain was forecast for all three cities that day, and the heating season is now on in each of them.",
+    "Saltanat Musaeva, chief forecaster at Irad Gidromet, said the rise is not peculiar to Irad. As autumn turns cooler and calmer, she said, air over the region settles into temperature inversions, in which a layer of warm air sits over cold air at the surface and stops smoke and dust rising. \"Cooler air over the region sets up inversions that hold pollution near the ground in basins and river plains,\" she said, naming the Chu plain and the river flats at Talas and Iyık Janyl. Commentators in Uzbekistan and elsewhere in the region have been discussing worsening October air in their own cities, and Ms Musaeva said the Irad readings fit that wider picture.",
+    "The service reports on the US EPA scale, on which 51 to 100 counts as moderate. Gidromet has run PM2.5 monitors since 2019: three in Nurzhan, two in Talas and one in Iyık Janyl. Nurzhan's heating-season mean reaches about 70 µg/m³ in January, against 15 to 20 in summer, so Wednesday's figure is a first step on a familiar climb. On Saturday the readings were higher again in the two bigger cities: Nurzhan 97, Talas 74 and Iyık Janyl 69, still moderate, with rain forecast for the day.",
+    "Ms Musaeva was open about why Nurzhan leads. \"The weather is the same for all of us. The difference is what is burning underneath it,\" she said. Nurzhan's winter smog comes mainly from the Nurzhan Oil Refinery and from coal-fired district heating, both trapped under the inversion over the Chu plain. Talas and Iyık Janyl have fewer such sources. A 2021 study by Talas State University, cited by Gidromet, put household coal and district heating at about 45% of Nurzhan's fine particles, the refinery and industry at about 25%, traffic at about 20% and dust at about 10%.",
+    "Vitaly Gorbunov, a Nurzhan taxi driver, said the change is visible by early morning. \"By seven the far end of Azatlık Prospect is gone. You drive with the lights on and the windows shut,\" he said.",
+    "The central heat and power plant beside the refinery belongs to NurGaz. Its conversion to gas is planned but, as of October, unfunded. The Herald reported earlier this month that converting the heat plants in Talas and Nurzhan would put an estimated IS 670 million on city bills. Prof. Sergei Volkov, a petroleum engineer at Nurzhan Polytechnic Institute, said the conversion would cut the particles that settle under an inversion, but not those from the refinery or from households burning coal. \"Without a funded plan, the plant will burn what it burns this winter,\" he said. NurGaz did not reply to questions by deadline.",
+    "Gidromet's monitors report hourly, and the figures for each city are published on its website. Ms Musaeva said the service expects readings in Nurzhan to rise further as nights get colder, with the worst spells typically coming between December and February."
+  ],
+  "pull_quote": "The weather is the same for all of us. The difference is what is burning underneath it.",
+  "pull_quote_by": "Saltanat Musaeva",
+  "people_quoted": [
+    {
+      "name": "Saltanat Musaeva",
+      "role": "Chief forecaster, Irad Gidromet",
+      "canon": true
+    },
+    {
+      "name": "Vitaly Gorbunov",
+      "role": "Taxi driver, Nurzhan",
+      "canon": true
+    },
+    {
+      "name": "Prof. Sergei Volkov",
+      "role": "Petroleum engineer, Nurzhan Polytechnic Institute",
+      "canon": true
+    }
+  ],
+  "image": "photos/iradenergo-office.jpg",
+  "published": "2026-10-31T08:32+06:00"
+}

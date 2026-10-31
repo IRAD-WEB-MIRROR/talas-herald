@@ -1,7 +1,69 @@
 {
  "outlet": "The Talas Herald",
  "sites": {
+  "mejlis.iradgov.org": [
+   {
+    "title": "A halt on farmland conversion needs a count and a date",
+    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
+    "date": "2026-10-31"
+   },
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
+    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
+    "date": "2026-10-27"
+   },
+   {
+    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
+    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
+    "date": "2026-10-23"
+   },
+   {
+    "title": "Name the partners before public money goes into Sary-Bulak",
+    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
+    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
+    "date": "2026-10-14"
+   },
+   {
+    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
+    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Supreme Court puts its case register online; inability petition awaits a date",
+    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
+    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
+    "date": "2026-10-02"
+   },
+   {
+    "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
+    "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
+    "date": "2026-09-28"
+   }
+  ],
   "talasuniversity.org": [
+   {
+    "title": "Kyrgyz plan to protect more high ground leaves Irad's snow leopards out of the talks",
+    "url": "https://talasherald.com/news/2026-10-31-kyrgyz-plan-to-protect-more-high-ground-leaves-irad-s-snow-leopards-ou.html",
+    "date": "2026-10-31"
+   },
+   {
+    "title": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68",
+    "url": "https://talasherald.com/news/2026-10-31-nurzhan-air-at-87-on-the-aqi-as-inversions-set-in-talas-73-iyk-janyl-6.html",
+    "date": "2026-10-31"
+   },
    {
     "title": "TSU dates Bronze Age site near Kara-Suu rock art to 1500–1200 BCE, tentatively",
     "url": "https://talasherald.com/news/2026-10-30-tsu-dates-bronze-age-site-near-kara-suu-rock-art-to-15001200-bce-tenta.html",
@@ -188,6 +250,13 @@
     "date": "2026-09-23"
    }
   ],
+  "gidromet.iradgov.org": [
+   {
+    "title": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68",
+    "url": "https://talasherald.com/news/2026-10-31-nurzhan-air-at-87-on-the-aqi-as-inversions-set-in-talas-73-iyk-janyl-6.html",
+    "date": "2026-10-31"
+   }
+  ],
   "jandarm.iradgov.org": [
    {
     "title": "TSU dates Bronze Age site near Kara-Suu rock art to 1500–1200 BCE, tentatively",
@@ -250,53 +319,6 @@
     "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
     "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
     "date": "2026-09-23"
-   }
-  ],
-  "mejlis.iradgov.org": [
-   {
-    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
-    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
-    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
-    "date": "2026-10-27"
-   },
-   {
-    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
-    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
-    "date": "2026-10-23"
-   },
-   {
-    "title": "Name the partners before public money goes into Sary-Bulak",
-    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
-    "date": "2026-10-17"
-   },
-   {
-    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
-    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
-    "date": "2026-10-14"
-   },
-   {
-    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
-    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
-    "date": "2026-10-13"
-   },
-   {
-    "title": "Supreme Court puts its case register online; inability petition awaits a date",
-    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
-    "date": "2026-10-09"
-   },
-   {
-    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
-    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
-    "date": "2026-10-02"
-   },
-   {
-    "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
-    "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
-    "date": "2026-09-28"
    }
   ],
   "customs.iradgov.org": [
