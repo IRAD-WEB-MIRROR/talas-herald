@@ -535,3 +535,8 @@ table.rates th, table.rates td { border-bottom: 1px solid var(--rule); padding: 
 .lt-weeks .archive-list li { display: block; }
 .widget.markets-box > :not(.widget-title) { margin-left: 10px; margin-right: 10px; }
 .tulpar-box .tp-btn { margin-top: 10px; }
+.ww-ad { display: flex; gap: 10px; align-items: center; margin-bottom: 18px; padding: 10px; background: #5b1a17; color: #ead7a6; border: 3px double #d8c08a; text-decoration: none; font: 12px/1.35 var(--serif); }
+.ww-ad img { flex: none; box-shadow: 2px 2px 0 rgba(0,0,0,.35); }
+.ww-ad small { display: block; font: 700 10px/1 var(--head); letter-spacing: .08em; text-transform: uppercase; color: #fff; margin-bottom: 4px; }
+.ww-ad b { display: block; font: bold 16px/1.15 var(--serif); color: #f3e3b5; margin-bottom: 4px; }
+.ww-ad:hover b { text-decoration: underline; }
