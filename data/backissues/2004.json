@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2004,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:13Z",
  "items": [
   {
    "date": "2004-01-05",
@@ -197,10 +194,7 @@
   {
    "date": "2004-07-13",
    "section": "Culture",
-   "headline": "Summer exhibition opens at Iyık Janyl Palace of Art",
-   "flags": [
-    "not in canon: Iyık Janyl Palace"
-   ]
+   "headline": "Summer exhibition opens at Iyık Janyl Palace of Art"
   },
   {
    "date": "2004-07-17",

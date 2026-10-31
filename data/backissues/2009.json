@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2009,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2009-01-05",
@@ -147,10 +144,7 @@
   {
    "date": "2009-03-24",
    "section": "Business",
-   "headline": "Children's Fund Warm Winter figures presented",
-   "flags": [
-    "not in canon: Fund Warm Winter"
-   ]
+   "headline": "Children's Fund Warm Winter figures presented"
   },
   {
    "date": "2009-03-27",
@@ -175,10 +169,7 @@
   {
    "date": "2009-04-10",
    "section": "Culture",
-   "headline": "Church choirs prepare for Holy Week",
-   "flags": [
-    "not in canon: Holy Week"
-   ]
+   "headline": "Church choirs prepare for Holy Week"
   },
   {
    "date": "2009-04-14",

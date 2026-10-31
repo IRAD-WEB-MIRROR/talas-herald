@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2021,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2021-01-04",
@@ -67,10 +64,7 @@
   {
    "date": "2021-02-09",
    "section": "Across Irad",
-   "headline": "Heating mains repaired in Nurzhan Dastgoh district",
-   "flags": [
-    "not in canon: Nurzhan Dastgoh"
-   ]
+   "headline": "Heating mains repaired in Nurzhan Dastgoh district"
   },
   {
    "date": "2021-02-11",
@@ -185,10 +179,7 @@
   {
    "date": "2021-04-13",
    "section": "News",
-   "headline": "Churches closed again to public for Holy Week vigil, broadcast on IradOne",
-   "flags": [
-    "not in canon: Holy Week"
-   ]
+   "headline": "Churches closed again to public for Holy Week vigil, broadcast on IradOne"
   },
   {
    "date": "2021-04-17",
@@ -223,10 +214,7 @@
   {
    "date": "2021-05-06",
    "section": "Business",
-   "headline": "Sheep prices rise before Easter-season sales",
-   "flags": [
-    "not in canon: Easter-season"
-   ]
+   "headline": "Sheep prices rise before Easter-season sales"
   },
   {
    "date": "2021-05-13",
@@ -261,10 +249,7 @@
   {
    "date": "2021-06-05",
    "section": "Business",
-   "headline": "Bereke opens new store in Nurzhan Navbahor",
-   "flags": [
-    "not in canon: Nurzhan Navbahor"
-   ]
+   "headline": "Bereke opens new store in Nurzhan Navbahor"
   },
   {
    "date": "2021-06-08",

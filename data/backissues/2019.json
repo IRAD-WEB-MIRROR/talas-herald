@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2019,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2019-01-04",
@@ -282,10 +279,7 @@
   {
    "date": "2019-10-30",
    "section": "Courts",
-   "headline": "Court hears Tulpar-name claim by club owners",
-   "flags": [
-    "not in canon: Tulpar-name"
-   ]
+   "headline": "Court hears Tulpar-name claim by club owners"
   },
   {
    "date": "2019-11-02",

@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2002,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:13Z",
  "items": [
   {
    "date": "2002-01-03",
@@ -162,10 +159,7 @@
   {
    "date": "2002-04-30",
    "section": "News",
-   "headline": "City sets May Day road closures in Talas",
-   "flags": [
-    "not in canon: May Day"
-   ]
+   "headline": "City sets May Day road closures in Talas"
   },
   {
    "date": "2002-05-03",

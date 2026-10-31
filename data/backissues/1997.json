@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 1997,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:12Z",
  "items": [
   {
    "date": "1997-01-02",
@@ -172,10 +169,7 @@
   {
    "date": "1997-05-07",
    "section": "News",
-   "headline": "Language and Education Reform Act takes effect in schools",
-   "flags": [
-    "law? 'Act takes effect'"
-   ]
+   "headline": "Language and Education Reform Act takes effect in schools"
   },
   {
    "date": "1997-05-10",

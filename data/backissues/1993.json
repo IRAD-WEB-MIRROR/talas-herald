@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 1993,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:12Z",
  "items": [
   {
    "date": "1993-03-15",
@@ -92,10 +89,7 @@
   {
    "date": "1993-04-22",
    "section": "Across Irad",
-   "headline": "Iyık Janyl pilgrims arrive for Holy Week",
-   "flags": [
-    "not in canon: Holy Week"
-   ]
+   "headline": "Iyık Janyl pilgrims arrive for Holy Week"
   },
   {
    "date": "1993-04-24",
@@ -150,10 +144,7 @@
   {
    "date": "1993-05-20",
    "section": "Business",
-   "headline": "Talas Dairy Combine resumes full milk collection",
-   "flags": [
-    "not in canon: Dairy Combine"
-   ]
+   "headline": "Talas Dairy Combine resumes full milk collection"
   },
   {
    "date": "1993-05-22",
@@ -163,10 +154,7 @@
   {
    "date": "1993-05-25",
    "section": "News",
-   "headline": "Public Broadcasting Act sets up IradOne as public corporation",
-   "flags": [
-    "law? 'Act sets'"
-   ]
+   "headline": "Public Broadcasting Act sets up IradOne as public corporation"
   },
   {
    "date": "1993-05-27",
@@ -316,10 +304,7 @@
   {
    "date": "1993-08-26",
    "section": "Business",
-   "headline": "Holidays Act sets calendar of public days",
-   "flags": [
-    "law? 'Act sets'"
-   ]
+   "headline": "Holidays Act sets calendar of public days"
   },
   {
    "date": "1993-09-01",
@@ -404,10 +389,7 @@
   {
    "date": "1993-11-04",
    "section": "Business",
-   "headline": "Banking and Commercial Currency Act takes effect",
-   "flags": [
-    "law? 'Act takes effect'"
-   ]
+   "headline": "Banking and Commercial Currency Act takes effect"
   },
   {
    "date": "1993-11-09",

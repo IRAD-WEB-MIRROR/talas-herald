@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2011,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2011-01-04",
@@ -87,10 +84,7 @@
   {
    "date": "2011-03-01",
    "section": "News",
-   "headline": "Candidates register for November Mejlis and Governor elections",
-   "flags": [
-    "not in canon: November Mejlis"
-   ]
+   "headline": "Candidates register for November Mejlis and Governor elections"
   },
   {
    "date": "2011-03-04",
@@ -205,10 +199,7 @@
   {
    "date": "2011-05-14",
    "section": "News",
-   "headline": "Bolotbek Daniyar's newspaper marks fifteen years of printing",
-   "flags": [
-    "not in canon: Daniyar's"
-   ]
+   "headline": "Bolotbek Daniyar's newspaper marks fifteen years of printing"
   },
   {
    "date": "2011-05-17",

@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 1999,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:12Z",
  "items": [
   {
    "date": "1999-01-04",
@@ -17,10 +14,7 @@
   {
    "date": "1999-01-07",
    "section": "Culture",
-   "headline": "Orthodox and Syro-Iradi Christmas observed across Talas",
-   "flags": [
-    "not in canon: Syro-Iradi Christmas"
-   ]
+   "headline": "Orthodox and Syro-Iradi Christmas observed across Talas"
   },
   {
    "date": "1999-01-09",
@@ -170,10 +164,7 @@
   {
    "date": "1999-03-23",
    "section": "Business",
-   "headline": "Talas Dairy Combine reports higher milk intake",
-   "flags": [
-    "not in canon: Dairy Combine"
-   ]
+   "headline": "Talas Dairy Combine reports higher milk intake"
   },
   {
    "date": "1999-03-26",
@@ -448,10 +439,7 @@
   {
    "date": "1999-08-14",
    "section": "Across Irad",
-   "headline": "Pilgrims travel to Iyik Janyl for feast",
-   "flags": [
-    "not in canon: Iyik Janyl"
-   ]
+   "headline": "Pilgrims travel to Iyik Janyl for feast"
   },
   {
    "date": "1999-08-17",

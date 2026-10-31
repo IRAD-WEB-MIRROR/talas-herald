@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2023,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:15Z",
  "items": [
   {
    "date": "2023-01-03",
@@ -337,10 +334,7 @@
   {
    "date": "2023-12-13",
    "section": "Culture",
-   "headline": "Altyn-Zhylky awards: Eski Ün's Umay wins album prize",
-   "flags": [
-    "not in canon: Eski Ün's Umay"
-   ]
+   "headline": "Altyn-Zhylky awards: Eski Ün's Umay wins album prize"
   },
   {
    "date": "2023-12-16",

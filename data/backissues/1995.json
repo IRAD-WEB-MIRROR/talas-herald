@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 1995,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:12Z",
  "items": [
   {
    "date": "1995-01-02",
@@ -12,10 +9,7 @@
   {
    "date": "1995-01-03",
    "section": "News",
-   "headline": "Lieutenant Governor Sedykh takes office beside Governor",
-   "flags": [
-    "not in canon: Governor Sedykh"
-   ]
+   "headline": "Lieutenant Governor Sedykh takes office beside Governor"
   },
   {
    "date": "1995-01-05",

@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2025,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:15Z",
  "items": [
   {
    "date": "2025-01-04",
@@ -42,10 +39,7 @@
   {
    "date": "2025-01-23",
    "section": "Sport",
-   "headline": "Irad Cup draw held at the Football Federation",
-   "flags": [
-    "not in canon: Football Federation"
-   ]
+   "headline": "Irad Cup draw held at the Football Federation"
   },
   {
    "date": "2025-01-25",
@@ -160,10 +154,7 @@
   {
    "date": "2025-04-19",
    "section": "Culture",
-   "headline": "Talas Opera and Ballet Theater closes its season with Swan Lake",
-   "flags": [
-    "not in canon: Swan Lake"
-   ]
+   "headline": "Talas Opera and Ballet Theater closes its season with Swan Lake"
   },
   {
    "date": "2025-04-23",

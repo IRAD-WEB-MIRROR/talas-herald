@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2013,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2013-01-05",
@@ -27,10 +24,7 @@
   {
    "date": "2013-01-24",
    "section": "Sport",
-   "headline": "Talas Youth Academy opens winter indoor season",
-   "flags": [
-    "not in canon: Youth Academy"
-   ]
+   "headline": "Talas Youth Academy opens winter indoor season"
   },
   {
    "date": "2013-02-02",

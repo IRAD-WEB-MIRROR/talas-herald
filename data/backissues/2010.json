@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2010,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2010-01-05",
@@ -157,10 +154,7 @@
   {
    "date": "2010-04-17",
    "section": "Culture",
-   "headline": "Choirs prepare Holy Week services",
-   "flags": [
-    "not in canon: Holy Week"
-   ]
+   "headline": "Choirs prepare Holy Week services"
   },
   {
    "date": "2010-04-20",

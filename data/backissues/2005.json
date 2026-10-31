@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2005,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:13Z",
  "items": [
   {
    "date": "2005-01-04",
@@ -22,10 +19,7 @@
   {
    "date": "2005-01-15",
    "section": "Culture",
-   "headline": "Philharmonic opens the year with a Chopin evening",
-   "flags": [
-    "not in canon: Chopin"
-   ]
+   "headline": "Philharmonic opens the year with a Chopin evening"
   },
   {
    "date": "2005-01-19",
@@ -415,10 +409,7 @@
   {
    "date": "2005-10-12",
    "section": "Culture",
-   "headline": "Autumn art show opens at Iradi Palace of Art",
-   "flags": [
-    "not in canon: Iradi Palace"
-   ]
+   "headline": "Autumn art show opens at Iradi Palace of Art"
   },
   {
    "date": "2005-10-15",
@@ -518,18 +509,12 @@
   {
    "date": "2005-12-21",
    "section": "News",
-   "headline": "Territorial Legislature passes the year's last budget bills",
-   "flags": [
-    "law? 'passes the year's last budget bills'"
-   ]
+   "headline": "Territorial Legislature passes the year's last budget bills"
   },
   {
    "date": "2005-12-24",
    "section": "News",
-   "headline": "Midnight liturgy planned for Christmas Eve in Talas",
-   "flags": [
-    "not in canon: Christmas Eve"
-   ]
+   "headline": "Midnight liturgy planned for Christmas Eve in Talas"
   },
   {
    "date": "2005-12-28",

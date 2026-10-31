@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2016,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2016-01-02",
@@ -87,10 +84,7 @@
   {
    "date": "2016-03-01",
    "section": "News",
-   "headline": "District reform decree creates Toktogul District",
-   "flags": [
-    "law? 'decree'"
-   ]
+   "headline": "District reform decree creates Toktogul District"
   },
   {
    "date": "2016-03-04",

@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2006,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:13Z",
  "items": [
   {
    "date": "2006-01-03",
@@ -442,10 +439,7 @@
   {
    "date": "2006-11-04",
    "section": "News",
-   "headline": "Candidates close campaigns before Tuesday's election",
-   "flags": [
-    "not in canon: Tuesday's"
-   ]
+   "headline": "Candidates close campaigns before Tuesday's election"
   },
   {
    "date": "2006-11-07",
@@ -515,10 +509,7 @@
   {
    "date": "2006-12-13",
    "section": "News",
-   "headline": "Orozbekov cabinet issues decree renaming departments as ministries",
-   "flags": [
-    "law? 'issues decree'"
-   ]
+   "headline": "Orozbekov cabinet issues decree renaming departments as ministries"
   },
   {
    "date": "2006-12-14",

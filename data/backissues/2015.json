@@ -1,8 +1,5 @@
 {
- "outlet": "herald",
  "year": 2015,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:14Z",
  "items": [
   {
    "date": "2015-01-03",
@@ -87,10 +84,7 @@
   {
    "date": "2015-02-16",
    "section": "News",
-   "headline": "Afghan war veterans gather at Nurzhan's Black Tulip memorial",
-   "flags": [
-    "not in canon: Nurzhan's Black Tulip"
-   ]
+   "headline": "Afghan war veterans gather at Nurzhan's Black Tulip memorial"
   },
   {
    "date": "2015-02-18",
@@ -435,10 +429,7 @@
   {
    "date": "2015-10-30",
    "section": "News",
-   "headline": "Commission opens polling stations for Tuesday's vote",
-   "flags": [
-    "not in canon: Tuesday's"
-   ]
+   "headline": "Commission opens polling stations for Tuesday's vote"
   },
   {
    "date": "2015-11-04",
