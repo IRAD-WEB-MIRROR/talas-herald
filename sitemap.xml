@@ -388,4 +388,8 @@
   <url><loc>https://talasherald.com/login.html</loc></url>
   <url><loc>https://talasherald.com/subscribe.html</loc></url>
   <url><loc>https://talasherald.com/whos-who.html</loc><image:image><image:loc>https://talasherald.com/docs/whos-who-in-irad-2026-27-cover.jpg</image:loc></image:image></url>
+  <url><loc>https://talasherald.com/notices.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://talasherald.com/notices/2026-11.html</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://talasherald.com/notices/2026-10.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://talasherald.com/notices/2026-09.html</loc><lastmod>2026-09-30</lastmod></url>
 </urlset>
