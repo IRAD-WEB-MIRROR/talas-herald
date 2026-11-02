@@ -1,0 +1,66 @@
+{
+  "slug": "2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on",
+  "kind": "story",
+  "headline": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
+  "dek": "No report links the attack to the Seychelles exchange that lists the coin, but Tulpar Pay is due to settle only in Tulparcoin from 1 January.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Timur Sadyrbaev",
+  "tags": [
+    "Tulparcoin",
+    "Tulpar Pay",
+    "Bank of Irad",
+    "cryptocurrency",
+    "Liberty Forum"
+  ],
+  "paragraphs": [
+    "Foreign news agencies reported on 30 October that a very large offshore cryptocurrency exchange had suffered a cyberattack affecting about $6.3 billion in digital assets. The firm is not named here: the Herald is reporting the event, not any company's conduct. The reports reached Irad at an awkward moment for Tulparcoin (TLPR), which was quoted at 3.59 US cents at noon on Sunday, up 5.5% on the day, and at 3.21 cents at noon today, down 6.6%. The coin is not legal tender in Irad.",
+    "No report links the attack to the exchange that lists Tulparcoin, and nothing in the record suggests a connection. That exchange is registered in the Seychelles and is the only place the coin trades. The Herald's arithmetic is simple: the full 900 million supply is worth about $32.3 million at Sunday's quote, so the sum reported affected abroad is roughly 195 times the entire coin at its Sunday price. The comparison is one of scale only.",
+    "The Bank of Irad has said nothing new. Its deputy chairman, Ermek Sadykbekov, pointed the Herald to the two statements already on record: the warning of 24 September that Tulparcoin is not legal tender, and the notice of 29 September that Tulpar Pay needs a licence. \"Both statements stand as issued,\" Mr Sadykbekov said. Talasbank has declined card payments for the coin since September, and Attelkom blocked the coin's websites on 8 October from a list kept by the Department of Public Information. The Tulpar messaging app itself is not blocked. IradOne reported the hack's local angle on Monday.",
+    "For Bolot Ormokoev, a finance lecturer at Talas State University, the question is structure rather than the hack. \"A coin that trades in one place has one price, and that price is set by a small number of buyers and sellers,\" he said. \"A few large orders can move it by double digits in a day, and if that venue pauses withdrawals for any reason, holders have no second market to sell into.\" He added that a quoted price is not the same as a price at which a large holder can actually sell.",
+    "The exposure is set to grow. Under the white paper's second phase, Tulpar Pay will settle transfers, *Bazar* purchases and remittances only in Tulparcoin from 1 January 2027. Supply is split 10% free distribution, 30% locked to the Liberty Forum until 22 September 2028, 35% exchange liquidity and Tulpar Pay float, and 25% a rewards pool. The coin is described as \"secured by Iradi water\" from Toktogul, with no operator named. Adilet Bakyt uulu, 24, a Talas courier, received his free 100 coins, worth $3.59 at Sunday's quote. \"It is pocket money,\" he said. \"The question is what happens when it is wages.\"",
+    "Tulpar's founder, Jason Ilyasov, said his own wallets and the coin's treasury have nothing to do with the exchange that was hit. \"Different venue, different custody, different wallets,\" he said. Asked what protects holders if the one listing fails, he said the Forum's lock-up kept 30% of supply off the market. Aliya Turgunbekova, the Liberty Forum's spokeswoman, defended the lock-up and the free distribution, saying neither the Forum nor Tulpar can sell the locked coins before 2028. Neither answered the Herald's question about independent verification of the Tulpar Pay float. Tulpar's published transparency reports cover government requests, not reserves. Asked, as he usually is, whether he has a patron in government, Mr Ilyasov said he does not.",
+    "Kamran Bekzatov, the NurGaz head and a persistent critic, repeated his earlier verdict. \"A toy that can burn down a house,\" he said, adding that the foreign hack proved his point about unregulated money. The Forum's supporters say the hack has no bearing on a different exchange.",
+    "Nothing is decided. There is no new notice, no ban and no crash. The next fixed dates are the Talas District Court's resumed hearing on 16 November, when Judge Asel Mamytbekova will take up the trademark claim over the coin's name, and the 1 January switch. The Herald has asked the Bank of Irad whether it will issue guidance before then, and has had no reply."
+  ],
+  "pull_quote": "A coin that trades in one place has one price, and that price is set by a small number of buyers and sellers",
+  "pull_quote_by": "Bolot Ormokoev",
+  "people_quoted": [
+    {
+      "name": "Ermek Sadykbekov",
+      "role": "Deputy chairman, Bank of Irad",
+      "canon": true
+    },
+    {
+      "name": "Bolot Ormokoev",
+      "role": "Finance lecturer, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Jason Ilyasov",
+      "role": "Founder and CEO, Tulpar",
+      "canon": true
+    },
+    {
+      "name": "Aliya Turgunbekova",
+      "role": "Spokeswoman, Liberty Forum",
+      "canon": true
+    },
+    {
+      "name": "Kamran Bekzatov",
+      "role": "NurGaz head, critic of the coin",
+      "canon": true
+    },
+    {
+      "name": "Adilet Bakyt uulu",
+      "role": "Courier, Talas",
+      "canon": false
+    }
+  ],
+  "image": "photos/bank-of-irad-press.jpg",
+  "published": "2026-11-03T05:41+06:00",
+  "iradone": {
+    "headline": "Offshore Exchange Hack Puts Tulparcoin's 3.59-Cent Quote Under the Spotlight",
+    "slug": "2026-11-02-offshore-exchange-hack-puts-tulparcoin-s-3-59-cent-quote-under-the-spo"
+  }
+}

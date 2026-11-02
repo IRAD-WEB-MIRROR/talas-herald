@@ -1,0 +1,51 @@
+{
+  "slug": "2026-11-03-central-asian-power-demand-to-rise-27-by-2030-irad-is-not-in-the-plann",
+  "kind": "story",
+  "headline": "Central Asian power demand to rise 27% by 2030; Irad is not in the planning",
+  "dek": "Toktogul, rated at 1,440 MW since the October refit, will sell into that demand, but the 2027 Naryn schedule is still to be agreed and the clans' revenue annex is unpublished.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "Toktogul",
+    "electricity",
+    "Naryn Protocol",
+    "exports",
+    "Iradenergo"
+  ],
+  "paragraphs": [
+    "Analysts at a regional development bank expect electricity demand across Central Asia to rise 27% by 2030, adding strain to power systems that Kazakhstan, Uzbekistan and Kyrgyzstan are already struggling to maintain. Irad belongs to no regional power-planning body and has no part in the forecast or in the planning built on it, though one of the region's largest hydro plants sits inside its Toktogul District.",
+    "Toktogul has been rated at 1,440 MW since the October 2026 refit. It exports electricity to Uzbekistan and Kazakhstan under contracts with the neighbours' grid operators, paid in dollars into escrow at Talasbank. IradOne reported on Monday that the forecast raises the value of Toktogul's winter generation. It did not say who decides how much of that value can be used.",
+    "The reservoir held 16.59 km³ of its 19 km³ capacity (87.3% full) on 1 November and was drawing down. Today's figure is 16.50 km³ (86.8%), a fall of about 46 million m³ a day. The Herald reported last month that power exports had reached 99% of the annual plan with ten weeks still to run. Autumn drawdown is normal. What changes with a rising forecast is how much of the stored water the downstream buyers will want in January.",
+    "Iradenergo spokesman Vladislav Ten said exports are running as planned. \"Exports run on the contract schedule,\" he said. \"Winter generation and summer releases are balanced under the Protocol, as they are every year.\" Asked whether the 27% forecast would change the company's position in the 2027 talks, he said scheduling was a matter for the Protocol commission.",
+    "That commission is where the pressure will land. The five-year Naryn Water and Power Protocol schedule, last renewed in 2022, falls due again in 2027. It is run by a joint ISEZ–tribal technical commission under UN supervision, with Uzbek, Kazakh and Kyrgyz observers. The clans hold an equal seat and must consent to each schedule. They also draw a minimum share of Toktogul export revenue under an annex that has never been published.",
+    "Dr Bermet Asylova, a hydrologist at Talas State University, said the forecast does not describe the river. \"Every extra gigawatt-hour wanted in Tashkent in January is a gigawatt-hour of water that cannot be in a canal in July,\" she said. \"The forecast is a demand number and the schedule is a water number, and nobody downstream is putting the two on one page.\" She said any extra winter release would have to be matched with a smaller summer one, or the reservoir would have to start spring lower.",
+    "Summer water matters most to farmers on the Fergana rim. Habibulla Yusupov, who farms cotton and vegetables near Bazar-Korgon, said growers plan their season around the dates the canals are opened. \"If the winter takes more water, we will hear about it in April, when the fields are already waiting,\" he said. The winter of 2008–09, when the reservoir stood at a record low and Talas and Nurzhan lived through rolling blackouts, is still cited in the valley as the reason nobody wants surprises.",
+    "The question of who signs for the ISEZ in 2027 is open. The renewal falls in a year when the Territorial Election Commission has set the election for 2 November, with the new term to begin on 22 November. The Herald asked the Office of the Governor who would sign for the ISEZ and whether the 27% forecast had been discussed in preparing its position. It had not replied by deadline. The Protocol commission's 2027 timetable has not been published."
+  ],
+  "pull_quote": "Every extra gigawatt-hour wanted in Tashkent in January is a gigawatt-hour of water that cannot be in a canal in July",
+  "pull_quote_by": "Dr Bermet Asylova",
+  "people_quoted": [
+    {
+      "name": "Vladislav Ten",
+      "role": "Iradenergo spokesman",
+      "canon": true
+    },
+    {
+      "name": "Dr Bermet Asylova",
+      "role": "hydrologist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Habibulla Yusupov",
+      "role": "farmer near Bazar-Korgon",
+      "canon": false
+    }
+  ],
+  "image": "photos/toktogul-autumn.jpg",
+  "published": "2026-11-03T05:32+06:00",
+  "iradone": {
+    "headline": "Central Asia's Power Demand to Rise 27% by 2030; Toktogul Eyes Winter Value",
+    "slug": "2026-11-02-central-asia-s-power-demand-to-rise-27-by-2030-toktogul-eyes-winter-va"
+  }
+}
