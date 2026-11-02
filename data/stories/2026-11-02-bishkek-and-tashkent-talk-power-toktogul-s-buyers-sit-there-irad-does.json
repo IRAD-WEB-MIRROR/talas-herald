@@ -1,0 +1,61 @@
+{
+  "slug": "2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does",
+  "kind": "story",
+  "headline": "Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not",
+  "dek": "Iradenergo says exports run on schedule at 99% of plan, but the 2027 Naryn renewal will be shaped by deals made without the ISEZ.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Timur Sadyrbaev",
+  "tags": [
+    "Toktogul",
+    "Iradenergo",
+    "electricity exports",
+    "Naryn Protocol",
+    "Uzbekistan",
+    "Kyrgyzstan"
+  ],
+  "paragraphs": [
+    "The Kyrgyz and Uzbek energy ministers met around 28–29 October to discuss electricity supply and bilateral cooperation. Irad was not in the room, and has no seat at such talks, although both countries buy Toktogul power from the Iradenergo state utility.",
+    "The meeting was reported by the Nurzhan weekly Vecherniy Nurzhan on Friday and by IradOne on Sunday. As far as the Herald could establish, no detailed account of what was agreed has been published. The ISEZ learns of such talks from the press and from the grid operators it sells to.",
+    "Those sales are the Irad angle. Iradenergo supplies the Uzbek and Kazakh grid operators on contract schedules, paid in dollars into Talasbank escrow. By late October exports had reached 99% of the annual contract plan, or 2.92 billion kWh, with about ten weeks of the year still to run. Prices are not published.",
+    "Vladislav Ten, Iradenergo's spokesman, said deliveries are on schedule. \"No counterparty has notified us of any change to the contract schedules,\" he said. Asked whether the company had been told what the two ministers discussed, he said it had not been consulted and had no comment on talks between other governments.",
+    "The reservoir is the other side of the ledger. On 30 October the Toktogul reservoir held 16.65 km³ of its 19 km³ capacity (87.6%) and was drawing down for winter. This morning it stood at 16.55 km³ (87.1%), having lost 40 million m³ in a day. Supply in Talas, Nurzhan and Iyık Janyl is normal, with no scheduled cuts.",
+    "Dr Bermet Asylova, a hydrologist at Talas State University, said a high reservoir at this point of the year is the expected pattern, not a sign of surplus. \"The drawdown is the winter's generation being spent,\" she said. \"If Kyrgyzstan and Uzbekistan arrange more supply between themselves, or swap power across their own grids, the pressure on how much we release in January and February can fall or rise. Nobody here will know which until it shows up in the requests.\"",
+    "That is why the talks matter beyond this winter. The Naryn Water and Power Protocol, which sets the annual balance between winter generation and summer irrigation, was renewed in 2022 and falls due again in 2027. Uzbekistan, Kazakhstan and Kyrgyzstan sit on its technical commission as observers. The clans hold an equal seat and must consent to each five-year schedule.",
+    "Prof. Raisa Akmatova, an economist at TSU, noted that Irad sells into a market whose terms others set. \"A buyer with a cheaper alternative negotiates harder at renewal,\" she said. \"We have no seat when that alternative is being built.\" She added that without the contract prices, nobody outside Iradenergo and the escrow authority can say what a change would cost.",
+    "The memory of the 2008–09 winter, when the reservoir hit its record low and Talas and Nurzhan went onto rolling blackouts, keeps the issue sensitive. Iradenergo says no such measures are planned. The Mejlis budget committee takes up the 2027 draft this month, and the export income that Toktogul contributes to it is one of its larger lines."
+  ],
+  "pull_quote": "We have no seat when that alternative is being built.",
+  "pull_quote_by": "Prof. Raisa Akmatova",
+  "people_quoted": [
+    {
+      "name": "Vladislav Ten",
+      "role": "Spokesman, Iradenergo",
+      "canon": true
+    },
+    {
+      "name": "Dr Bermet Asylova",
+      "role": "Hydrologist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Prof. Raisa Akmatova",
+      "role": "Economist, Talas State University",
+      "canon": true
+    }
+  ],
+  "image": "photos/toktogul-dam.jpg",
+  "published": "2026-11-02T08:32+06:00",
+  "iradone": {
+    "headline": "Toktogul Exports Hit 99% of Plan as Bishkek and Tashkent Talk Power",
+    "slug": "2026-11-01-toktogul-exports-hit-99-of-plan-as-bishkek-and-tashkent-talk-power"
+  },
+  "cites": [
+    {
+      "paper": "Vecherniy Nurzhan",
+      "headline": "Power this winter: neighbours hold talks, Toktogul keeps to schedule",
+      "url": "https://vnurzhan.com/en/news/elektroenergiya-toktogul-eksport-zima.html",
+      "date": "2026-10-30"
+    }
+  ]
+}
