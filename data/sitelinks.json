@@ -1,116 +1,19 @@
 {
  "outlet": "The Talas Herald",
  "sites": {
-  "bank.iradgov.org": [
+  "kopuro.org": [
    {
-    "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
-    "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
-    "date": "2026-11-03"
-   },
-   {
-    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
-    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%",
-    "url": "https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html",
-    "date": "2026-10-22"
-   },
-   {
-    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
-    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
-    "date": "2026-10-20"
-   },
-   {
-    "title": "Court adjourns Tulparcoin name case to November without an injunction",
-    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
-    "date": "2026-10-12"
-   },
-   {
-    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
-    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
-    "date": "2026-10-09"
-   },
-   {
-    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
-    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
-    "date": "2026-10-06"
-   },
-   {
-    "title": "Russian cap on cash rubles hits families who carry savings home",
-    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
-    "date": "2026-09-30"
-   },
-   {
-    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
-    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
-    "date": "2026-09-25"
-   },
-   {
-    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
-    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
-    "date": "2026-09-23"
-   }
-  ],
-  "talasbank.net": [
-   {
-    "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
-    "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
-    "date": "2026-11-03"
-   },
-   {
-    "title": "Central Asian power demand to rise 27% by 2030; Irad is not in the planning",
-    "url": "https://talasherald.com/news/2026-11-03-central-asian-power-demand-to-rise-27-by-2030-irad-is-not-in-the-plann.html",
-    "date": "2026-11-03"
-   },
-   {
-    "title": "Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not",
-    "url": "https://talasherald.com/news/2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does.html",
-    "date": "2026-11-02"
-   },
-   {
-    "title": "Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run",
-    "url": "https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html",
-    "date": "2026-10-23"
-   },
-   {
-    "title": "Heat plant gas conversions would put IS 670 million on Talas and Nurzhan bills",
-    "url": "https://talasherald.com/news/2026-10-20-heat-plant-gas-conversions-would-put-is-670-million-on-talas-and-nurzh.html",
-    "date": "2026-10-20"
-   },
-   {
-    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
-    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
-    "date": "2026-10-20"
-   },
-   {
-    "title": "Sary-Bulak's 13 new plants create 138 jobs, but only 91 are year-round",
-    "url": "https://talasherald.com/news/2026-10-13-sary-bulak-s-13-new-plants-create-138-jobs-but-only-91-are-year-round.html",
-    "date": "2026-10-13"
-   },
-   {
-    "title": "Antimony restart relies on partners the combine has not named",
-    "url": "https://talasherald.com/news/2026-10-13-antimony-restart-relies-on-partners-the-combine-has-not-named.html",
-    "date": "2026-10-13"
-   },
-   {
-    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
-    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
-    "date": "2026-10-06"
-   },
-   {
-    "title": "Russian cap on cash rubles hits families who carry savings home",
-    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
-    "date": "2026-09-30"
-   },
-   {
-    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
-    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
-    "date": "2026-09-25"
+    "title": "A comic apologises to Kazakhstan; Irad has waited since 1993 for no apology",
+    "url": "https://talasherald.com/news/2026-11-05-a-comic-apologises-to-kazakhstan-irad-has-waited-since-1993-for-no-apo.html",
+    "date": "2026-11-05"
    }
   ],
   "talasuniversity.org": [
+   {
+    "title": "A comic apologises to Kazakhstan; Irad has waited since 1993 for no apology",
+    "url": "https://talasherald.com/news/2026-11-05-a-comic-apologises-to-kazakhstan-irad-has-waited-since-1993-for-no-apo.html",
+    "date": "2026-11-05"
+   },
    {
     "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
     "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
@@ -325,6 +228,115 @@
     "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
     "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
     "date": "2026-09-23"
+   }
+  ],
+  "bank.iradgov.org": [
+   {
+    "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
+    "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
+    "date": "2026-11-03"
+   },
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%",
+    "url": "https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html",
+    "date": "2026-10-22"
+   },
+   {
+    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
+    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Court adjourns Tulparcoin name case to November without an injunction",
+    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
+    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
+    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "Russian cap on cash rubles hits families who carry savings home",
+    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
+    "date": "2026-09-30"
+   },
+   {
+    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
+    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
+    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
+    "date": "2026-09-23"
+   }
+  ],
+  "talasbank.net": [
+   {
+    "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
+    "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
+    "date": "2026-11-03"
+   },
+   {
+    "title": "Central Asian power demand to rise 27% by 2030; Irad is not in the planning",
+    "url": "https://talasherald.com/news/2026-11-03-central-asian-power-demand-to-rise-27-by-2030-irad-is-not-in-the-plann.html",
+    "date": "2026-11-03"
+   },
+   {
+    "title": "Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not",
+    "url": "https://talasherald.com/news/2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does.html",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run",
+    "url": "https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html",
+    "date": "2026-10-23"
+   },
+   {
+    "title": "Heat plant gas conversions would put IS 670 million on Talas and Nurzhan bills",
+    "url": "https://talasherald.com/news/2026-10-20-heat-plant-gas-conversions-would-put-is-670-million-on-talas-and-nurzh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
+    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Sary-Bulak's 13 new plants create 138 jobs, but only 91 are year-round",
+    "url": "https://talasherald.com/news/2026-10-13-sary-bulak-s-13-new-plants-create-138-jobs-but-only-91-are-year-round.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Antimony restart relies on partners the combine has not named",
+    "url": "https://talasherald.com/news/2026-10-13-antimony-restart-relies-on-partners-the-combine-has-not-named.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
+    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
+    "date": "2026-10-06"
+   },
+   {
+    "title": "Russian cap on cash rubles hits families who carry savings home",
+    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
+    "date": "2026-09-30"
+   },
+   {
+    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
+    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
+    "date": "2026-09-25"
    }
   ],
   "court.iradgov.org": [
