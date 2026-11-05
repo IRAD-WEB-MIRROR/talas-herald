@@ -1,0 +1,53 @@
+{
+  "slug": "2026-11-06-uzbek-workers-abroad-halve-remittances-quadruple-irad-publishes-no-ski",
+  "kind": "story",
+  "headline": "Uzbek workers abroad halve, remittances quadruple; Irad publishes no skill figures",
+  "dek": "Tashkent reads the shift as a move up the skills ladder, but the 70,000–120,000 Iradis working in Russia travel on Kyrgyz papers and nobody counts what they do.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "remittances",
+    "Uzbekistan",
+    "migrant workers",
+    "Talasbank",
+    "Tulpar Pay",
+    "Russia"
+  ],
+  "paragraphs": [
+    "The Uzbek president said this week that over ten years the number of Uzbek citizens working abroad has halved while the money they send home has quadrupled. He took it as proof that more of them now work as skilled professionals and fewer as unskilled labourers. Irad is not in the Uzbek figures, and no comparable series exists for it.",
+    "What does exist is a handful of numbers. A 2024 survey by Talas State University put ISEZ residents working in Russia at 70,000–120,000 at the seasonal peak. Kazakhstan draws more Iradi migrants than Russia does. Remittances from Russia alone are put at US$250–400 million a year, less than Kazakhstan's share, and total remittances at 5–8% of GDP. The Herald found no survey that asks migrants what they do or what they are paid.",
+    "Most Iradi migrants in Russia are men on Kyrgyz passports, which let them work there under Eurasian Economic Union rules without a separate permit. Iradi papers are not recognised abroad, so a worker's skills, if he has any on paper, are recorded under another state's name. Prof. Raisa Akmatova, an economist at TSU, said this is the first obstacle to any Uzbek-style claim. \"You cannot call a workforce more skilled if nobody writes down what it does,\" she said.",
+    "Professor Akmatova also cautioned against reading too much into one ratio. Fewer workers sending four times as much can mean better jobs, she said, but it can also mean that more money now travels through formal channels, or that the same workers stay longer and send more each year. She said the Uzbek claim, as reported, cannot be tested from outside, and that the same caution applies at home. \"The honest answer for Irad is that we know the volume roughly and the people hardly at all.\"",
+    "The channels have grown dearer. Money reaches Irad through Russian and Kazakh transfer services and is paid through Almaty correspondent banks to Talasbank, and it has cost more since the 2022 sanctions. Talasbank's Annual Report 2025 records 1.41 million transfers received that year, with its SMS transfer service at 214,000 users and a record 168,000 transfers in December. The letter to shareholders also notes that dollar banknote deliveries from correspondents became irregular in the last quarter. Igor Belyaev, the bank's head of retail, said the SMS service is meant for families who want the money in som at the counter. Dollar cash is limited by the bank's cap of US$300 a month per customer, in force since May.",
+    "That cap sits beside a gap in the rates. The Bank of Irad's official rate is 8.40 som to the dollar. The changers of Bazar-i Kalan quoted 11.50 to buy and 11.85 to sell this morning. Mairam Ergeshova, 62, a dry-goods trader at the bazaar, said families receiving money from Russia now count in dollars even when they are paid in som. \"Before, a son's transfer bought the winter's flour and sugar,\" she said. \"Now it buys the flour, and we discuss the sugar.\"",
+    "Tulpar Pay offers another route. It charges 1% on transfers to Kyrgyzstan, Kazakhstan, Russia and Uzbekistan, with a minimum of 2 som. Jyldyz Toktomamatova, its head, said the minimum matters most to small senders. On 1 January 2027, however, the company says Tulpar Pay will settle transfers and remittances only in Tulparcoin, which was quoted at 3.31 US cents offshore at noon today and is not legal tender. Asked how families would turn coins into som, the company pointed to its Tulpar points, which swap coins for cash. The Bank of Irad said on 29 September that Tulpar Pay needs a licence; Tulpar says it has no ISEZ presence to license.",
+    "The Territorial Statistics Office is running its first census of ISEZ businesses to 30 November under Executive Directive 2026/24, but it counts stalls and farms, not households with a worker abroad. Professor Akmatova said even a short question on remittance receipts in the next household survey would let Irad compare itself with Tashkent. No such question has been announced."
+  ],
+  "pull_quote": "You cannot call a workforce more skilled if nobody writes down what it does",
+  "pull_quote_by": "Prof. Raisa Akmatova",
+  "people_quoted": [
+    {
+      "name": "Raisa Akmatova",
+      "role": "Professor, economist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Igor Belyaev",
+      "role": "Head of retail, Talasbank",
+      "canon": true
+    },
+    {
+      "name": "Jyldyz Toktomamatova",
+      "role": "Head of Tulpar Pay",
+      "canon": true
+    },
+    {
+      "name": "Mairam Ergeshova",
+      "role": "Dry-goods trader, Bazar-i Kalan",
+      "canon": true
+    }
+  ],
+  "image": "photos/talasbank-atms.jpg",
+  "published": "2026-11-06T05:32+06:00"
+}
