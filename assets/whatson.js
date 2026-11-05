@@ -4,7 +4,7 @@
   "use strict";
 
   var SRC = "https://iradone.com/data/whatson.json";
-  var KINDS = [["all", "All"], ["concert", "Music"], ["exhibition", "Exhibitions"], ["lecture", "Talks"], ["feast", "Church"], ["match", "Football"]];
+  var KINDS = [["all", "All"], ["concert", "Music"], ["stage", "Theatre"], ["exhibition", "Exhibitions"], ["lecture", "Talks"], ["feast", "Church"], ["match", "Football"]];
   var CITIES = ["Talas", "Nurzhan", "Iyık Janyl"];
   var MON = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
   var WD = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
@@ -56,10 +56,13 @@
 
   function week(list, evs, today) {
     var stop = addDays(today, 7);
-    var rows = [], games = {};
+    var rows = [], games = {}, houses = {};
     evs.forEach(function (e) {                 // a day's football is one line in the box
       if (e.date < today || e.date > stop) return;
-      if (e.kind !== "match") return rows.push(e);
+      if (e.kind !== "match") {                // two nights a house at most, so one theatre doesn't fill the box
+        houses[e.venue] = (houses[e.venue] || 0) + 1;
+        return houses[e.venue] > 2 ? null : rows.push(e);
+      }
       var comp = e.title.en.split(":")[0], key = e.date + comp;
       if (games[key]) return games[key].n++;
       games[key] = { n: 1, date: e.date, kind: "match", url: e.url, title: { en: comp }, venue: "", city: "" };
