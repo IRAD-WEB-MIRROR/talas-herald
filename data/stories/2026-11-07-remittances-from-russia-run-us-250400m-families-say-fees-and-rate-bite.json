@@ -1,0 +1,70 @@
+{
+  "slug": "2026-11-07-remittances-from-russia-run-us-250400m-families-say-fees-and-rate-bite",
+  "kind": "story",
+  "headline": "Remittances from Russia run US$250–400m; families say fees and rate bite",
+  "dek": "A dollar paid out at the official 8.40 buys about 27% fewer som than at the Bazar-i Kalan, and the Ministry of Labour announces nothing new.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "remittances",
+    "migrants",
+    "Talasbank",
+    "Tulpar Pay",
+    "exchange rate",
+    "Labour ministry"
+  ],
+  "paragraphs": [
+    "Iradis working in Russia send home an estimated US$250–400 million a year, and total remittances are put at 5–8% of GDP. On the 2024 figure of $18.4bn, that is roughly $0.9–1.5bn from all sources. Yet families in Talas and Nurzhan say the total matters less to them than what is lost between the sender's phone and the pay counter.",
+    "The question is in the news because the Uzbek president has pressed this week for larger remittances and better support for workers abroad. Irad has no such programme. The Herald reported on Tuesday that Uzbek workers abroad have halved while their remittances quadrupled; Irad publishes no skill figures for its own migrants, most of whom hold Kyrgyz passports and work under Eurasian Union rules.",
+    "Since the 2022 sanctions, money from Russia has reached Irad through Russian and Kazakh transfer services and Almaty correspondent banks, at higher cost and with delays, before arriving at Talasbank's SMS service. Igor Belyaev, the bank's head of retail, said a transfer is credited in som at the official rate of 8.40 to the dollar. 'The family receives what the rate gives them,' he said. Dollar cash is capped at US$300 a month per customer. He declined to give an average fee, saying it depends on the sending service.",
+    "The Bazar-i Kalan changers bought dollars at 11.45 this morning and sold at 11.90. A dollar paid out at 8.40 therefore yields about 27% fewer som than at the bazaar buy rate. If every dollar from Russia were paid out at the official rate, the gap would run to about 760 million to 1.22 billion som a year. The Herald's estimate assumes the whole flow is paid out that way, which the bank does not confirm.",
+    "Lupe Morales Jumabaeva, 60, who keeps a grocery in Semiz, said her cousin's son in Kazakhstan sends money most months. 'He sends dollars and we receive som,' she said. 'At the bank it is one number, at the bazaar another. I do not need a lecture about the exchange rate. I need the arithmetic to come out in the family's favour.'",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said the burden of sanctions-era costs falls on the weakest party. 'Sender and receiver both pay, one in fees and the other in the rate,' she said. She added that the gap would shrink only if the official and street rates came together, which depends on the Bank of Irad, not on the migrants.",
+    "The Ministry of Labour and Social Protection said in a statement on Friday that its register of migrants' families, set up in 2022, remains the basis for allowances paid at post offices. IradOne and the Nurzhan weekly Vecherniy Nurzhan reported on the same day that families put cost ahead of wages. Asked whether allowances would be indexed to the street rate, the ministry's office, headed by Aikerim Kalbaeva, said allowances are set and paid in som. No new measure was announced.",
+    "The alternative many families are weighing is Tulpar Pay, which charges 1% (minimum 2 som) on transfers to Russia, Kazakhstan, Kyrgyzstan and Uzbekistan. Jyldyz Toktomamatova, its head, confirmed that from 1 January 2027 it is due to settle transfers only in Tulparcoin. 'Families choose the cheapest route, and we want to be it,' she said. Tulparcoin is not legal tender and was quoted at 3.31 US cents on Thursday. The Bank of Irad has said Tulpar Pay needs a licence, and Professor Akmatova warned that savings held in a coin quoted on one offshore exchange can be lost quickly. Talasbank no longer takes card payments for it."
+  ],
+  "pull_quote": "Sender and receiver both pay, one in fees and the other in the rate",
+  "pull_quote_by": "Prof. Raisa Akmatova",
+  "people_quoted": [
+    {
+      "name": "Igor Belyaev",
+      "role": "Head of retail, Talasbank",
+      "canon": true
+    },
+    {
+      "name": "Lupe Morales Jumabaeva",
+      "role": "Grocer, Semiz",
+      "canon": true
+    },
+    {
+      "name": "Raisa Akmatova",
+      "role": "Economist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Jyldyz Toktomamatova",
+      "role": "Head of Tulpar Pay",
+      "canon": true
+    },
+    {
+      "name": "Aikerim Kalbaeva",
+      "role": "Minister of Labour and Social Protection",
+      "canon": true
+    }
+  ],
+  "image": "photos/bazar-i-kalan.jpg",
+  "published": "2026-11-07T05:32+06:00",
+  "iradone": {
+    "headline": "Migrants' Families Say Cost of Sending Money Home Matters More Than Wages",
+    "slug": "2026-11-06-migrants-families-say-cost-of-sending-money-home-matters-more-than-wag"
+  },
+  "cites": [
+    {
+      "paper": "Vecherniy Nurzhan",
+      "headline": "Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
+      "url": "https://vnurzhan.com/en/news/perevody-semyam-stoimost.html",
+      "date": "2026-11-06"
+    }
+  ]
+}
