@@ -1,0 +1,56 @@
+{
+  "slug": "2026-11-11-kyrgyz-state-banks-drop-284-firms-over-sanctions-risk-irad-on-kyrgyz-p",
+  "kind": "story",
+  "headline": "Kyrgyz state banks drop 284 firms over sanctions risk; Irad, on Kyrgyz paper, counts its exposure",
+  "dek": "About 41 more firms are reportedly under review in Bishkek; no Iradi company is named, but the banks that carry Irad's trade have given no figures.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Timur Sadyrbaev",
+  "tags": [
+    "Kyrgyzstan",
+    "sanctions",
+    "banking",
+    "Talasbank",
+    "Bank of Irad",
+    "Jılmay"
+  ],
+  "paragraphs": [
+    "Two state-owned banks in Kyrgyzstan have ended their business relations with 284 companies judged to carry an elevated risk of falling foul of sanctions, and are reportedly reviewing about 41 more. IradOne reported the figures on Tuesday. No Iradi company is named in the action, and no outlet has said that any is affected.",
+    "The question for Talas is not whether a name appears on a list in Bishkek but how much of Irad's trade passes through the same system. The ISEZ is recognised by no banking authority abroad, so its commerce runs on borrowed registrations. Exporters sell on Kyrgyz, Kazakh and Turkish paper, and the ISEZ banks clear through correspondents in Almaty and Istanbul. Jılmay, the marketplace, is registered in Kyrgyzstan; Köch Audio, which puts Iradi music on foreign streaming services, is a Bishkek company that pays its artists' royalties in dollar cash carried through Chu Gate twice a year.",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said a neighbour's tightening reaches an unrecognised economy through the back door. \"Irad has no bank of its own in the world's eyes, so it rents the good name of Kyrgyz companies,\" she said. \"When Bishkek's banks become cautious about who they serve, every firm that borrows a Kyrgyz registration is judged by the company it keeps.\" She said the 284 figure was small beside the number of Kyrgyz firms trading with Irad, but that the direction mattered more than the count.",
+    "The Herald asked Talasbank how many of its correspondent payments touch Kyrgyz banks and whether any has been queried since the action. Igor Belyaev, the bank's head of retail, said correspondent relationships were \"reviewed routinely\" and that clients' payments through Almaty and Istanbul were \"processing as normal\". He gave no figure for payments through Kyrgyz banks. Asked about dollar cash, he pointed to the limit in force since May, under which customers may withdraw or buy no more than US$300 a month, and said it was unrelated to the Kyrgyz decision.",
+    "Ermek Sadykbekov, deputy chairman of the Bank of Irad, repeated the central bank's standing position that the official rate of 8.40 som to the dollar is fully covered by reserves. He did not say whether the Bank has asked ISEZ banks for an inventory of their exposure to Kyrgyz counterparties, and the Bank published no figures. Jılmay and Köch Audio had not replied to questions by the time of going to press.",
+    "Ordinary buyers see the strain in the bazaar rather than in correspondent ledgers. On 8 November the changers in Bazar-i Kalan quoted the dollar at 11.50 to buy and 11.90 to sell, about 40 per cent above the official rate. Marat Usupov, 56, who runs a tyre shop on the Trans-Talas road, said his wholesaler now asks for dollars up front. \"If a payment is held somewhere between Bishkek and here, I do not get the tyres,\" he said. \"Nobody tells me where it is held.\"",
+    "The Kyrgyz action is not the first reminder of how Irad's trade depends on its neighbours. Kyrgyzstan collects fees on much of what leaves the ISEZ under Kyrgyz certificates, which is one reason Talas treats it as the most open of the three claimant states. The cost of that arrangement is that Irad has no say in how Bishkek manages its banks' risk. Ms Akmatova said the next sign would be whether Kyrgyz banks ask firms trading with Irad for fuller documentation. Until a list names an Iradi firm, she said, the exposure can only be guessed."
+  ],
+  "pull_quote": "Irad has no bank of its own in the world's eyes, so it rents the good name of Kyrgyz companies",
+  "pull_quote_by": "Raisa Akmatova",
+  "people_quoted": [
+    {
+      "name": "Raisa Akmatova",
+      "role": "Professor of economics, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Igor Belyaev",
+      "role": "Head of retail, Talasbank",
+      "canon": true
+    },
+    {
+      "name": "Ermek Sadykbekov",
+      "role": "Deputy chairman, Bank of Irad",
+      "canon": true
+    },
+    {
+      "name": "Marat Usupov",
+      "role": "Tyre shop owner, Trans-Talas road",
+      "canon": true
+    }
+  ],
+  "image": "photos/talasbank-atms.jpg",
+  "published": "2026-11-11T05:32+06:00",
+  "iradone": {
+    "headline": "Kyrgyz State Banks Drop 284 Firms; Irad Counts Its Payment Routes",
+    "slug": "2026-11-10-kyrgyz-state-banks-drop-284-firms-irad-counts-its-payment-routes"
+  }
+}
