@@ -1,7 +1,81 @@
 {
  "outlet": "The Talas Herald",
  "sites": {
+  "health.iradgov.org": [
+   {
+    "title": "Donor adds IS 37.8m for clinics and health posts; list of sites not yet published",
+    "url": "https://talasherald.com/news/2026-11-10-donor-adds-is-37-8m-for-clinics-and-health-posts-list-of-sites-not-yet.html",
+    "date": "2026-11-10"
+   }
+  ],
+  "mejlis.iradgov.org": [
+   {
+    "title": "Donor adds IS 37.8m for clinics and health posts; list of sites not yet published",
+    "url": "https://talasherald.com/news/2026-11-10-donor-adds-is-37-8m-for-clinics-and-health-posts-list-of-sites-not-yet.html",
+    "date": "2026-11-10"
+   },
+   {
+    "title": "Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not",
+    "url": "https://talasherald.com/news/2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does.html",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "A halt on farmland conversion needs a count and a date",
+    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
+    "date": "2026-10-31"
+   },
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
+    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
+    "date": "2026-10-27"
+   },
+   {
+    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
+    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
+    "date": "2026-10-23"
+   },
+   {
+    "title": "Name the partners before public money goes into Sary-Bulak",
+    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
+    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
+    "date": "2026-10-14"
+   },
+   {
+    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
+    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Supreme Court puts its case register online; inability petition awaits a date",
+    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
+    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
+    "date": "2026-10-02"
+   },
+   {
+    "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
+    "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
+    "date": "2026-09-28"
+   }
+  ],
   "talasbank.net": [
+   {
+    "title": "Dealer plans US$3m farm-machinery service centre at Kara-Bulak; loan terms unpublished",
+    "url": "https://talasherald.com/news/2026-11-10-dealer-plans-us-3m-farm-machinery-service-centre-at-kara-bulak-loan-te.html",
+    "date": "2026-11-10"
+   },
    {
     "title": "Remittance families deserve to see the number between the rates",
     "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
@@ -79,6 +153,11 @@
    }
   ],
   "talasuniversity.org": [
+   {
+    "title": "Dealer plans US$3m farm-machinery service centre at Kara-Bulak; loan terms unpublished",
+    "url": "https://talasherald.com/news/2026-11-10-dealer-plans-us-3m-farm-machinery-service-centre-at-kara-bulak-loan-te.html",
+    "date": "2026-11-10"
+   },
    {
     "title": "Remittance families deserve to see the number between the rates",
     "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
@@ -320,6 +399,28 @@
     "date": "2026-09-23"
    }
   ],
+  "stats.iradgov.org": [
+   {
+    "title": "Dealer plans US$3m farm-machinery service centre at Kara-Bulak; loan terms unpublished",
+    "url": "https://talasherald.com/news/2026-11-10-dealer-plans-us-3m-farm-machinery-service-centre-at-kara-bulak-loan-te.html",
+    "date": "2026-11-10"
+   },
+   {
+    "title": "Remittance families deserve to see the number between the rates",
+    "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
+    "date": "2026-11-07"
+   },
+   {
+    "title": "Uzbek workers abroad halve, remittances quadruple; Irad publishes no skill figures",
+    "url": "https://talasherald.com/news/2026-11-06-uzbek-workers-abroad-halve-remittances-quadruple-irad-publishes-no-ski.html",
+    "date": "2026-11-06"
+   },
+   {
+    "title": "First business census runs to 30 November; bazaar stalls and farms are the test",
+    "url": "https://talasherald.com/news/2026-10-17-first-business-census-runs-to-30-november-bazaar-stalls-and-farms-are.html",
+    "date": "2026-10-17"
+   }
+  ],
   "bank.iradgov.org": [
    {
     "title": "Remittance families deserve to see the number between the rates",
@@ -385,23 +486,6 @@
     "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
     "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
     "date": "2026-09-23"
-   }
-  ],
-  "stats.iradgov.org": [
-   {
-    "title": "Remittance families deserve to see the number between the rates",
-    "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
-    "date": "2026-11-07"
-   },
-   {
-    "title": "Uzbek workers abroad halve, remittances quadruple; Irad publishes no skill figures",
-    "url": "https://talasherald.com/news/2026-11-06-uzbek-workers-abroad-halve-remittances-quadruple-irad-publishes-no-ski.html",
-    "date": "2026-11-06"
-   },
-   {
-    "title": "First business census runs to 30 November; bazaar stalls and farms are the test",
-    "url": "https://talasherald.com/news/2026-10-17-first-business-census-runs-to-30-november-bazaar-stalls-and-farms-are.html",
-    "date": "2026-10-17"
    }
   ],
   "tulparapp.com": [
@@ -692,63 +776,6 @@
     "title": "Komuz contest is open to highland players, if they can get travel permits",
     "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
     "date": "2026-10-08"
-   }
-  ],
-  "mejlis.iradgov.org": [
-   {
-    "title": "Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not",
-    "url": "https://talasherald.com/news/2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does.html",
-    "date": "2026-11-02"
-   },
-   {
-    "title": "A halt on farmland conversion needs a count and a date",
-    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
-    "date": "2026-10-31"
-   },
-   {
-    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
-    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
-    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
-    "date": "2026-10-27"
-   },
-   {
-    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
-    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
-    "date": "2026-10-23"
-   },
-   {
-    "title": "Name the partners before public money goes into Sary-Bulak",
-    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
-    "date": "2026-10-17"
-   },
-   {
-    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
-    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
-    "date": "2026-10-14"
-   },
-   {
-    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
-    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
-    "date": "2026-10-13"
-   },
-   {
-    "title": "Supreme Court puts its case register online; inability petition awaits a date",
-    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
-    "date": "2026-10-09"
-   },
-   {
-    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
-    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
-    "date": "2026-10-02"
-   },
-   {
-    "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
-    "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
-    "date": "2026-09-28"
    }
   ],
   "economy.iradgov.org": [
