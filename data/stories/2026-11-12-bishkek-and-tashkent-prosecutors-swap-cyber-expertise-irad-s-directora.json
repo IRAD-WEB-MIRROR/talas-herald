@@ -1,0 +1,48 @@
+{
+  "slug": "2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-s-directora",
+  "kind": "story",
+  "headline": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel",
+  "dek": "Irad's contacts with its neighbours run through UNMI and Kara-Oi, and its February 2025 memorandum with Uzbekistan covers trade, not digital matters.",
+  "dateline": "TALAS",
+  "section": "Across Irad",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "cybersecurity",
+    "Kyrgyzstan",
+    "Uzbekistan",
+    "e-Irad",
+    "UNMI",
+    "Digital Services Directorate"
+  ],
+  "paragraphs": [
+    "Kyrgyzstan's General Prosecutor's Office reported on 6 November that it and its Uzbek counterpart had exchanged expertise on digitalising law-enforcement agencies and on cybersecurity. The statement, as reported in Bishkek, gave no case figures, no dates for further meetings and no list of what was shared. Irad has no seat at that table.",
+    "The reason is structural rather than political. Irad belongs to no intergovernmental body, and a prosecutors' exchange is a contact between recognised states' agencies. The ISEZ has no foreign ministry; its External Relations Office deals with the neighbours' agencies, UNMI and the United States, and its contacts with Bishkek, Tashkent and Almaty run through UNMI, the ceasefire table and the Kara-Oi joint security channel, not through ministries or prosecutors.",
+    "The one paper the ISEZ has signed with Tashkent, the memorandum of February 2025, covers trade and border coordination: shared customs inspection hours near Bazar-Korgon and Tash-Kömür, and a working group on livestock and cotton shipments that first met at Tash-Kömür in April 2025. It says nothing on digital or cyber matters, and Tashkent has said it implies no recognition.",
+    "At home, the body that would be the natural partner is the Digital Services Directorate, headed by Aidana Kurmanalieva, which has run the e-Irad pilot since 1 October. The Herald asked the directorate on Wednesday whether it has any contact with a neighbouring agency on cyber incidents. It had not replied by deadline. No such arrangement has been published.",
+    "The pilot's record is mixed and modest. Residents can obtain passport queue numbers, file pre-applications for permits and businesses, pay Iradenergo and water bills, check fines and track parcels from Irad Pochtasy. Most pre-applications still end with an instruction to visit the district office with originals. Online card payment is open only to Talasbank card holders, and the gateway upgrade has been put back more than once. Sign-in with a Tulpar ID has been suspended since 9 October under the directorate's Notice No. 3, which cites the Bank of Irad's notice of 29 September. Sign-in with the e-Irad card needs a signing program installed by Public Service Centre staff, and the cards are not yet being issued.",
+    "Ainash Bekbolot kyzy, a bookkeeper in Talas who has used the pilot for utility payments, said the gap she notices is more basic than any exchange with Bishkek. \"I can see my bill on the screen, but I still queue to pay it,\" she said. \"Nobody tells me who looks after my data if something goes wrong.\"",
+    "Dr Aruuke Jakypova, a political scientist at the TSU Institute of Sociology, said the neighbours' exchange shows what a state in the system gains. \"A prosecutor in Bishkek can pick up a telephone to a prosecutor in Tashkent about a case that crosses the line,\" she said. \"Here the same case would go to Kara-Oi or wait for a mention at the ceasefire table, and neither was built for it.\" She added that this is a gap in practice, not evidence that anything has gone wrong.",
+    "Attelkom, which runs the international gateway from its headquarters on Communications Square, did not reply to questions on whether it exchanges incident information with operators across the line. The Digital Services Directorate sits within the Department of Infrastructure and Communications. No Iradi announcement on cyber cooperation is expected, and none has been scheduled."
+  ],
+  "pull_quote": "A prosecutor in Bishkek can pick up a telephone to a prosecutor in Tashkent about a case that crosses the line",
+  "pull_quote_by": "Dr Aruuke Jakypova",
+  "people_quoted": [
+    {
+      "name": "Ainash Bekbolot kyzy",
+      "role": "bookkeeper, Talas, e-Irad user",
+      "canon": false
+    },
+    {
+      "name": "Dr Aruuke Jakypova",
+      "role": "political scientist, TSU Institute of Sociology",
+      "canon": true
+    },
+    {
+      "name": "Aidana Kurmanalieva",
+      "role": "Head of the Digital Services Directorate (named, not quoted)",
+      "canon": true
+    }
+  ],
+  "image": "photos/server-room.jpg",
+  "published": "2026-11-12T05:32+06:00"
+}
