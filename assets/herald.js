@@ -95,10 +95,26 @@
     else side.appendChild(box);
   }
 
+  // the church's great feasts and the saints of Irad, as the paper's date line gives them (Syro-Iradi calendar)
+  var FEASTS = { "01-06": "Denha", "01-24": "Rabban Qayoma", "02-20": "Mar Shlemun of Taraz", "03-25": "Süyünchü Künü",
+    "04-23": "St. Gewargis", "05-20": "Mar Abdisho the Shepherd", "06-10": "St. Nahrai the Ferryman",
+    "07-08": "Mart Terim the Physician", "08-06": "The Transfiguration", "08-15": "The Assumption",
+    "08-24": "Feast of St. Janyl", "09-14": "Feast of the Cross", "10-13": "The Martyrs of Almaliq",
+    "10-24": "Fr. Yawsep of the Passes", "11-14": "The New Martyrs of 1937", "11-20": "Mar Yuhanna of Merv",
+    "12-25": "Yalda" };
+  function feast(d) {
+    var md = ("0" + (d.getUTCMonth() + 1)).slice(-2) + "-" + ("0" + d.getUTCDate()).slice(-2);
+    if (FEASTS[md]) return FEASTS[md];
+    var cross = Date.UTC(d.getUTCFullYear(), 8, 14), w = new Date(cross).getUTCDay();
+    var sun = new Date(cross + (7 - w) * 86400000);
+    if (sun.getUTCMonth() === d.getUTCMonth() && sun.getUTCDate() === d.getUTCDate()) return "Sunday of the Saints of Irad";
+    return "";
+  }
+
   function topbar() {
     var d = irt();
     var el = document.querySelector("[data-irad-date]");
-    if (el) el.textContent = DAYS[d.getUTCDay()] + " " + d.getUTCDate() + " " + MONTHS[d.getUTCMonth()] + " " + d.getUTCFullYear();
+    if (el) el.textContent = DAYS[d.getUTCDay()] + " " + d.getUTCDate() + " " + MONTHS[d.getUTCMonth()] + " " + d.getUTCFullYear() + (feast(d) ? " · " + feast(d) : "");
     market().then(function (j) { paintTopbar(j); marketsBox(j); }).catch(function () {});
   }
 
