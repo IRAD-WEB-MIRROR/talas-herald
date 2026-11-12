@@ -1,0 +1,53 @@
+{
+  "slug": "2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-bazaar-codes-mostly-poin",
+  "kind": "story",
+  "headline": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar",
+  "dek": "With Tulpar Pay due to settle only in Tulparcoin from 1 January, and Kyrgyz payment apps shut out of Irad's banks, traders and shoppers ask what the code on the counter actually pays.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Timur Sadyrbaev",
+  "tags": [
+    "QR payments",
+    "Tulpar Pay",
+    "Talasbank",
+    "Bazar-i Kalan",
+    "Tulparcoin",
+    "Kyrgyzstan"
+  ],
+  "paragraphs": [
+    "Kyrgyzstan is now reported to lead Central Asia in QR-code payments, and its fast growth has brought a new set of security worries. In Irad there is no comparable national system. At bazaar stalls and small cafés in Talas and Nurzhan, the square code taped to the counter is usually a Tulpar one, and the Bank of Irad's position is that Tulpar Pay needs a licence it does not hold.",
+    "No body publishes a count of how many shops in either city take a bank QR rather than a Tulpar one. Talasbank's cards work at the big chains, but the Herald could find no register of stalls, cafés or kiosks by payment method. The Bank of Irad's notice 2026/5 of 29 September, on unlicensed payment services, is the only official text on the subject. Kyrgyz QR apps, for their part, have no working arrangement with the ISEZ's banks, so the Kyrgyz boom cannot simply be copied across the Qara-Chik line.",
+    "Jyldyz Toktomamatova, head of Tulpar Pay, said the codes in shops are \"a link to a wallet, nothing more\", and that the company has no presence in the ISEZ to license. From 1 January 2027, she said, Tulpar Pay will settle transfers, Bazar purchases and remittances only in Tulparcoin. \"Shops that want som can swap at a Tulpar point. Nobody is forced to hold coins overnight.\"",
+    "The numbers behind that promise are not small. The official rate is 8.40 som to the dollar, while the Bazar-i Kalan changers quoted USD 11.50 buy and 11.95 sell on 10 November, about 42% above the official rate on the sell side. Tulparcoin was quoted at 3.74 US cents at noon the same day, roughly 0.45 som at the changers' sell rate, and it is not legal tender. Talasbank has capped cash-dollar withdrawals at US$300 a month since May, so a trader who wants dollars has few places to go.",
+    "Igor Belyaev, Talasbank's head of retail, said merchants who take the bank's terminals and codes carry the bank's name and a merchant number, and that customers should read both before paying. Asked how many merchants that covers, he said the bank does not publish merchant counts. Talasbank declines card payments for the coin, he noted. Customers, he said, should \"scan only what the shop owner can name as theirs\".",
+    "At Bazar-i Kalan, Mairam Ergeshova, 62, who sells dry goods in row 6, said she keeps one Tulpar code on the counter and a cash box beside it. \"Before, a customer handed me a banknote and I knew what it was,\" she said. \"Now they hand me a phone and I ask which wallet it is, and they ask me the same.\" She laughed that she may yet price her sacks in both som and coins, \"and let the changer sort out who is right\".",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said Kyrgyzstan's growth rests on a central bank, licensed banks and card networks that the ISEZ cannot join. \"A payments system needs a recognised state behind it, or at least a recognised bank,\" she said. Without that, she added, a code is only as safe as the person who printed it, and scale brings fraud.",
+    "One precaution needs no policy. A printed code stuck over another is the first thing to check: peel a corner, or ask the seller to show the code on their own phone. The Bank of Irad's licensing position and Tulpar's reply are both unchanged, and the 1 January switch is seven weeks away."
+  ],
+  "pull_quote": "Now they hand me a phone and I ask which wallet it is, and they ask me the same.",
+  "pull_quote_by": "Mairam Ergeshova",
+  "people_quoted": [
+    {
+      "name": "Jyldyz Toktomamatova",
+      "role": "Head of Tulpar Pay",
+      "canon": true
+    },
+    {
+      "name": "Igor Belyaev",
+      "role": "Head of retail, Talasbank",
+      "canon": true
+    },
+    {
+      "name": "Mairam Ergeshova",
+      "role": "Dry-goods trader, Bazar-i Kalan",
+      "canon": true
+    },
+    {
+      "name": "Raisa Akmatova",
+      "role": "Economist, Talas State University",
+      "canon": true
+    }
+  ],
+  "image": "photos/bazar-i-kalan.jpg",
+  "published": "2026-11-13T05:32+06:00"
+}

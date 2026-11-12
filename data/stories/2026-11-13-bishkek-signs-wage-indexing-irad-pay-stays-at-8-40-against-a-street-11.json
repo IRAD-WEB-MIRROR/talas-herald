@@ -1,0 +1,57 @@
+{
+  "slug": "2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11",
+  "kind": "story",
+  "headline": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
+  "dek": "Teachers' union has asked since June for pay tied to the bazaar rate, and the Ministry of Economy has published no reply beyond its standing line.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "wages",
+    "indexation",
+    "teachers",
+    "budget 2027",
+    "som",
+    "Kyrgyzstan"
+  ],
+  "paragraphs": [
+    "TALAS. Kyrgyzstan's president signed a law on 10 November amending the country's Labour Code to provide for wage indexing. IradOne reported the signing on Thursday. The reports available to the Herald give no formula, no index and no start date, and this newspaper does not guess at them. Irad is not bound by the law and has adopted nothing of its own. But it lands in the middle of a local argument that is now a few weeks from the Mejlis.",
+    "The numbers set the argument. The Territorial Statistics Office puts the average ISEZ wage at 3,250 som a month for 2025, the average teacher's at about 2,300 and the minimum wage, fixed by executive directive since 1 January 2024, at 1,000. Public wages and pensions are paid in som at the official 8.40 to the dollar. On Tuesday the Bazar-i Kalan changers sold dollars at 11.95 and bought at 11.50; this morning the sell price was 11.90. At 11.95, the average teacher's 2,300 som is worth about US$192, against US$274 at the official rate. The minimum wage falls from about US$119 to US$84.",
+    "That is a loss of roughly 30 per cent in dollar terms. Rents in the new Talas towers, cars, imported goods and most savings are priced from dollars. The Herald's own arithmetic shows what holding teachers' dollar value would take: about 3,270 som a month against 2,300 now.",
+    "The Teachers' and Educators' Union, which has about 38,000 members, has asked since June for public pay to be indexed to the street rate. \"A teacher is paid in som, but the landlord and the shopkeeper count in dollars,\" said its chair, Rahat Osmon kyzy. \"We are asking for a rule, not a favour.\" Elzat Tilek kyzy, who teaches mathematics at a Talas school, said she now buys winter boots for her children only when a relative sends dollars from Almaty. Russo-aligned deputies and Nurzhan's independent Neftyanik union back the union's demand.",
+    "Asked whether the Kyrgyz step changes the ministry's view, the Ministry of Economy's press secretary, Bekbolot Sherov, restated the standing line. \"Wages are set in som and paid in som,\" he said. He said no indexation has been announced. The ministry has published no written reply to the union's June request beyond that line. The Bank of Irad's position is that 8.40 is unchanged, that reserves cover the som and that the street rate reflects a small cash market.",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said indexing is often misunderstood. \"It can stop a wage falling behind a chosen index. It cannot create the dollars that the market is short of, and it makes the state's bill follow whatever the index does,\" she said. If the index were the street rate, she added, a jump at the changers would feed straight into the budget, and the rate itself is set by scarce cash, not by policy.",
+    "The cost is the sticking point. The 2026 budget sets revenue at 32.4 billion som and spending at 34.9 billion, with public wages about 34 per cent of spending, close to 11.9 billion som. On that base, each 10 per cent added to the public wage bill would cost about 1.2 billion som. The 2026 deficit of 2.5 billion is already covered from the Toktogul export escrow reserve at Talasbank.",
+    "The Governor's office sends the 2027 draft, an election-year budget, to the Mejlis this month, and the chamber normally passes it in December. Only a summary is published. Whether it carries any pay adjustment, or any reply to the teachers, will not be known until then."
+  ],
+  "pull_quote": "Wages are set in som and paid in som",
+  "pull_quote_by": "Bekbolot Sherov, Ministry of Economy",
+  "people_quoted": [
+    {
+      "name": "Rahat Osmon kyzy",
+      "role": "Chair, Teachers' and Educators' Union",
+      "canon": true
+    },
+    {
+      "name": "Bekbolot Sherov",
+      "role": "Press secretary, Ministry of Economy",
+      "canon": true
+    },
+    {
+      "name": "Raisa Akmatova",
+      "role": "Economist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Elzat Tilek kyzy",
+      "role": "Mathematics teacher, Talas",
+      "canon": false
+    }
+  ],
+  "image": "photos/city-classroom.jpg",
+  "published": "2026-11-13T05:41+06:00",
+  "iradone": {
+    "headline": "Bishkek Amends Labour Code on Wage Indexing; Irad Pay Stays Set in Som",
+    "slug": "2026-11-12-bishkek-amends-labour-code-on-wage-indexing-irad-pay-stays-set-in-som"
+  }
+}
