@@ -1,74 +1,12 @@
 {
  "outlet": "The Talas Herald",
  "sites": {
-  "mejlis.iradgov.org": [
-   {
-    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
-    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
-    "date": "2026-11-13"
-   },
-   {
-    "title": "Donor adds IS 37.8m for clinics and health posts; list of sites not yet published",
-    "url": "https://talasherald.com/news/2026-11-10-donor-adds-is-37-8m-for-clinics-and-health-posts-list-of-sites-not-yet.html",
-    "date": "2026-11-10"
-   },
-   {
-    "title": "Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not",
-    "url": "https://talasherald.com/news/2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does.html",
-    "date": "2026-11-02"
-   },
-   {
-    "title": "A halt on farmland conversion needs a count and a date",
-    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
-    "date": "2026-10-31"
-   },
-   {
-    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
-    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
-    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
-    "date": "2026-10-27"
-   },
-   {
-    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
-    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
-    "date": "2026-10-23"
-   },
-   {
-    "title": "Name the partners before public money goes into Sary-Bulak",
-    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
-    "date": "2026-10-17"
-   },
-   {
-    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
-    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
-    "date": "2026-10-14"
-   },
-   {
-    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
-    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
-    "date": "2026-10-13"
-   },
-   {
-    "title": "Supreme Court puts its case register online; inability petition awaits a date",
-    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
-    "date": "2026-10-09"
-   },
-   {
-    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
-    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
-    "date": "2026-10-02"
-   },
-   {
-    "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
-    "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
-    "date": "2026-09-28"
-   }
-  ],
   "stats.iradgov.org": [
+   {
+    "title": "Teachers asked in June. The 2027 budget should answer them",
+    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
+    "date": "2026-11-14"
+   },
    {
     "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
     "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
@@ -96,6 +34,11 @@
    }
   ],
   "economy.iradgov.org": [
+   {
+    "title": "Teachers asked in June. The 2027 budget should answer them",
+    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
+    "date": "2026-11-14"
+   },
    {
     "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
     "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
@@ -132,94 +75,22 @@
     "date": "2026-10-03"
    }
   ],
-  "bank.iradgov.org": [
-   {
-    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
-    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
-    "date": "2026-11-13"
-   },
-   {
-    "title": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar",
-    "url": "https://talasherald.com/news/2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-bazaar-codes-mostly-poin.html",
-    "date": "2026-11-13"
-   },
-   {
-    "title": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel",
-    "url": "https://talasherald.com/news/2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-s-directora.html",
-    "date": "2026-11-12"
-   },
-   {
-    "title": "Kyrgyz state banks drop 284 firms over sanctions risk; Irad, on Kyrgyz paper, counts its exposure",
-    "url": "https://talasherald.com/news/2026-11-11-kyrgyz-state-banks-drop-284-firms-over-sanctions-risk-irad-on-kyrgyz-p.html",
-    "date": "2026-11-11"
-   },
-   {
-    "title": "Remittance families deserve to see the number between the rates",
-    "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
-    "date": "2026-11-07"
-   },
-   {
-    "title": "Remittances from Russia run US$250–400m; families say fees and rate bite",
-    "url": "https://talasherald.com/news/2026-11-07-remittances-from-russia-run-us-250400m-families-say-fees-and-rate-bite.html",
-    "date": "2026-11-07"
-   },
-   {
-    "title": "Uzbek workers abroad halve, remittances quadruple; Irad publishes no skill figures",
-    "url": "https://talasherald.com/news/2026-11-06-uzbek-workers-abroad-halve-remittances-quadruple-irad-publishes-no-ski.html",
-    "date": "2026-11-06"
-   },
-   {
-    "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
-    "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
-    "date": "2026-11-03"
-   },
-   {
-    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
-    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%",
-    "url": "https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html",
-    "date": "2026-10-22"
-   },
-   {
-    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
-    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
-    "date": "2026-10-20"
-   },
-   {
-    "title": "Court adjourns Tulparcoin name case to November without an injunction",
-    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
-    "date": "2026-10-12"
-   },
-   {
-    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
-    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
-    "date": "2026-10-09"
-   },
-   {
-    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
-    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
-    "date": "2026-10-06"
-   },
-   {
-    "title": "Russian cap on cash rubles hits families who carry savings home",
-    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
-    "date": "2026-09-30"
-   },
-   {
-    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
-    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
-    "date": "2026-09-25"
-   },
-   {
-    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
-    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
-    "date": "2026-09-23"
-   }
-  ],
   "talasuniversity.org": [
+   {
+    "title": "Teachers asked in June. The 2027 budget should answer them",
+    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
+    "date": "2026-11-14"
+   },
+   {
+    "title": "Bishkek bars flat sales before walls stand; Talas complex's prices stay unpublished",
+    "url": "https://talasherald.com/news/2026-11-14-bishkek-bars-flat-sales-before-walls-stand-talas-complex-s-prices-stay.html",
+    "date": "2026-11-14"
+   },
+   {
+    "title": "Tokyo courts Bishkek; Irad's antimony and orchards reach Japan on Kyrgyz paper",
+    "url": "https://talasherald.com/news/2026-11-14-tokyo-courts-bishkek-irad-s-antimony-and-orchards-reach-japan-on-kyrgy.html",
+    "date": "2026-11-14"
+   },
    {
     "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
     "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
@@ -474,6 +345,170 @@
     "title": "Ministry proposes halting potato imports until March as harvest outruns demand",
     "url": "https://talasherald.com/news/2026-10-05-ministry-proposes-halting-potato-imports-until-march-as-harvest.html",
     "date": "2026-10-05"
+   },
+   {
+    "title": "Russian cap on cash rubles hits families who carry savings home",
+    "url": "https://talasherald.com/news/2026-09-30-russian-cap-on-cash-rubles-hits-families-who-carry-savings-home.html",
+    "date": "2026-09-30"
+   },
+   {
+    "title": "Bank of Irad says Tulparcoin is not money and buyers are on their own",
+    "url": "https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html",
+    "date": "2026-09-25"
+   },
+   {
+    "title": "Ilyasov launches Tulparcoin, promising money \"no ministry can catch\"",
+    "url": "https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html",
+    "date": "2026-09-23"
+   }
+  ],
+  "mejlis.iradgov.org": [
+   {
+    "title": "Teachers asked in June. The 2027 budget should answer them",
+    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
+    "date": "2026-11-14"
+   },
+   {
+    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
+    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
+    "date": "2026-11-13"
+   },
+   {
+    "title": "Donor adds IS 37.8m for clinics and health posts; list of sites not yet published",
+    "url": "https://talasherald.com/news/2026-11-10-donor-adds-is-37-8m-for-clinics-and-health-posts-list-of-sites-not-yet.html",
+    "date": "2026-11-10"
+   },
+   {
+    "title": "Bishkek and Tashkent talk power; Toktogul's buyers sit there, Irad does not",
+    "url": "https://talasherald.com/news/2026-11-02-bishkek-and-tashkent-talk-power-toktogul-s-buyers-sit-there-irad-does.html",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "A halt on farmland conversion needs a count and a date",
+    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
+    "date": "2026-10-31"
+   },
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
+    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
+    "date": "2026-10-27"
+   },
+   {
+    "title": "Samarkand talks on US trade proceed without Irad, though all three claimants attend",
+    "url": "https://talasherald.com/news/2026-10-23-samarkand-talks-on-us-trade-proceed-without-irad-though-all-three-clai.html",
+    "date": "2026-10-23"
+   },
+   {
+    "title": "Name the partners before public money goes into Sary-Bulak",
+    "url": "https://talasherald.com/news/2026-10-17-name-the-partners-before-public-money-goes-into-sary-bulak.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Sary-Bulak restart needs IS 168 million and 420 hires in first stage",
+    "url": "https://talasherald.com/news/2026-10-14-sary-bulak-restart-needs-is-168-million-and-420-hires-in-first-stage.html",
+    "date": "2026-10-14"
+   },
+   {
+    "title": "Customs roadmap with Kazakhstan puts scanner costs on ISEZ budget and carriers",
+    "url": "https://talasherald.com/news/2026-10-13-customs-roadmap-with-kazakhstan-puts-scanner-costs-on-isez-budget-and.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Supreme Court puts its case register online; inability petition awaits a date",
+    "url": "https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Tulpar club's owner asks court to stop Ilyasov using the name",
+    "url": "https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html",
+    "date": "2026-10-02"
+   },
+   {
+    "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
+    "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
+    "date": "2026-09-28"
+   }
+  ],
+  "bank.iradgov.org": [
+   {
+    "title": "Teachers asked in June. The 2027 budget should answer them",
+    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
+    "date": "2026-11-14"
+   },
+   {
+    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
+    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
+    "date": "2026-11-13"
+   },
+   {
+    "title": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar",
+    "url": "https://talasherald.com/news/2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-bazaar-codes-mostly-poin.html",
+    "date": "2026-11-13"
+   },
+   {
+    "title": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel",
+    "url": "https://talasherald.com/news/2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-s-directora.html",
+    "date": "2026-11-12"
+   },
+   {
+    "title": "Kyrgyz state banks drop 284 firms over sanctions risk; Irad, on Kyrgyz paper, counts its exposure",
+    "url": "https://talasherald.com/news/2026-11-11-kyrgyz-state-banks-drop-284-firms-over-sanctions-risk-irad-on-kyrgyz-p.html",
+    "date": "2026-11-11"
+   },
+   {
+    "title": "Remittance families deserve to see the number between the rates",
+    "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
+    "date": "2026-11-07"
+   },
+   {
+    "title": "Remittances from Russia run US$250–400m; families say fees and rate bite",
+    "url": "https://talasherald.com/news/2026-11-07-remittances-from-russia-run-us-250400m-families-say-fees-and-rate-bite.html",
+    "date": "2026-11-07"
+   },
+   {
+    "title": "Uzbek workers abroad halve, remittances quadruple; Irad publishes no skill figures",
+    "url": "https://talasherald.com/news/2026-11-06-uzbek-workers-abroad-halve-remittances-quadruple-irad-publishes-no-ski.html",
+    "date": "2026-11-06"
+   },
+   {
+    "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
+    "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
+    "date": "2026-11-03"
+   },
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%",
+    "url": "https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html",
+    "date": "2026-10-22"
+   },
+   {
+    "title": "Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show",
+    "url": "https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Court adjourns Tulparcoin name case to November without an injunction",
+    "url": "https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html",
+    "date": "2026-10-12"
+   },
+   {
+    "title": "Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list",
+    "url": "https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html",
+    "date": "2026-10-09"
+   },
+   {
+    "title": "Prosecutors ask court to wind up 16 trade-zone firms over sanctions risk",
+    "url": "https://talasherald.com/news/2026-10-06-prosecutors-ask-court-to-wind-up-16-trade-zone-firms-over-sanctions.html",
+    "date": "2026-10-06"
    },
    {
     "title": "Russian cap on cash rubles hits families who carry savings home",
