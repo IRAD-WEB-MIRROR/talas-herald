@@ -28,7 +28,9 @@
     {"id": "kurmanalieva", "name": "Aidai Kurmanalieva", "role": "Editor, Jarchy", "from": 2017, "to": null, "beats": ["Culture"], "canon": false,
      "bio": "Founding editor of Jarchy, the Herald's Iradi-language weekly."},
     {"id": "murzaliev", "name": "Talgat Murzaliev", "role": "Columnist", "from": 2010, "to": null, "beats": ["Opinion"], "canon": false,
-     "bio": "Economist at Talas State University; writes a fortnightly column on money and work."}
+     "bio": "Economist at Talas State University; writes a fortnightly column on money and work."},
+    {"id": "sooronbay", "name": "Anara Sooronbay", "role": "Columnist", "from": 2014, "to": null, "beats": ["Culture"], "canon": false,
+     "bio": "Retired teacher of Iradi from Kara-Buura; writes Müchöl, the Saturday column on the animal years, sayings and family customs."}
   ],
   "desks": {"Staff reporter": "Herald staff", "Herald correspondents": "Herald correspondents"}
 }
