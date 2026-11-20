@@ -1,0 +1,64 @@
+{
+  "slug": "2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still",
+  "kind": "story",
+  "headline": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
+  "dek": "As Bishkek agrees a second waste-to-energy plant, Nurzhan has no published figure for the refuse it handles or for how much smoke comes from burning it.",
+  "dateline": "NURZHAN",
+  "section": "News",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "Nurzhan",
+    "air quality",
+    "heating season",
+    "heat and power plant",
+    "NurGaz",
+    "refuse"
+  ],
+  "paragraphs": [
+    "Nurzhan's air reached 196 on the US AQI scale today, in the unhealthy band, with fine particles (PM2.5) at 119.0 micrograms per cubic metre. Talas read 106 and Iyık Janyl 141 on the same day. The Nurzhan figure is roughly eight times the 15 micrograms that the World Health Organization recommends as a 24-hour limit, and well above the 70 or so that the city averages in January.",
+    "The reading comes in the middle of the heating season, under a temperature inversion, with a forecast high of 2°C and a low of -5°C. District heating is running. In an inversion, cold air sits under a warmer layer and the smoke has nowhere to go.",
+    "Kyrgyzstan's Cabinet chairman told his parliament on Wednesday 18 November that Bishkek will have a second waste-to-energy plant and that the project has been agreed. IradOne reported the Nurzhan reading on Thursday, and the government said in a statement the same day that Irad Gidromet had recorded the air quality and that residents were advised to take precautions during the inversion. The Nurzhan weekly Vecherniy Nurzhan asked on Friday what the city's air is made of. Nobody has proposed a plant for the Special Economic Zone, and the Herald's question is narrower: what is burning here, and who counts it.",
+    "Mirlan Beishembiev, director of Irad Gidromet, said the agency's monitors, three in Nurzhan since 2019, measure how much fine dust is in the air, not where it came from. \"A reading of 119 tells us the air is trapped. It does not tell us whether the smoke is coal, fuel oil or rubbish,\" he said. The last source study, by Talas State University in 2021, put household coal and district heating at about 45 per cent of Nurzhan's winter particles, the refinery and industry at 25, traffic at 20 and dust at 10. It had no separate line for refuse.",
+    "Prof. Sergei Volkov, a petroleum engineer at Nurzhan Polytechnic Institute, pointed to the central heat and power plant in the Eastern Industrial Zone, which is owned by NurGaz and fed by a coal siding. Its conversion to gas is planned but unfunded. \"Until there is a budget line and a date, the plant stays on coal each winter,\" he said. He added that the private-house belts, the districts where stoves burn coal and wood, among them Dastgoh and Jangy-Konush, add to the load at night, when people light up and the inversion is strongest. NurGaz had not replied to questions about the conversion by deadline.",
+    "Artyom Zaitsev, 45, a Nurzhan coach driver, said he had noticed the smell before he checked any figure. \"At six in the morning you can taste it in the cab, and the far end of the street is gone,\" he said.",
+    "Nurzhan City Administration has published no figure for the tonnes of refuse it collects or where they go. Asked who measures the smoke from burned rubbish, Mayor Vadim Shcherbakov told the Herald that the winter air depends on the heating season and the weather together, and that the city would look at refuse as a cause once it has measurements to point to. His office was asked for the collection tonnage and had not supplied it by deadline. Irad Gidromet will keep publishing readings from its Nurzhan monitors, and the next test for the plant's gas conversion is the Zone's 2027 budget, which goes to the Mejlis this month."
+  ],
+  "pull_quote": "A reading of 119 tells us the air is trapped. It does not tell us whether the smoke is coal, fuel oil or rubbish",
+  "pull_quote_by": "Mirlan Beishembiev",
+  "people_quoted": [
+    {
+      "name": "Mirlan Beishembiev",
+      "role": "Director, Irad Gidromet",
+      "canon": true
+    },
+    {
+      "name": "Sergei Volkov",
+      "role": "Professor, petroleum engineer, Nurzhan Polytechnic Institute",
+      "canon": true
+    },
+    {
+      "name": "Vadim Shcherbakov",
+      "role": "Mayor of Nurzhan",
+      "canon": true
+    },
+    {
+      "name": "Artyom Zaitsev",
+      "role": "Coach driver, Nurzhan",
+      "canon": true
+    }
+  ],
+  "image": "photos/nurzhan-square.jpg",
+  "published": "2026-11-21T05:32+06:00",
+  "iradone": {
+    "headline": "Bishkek Agrees Second Waste-to-Energy Plant; Nurzhan's Air Reads 196",
+    "slug": "2026-11-19-bishkek-agrees-second-waste-to-energy-plant-nurzhan-s-air-reads-196"
+  },
+  "cites": [
+    {
+      "paper": "Vecherniy Nurzhan",
+      "headline": "What Nurzhan's air is made of: coal, fuel oil or refuse",
+      "url": "https://vnurzhan.com/en/news/vozdukh-nurzhana-chem-dyshim.html",
+      "date": "2026-11-20"
+    }
+  ]
+}
