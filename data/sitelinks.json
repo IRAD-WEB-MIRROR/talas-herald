@@ -3,6 +3,11 @@
  "sites": {
   "gidromet.iradgov.org": [
    {
+    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
+    "date": "2026-11-21"
+   },
+   {
     "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
     "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
     "date": "2026-11-21"
@@ -19,6 +24,11 @@
    }
   ],
   "talasuniversity.org": [
+   {
+    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
+    "date": "2026-11-21"
+   },
    {
     "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
     "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
@@ -352,12 +362,22 @@
   ],
   "nurzhan.iradgov.org": [
    {
+    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
+    "date": "2026-11-21"
+   },
+   {
     "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
     "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
     "date": "2026-11-21"
    }
   ],
   "mejlis.iradgov.org": [
+   {
+    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
+    "date": "2026-11-21"
+   },
    {
     "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
     "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
@@ -452,6 +472,73 @@
     "title": "Lieutenant Governor's office sets IS 41 million for school textbooks",
     "url": "https://talasherald.com/news/2026-09-28-lieutenant-governor-s-office-sets-is-41-million-for-school-textbooks.html",
     "date": "2026-09-28"
+   }
+  ],
+  "economy.iradgov.org": [
+   {
+    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
+    "date": "2026-11-21"
+   },
+   {
+    "title": "Bishkek sets 105bn som for schools; Talas has yet to see its own education chapter",
+    "url": "https://talasherald.com/news/2026-11-19-bishkek-sets-105bn-som-for-schools-talas-has-yet-to-see-its-own-educat.html",
+    "date": "2026-11-19"
+   },
+   {
+    "title": "UK sanctions turn eyes on Kazakh pipes; Irad's crude rides them on Kyrgyz paper",
+    "url": "https://talasherald.com/news/2026-11-18-uk-sanctions-turn-eyes-on-kazakh-pipes-irad-s-crude-rides-them-on-kyrg.html",
+    "date": "2026-11-18"
+   },
+   {
+    "title": "Kyrgyz pay up 29.4% to about 5,330 Iradi som; ISEZ's last average was 3,250",
+    "url": "https://talasherald.com/news/2026-11-17-kyrgyz-pay-up-29-4-to-about-5-330-iradi-som-isez-s-last-average-was-3.html",
+    "date": "2026-11-17"
+   },
+   {
+    "title": "Tashkent drafts 2027 budget on 7% growth; Irad's public pay stays in som at 8.40",
+    "url": "https://talasherald.com/news/2026-11-16-tashkent-drafts-2027-budget-on-7-growth-irad-s-public-pay-stays-in-som.html",
+    "date": "2026-11-16"
+   },
+   {
+    "title": "Teachers asked in June. The 2027 budget should answer them",
+    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
+    "date": "2026-11-14"
+   },
+   {
+    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
+    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
+    "date": "2026-11-13"
+   },
+   {
+    "title": "A halt on farmland conversion needs a count and a date",
+    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
+    "date": "2026-10-31"
+   },
+   {
+    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
+    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Maksat says valley farmland should stop becoming house plots; no rule changed",
+    "url": "https://talasherald.com/news/2026-10-29-maksat-says-valley-farmland-should-stop-becoming-house-plots-no-rule-c.html",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Kyrgyzstan caps coal for 90 days; Irad's buyers rely on merchants' own prices",
+    "url": "https://talasherald.com/news/2026-10-26-kyrgyzstan-caps-coal-for-90-days-irad-s-buyers-rely-on-merchants-own-p.html",
+    "date": "2026-10-26"
+   },
+   {
+    "title": "Ministry proposes halting potato imports until March as harvest outruns demand",
+    "url": "https://talasherald.com/news/2026-10-05-ministry-proposes-halting-potato-imports-until-march-as-harvest.html",
+    "date": "2026-10-05"
+   },
+   {
+    "title": "Swiss wind orchestra to march down Liberty Boulevard on 18 October",
+    "url": "https://talasherald.com/news/2026-10-03-swiss-wind-orchestra-to-march-down-liberty-boulevard-on-18-october.html",
+    "date": "2026-10-03"
    }
   ],
   "resources.iradgov.org": [
@@ -710,68 +797,6 @@
     "title": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel",
     "url": "https://talasherald.com/news/2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-s-directora.html",
     "date": "2026-11-12"
-   }
-  ],
-  "economy.iradgov.org": [
-   {
-    "title": "Bishkek sets 105bn som for schools; Talas has yet to see its own education chapter",
-    "url": "https://talasherald.com/news/2026-11-19-bishkek-sets-105bn-som-for-schools-talas-has-yet-to-see-its-own-educat.html",
-    "date": "2026-11-19"
-   },
-   {
-    "title": "UK sanctions turn eyes on Kazakh pipes; Irad's crude rides them on Kyrgyz paper",
-    "url": "https://talasherald.com/news/2026-11-18-uk-sanctions-turn-eyes-on-kazakh-pipes-irad-s-crude-rides-them-on-kyrg.html",
-    "date": "2026-11-18"
-   },
-   {
-    "title": "Kyrgyz pay up 29.4% to about 5,330 Iradi som; ISEZ's last average was 3,250",
-    "url": "https://talasherald.com/news/2026-11-17-kyrgyz-pay-up-29-4-to-about-5-330-iradi-som-isez-s-last-average-was-3.html",
-    "date": "2026-11-17"
-   },
-   {
-    "title": "Tashkent drafts 2027 budget on 7% growth; Irad's public pay stays in som at 8.40",
-    "url": "https://talasherald.com/news/2026-11-16-tashkent-drafts-2027-budget-on-7-growth-irad-s-public-pay-stays-in-som.html",
-    "date": "2026-11-16"
-   },
-   {
-    "title": "Teachers asked in June. The 2027 budget should answer them",
-    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
-    "date": "2026-11-14"
-   },
-   {
-    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
-    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
-    "date": "2026-11-13"
-   },
-   {
-    "title": "A halt on farmland conversion needs a count and a date",
-    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
-    "date": "2026-10-31"
-   },
-   {
-    "title": "Farm output hits IS 6.1bn in nine months; volume up 12%, value only 6%",
-    "url": "https://talasherald.com/news/2026-10-29-farm-output-hits-is-6-1bn-in-nine-months-volume-up-12-value-only-6.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Maksat says valley farmland should stop becoming house plots; no rule changed",
-    "url": "https://talasherald.com/news/2026-10-29-maksat-says-valley-farmland-should-stop-becoming-house-plots-no-rule-c.html",
-    "date": "2026-10-29"
-   },
-   {
-    "title": "Kyrgyzstan caps coal for 90 days; Irad's buyers rely on merchants' own prices",
-    "url": "https://talasherald.com/news/2026-10-26-kyrgyzstan-caps-coal-for-90-days-irad-s-buyers-rely-on-merchants-own-p.html",
-    "date": "2026-10-26"
-   },
-   {
-    "title": "Ministry proposes halting potato imports until March as harvest outruns demand",
-    "url": "https://talasherald.com/news/2026-10-05-ministry-proposes-halting-potato-imports-until-march-as-harvest.html",
-    "date": "2026-10-05"
-   },
-   {
-    "title": "Swiss wind orchestra to march down Liberty Boulevard on 18 October",
-    "url": "https://talasherald.com/news/2026-10-03-swiss-wind-orchestra-to-march-down-liberty-boulevard-on-18-october.html",
-    "date": "2026-10-03"
    }
   ],
   "stats.iradgov.org": [
