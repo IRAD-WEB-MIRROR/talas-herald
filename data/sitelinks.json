@@ -1,29 +1,12 @@
 {
  "outlet": "The Talas Herald",
  "sites": {
-  "gidromet.iradgov.org": [
-   {
-    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
-    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
-    "date": "2026-11-21"
-   },
-   {
-    "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
-    "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
-    "date": "2026-11-21"
-   },
-   {
-    "title": "Toktogul at 83.2% and falling as Uch-Kurgan refit nears its end",
-    "url": "https://talasherald.com/news/2026-11-20-toktogul-at-83-2-and-falling-as-uch-kurgan-refit-nears-its-end.html",
-    "date": "2026-11-20"
-   },
-   {
-    "title": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68",
-    "url": "https://talasherald.com/news/2026-10-31-nurzhan-air-at-87-on-the-aqi-as-inversions-set-in-talas-73-iyk-janyl-6.html",
-    "date": "2026-10-31"
-   }
-  ],
   "talasuniversity.org": [
+   {
+    "title": "Alimbekov Library opens show of 12 manuscript facsimiles; all originals stay put",
+    "url": "https://talasherald.com/news/2026-11-23-alimbekov-library-opens-show-of-12-manuscript-facsimiles-all-originals.html",
+    "date": "2026-11-23"
+   },
    {
     "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
     "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
@@ -360,19 +343,24 @@
     "date": "2026-09-23"
    }
   ],
-  "nurzhan.iradgov.org": [
+  "archives.iradgov.org": [
    {
-    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
-    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
-    "date": "2026-11-21"
+    "title": "Alimbekov Library opens show of 12 manuscript facsimiles; all originals stay put",
+    "url": "https://talasherald.com/news/2026-11-23-alimbekov-library-opens-show-of-12-manuscript-facsimiles-all-originals.html",
+    "date": "2026-11-23"
    },
    {
-    "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
-    "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
-    "date": "2026-11-21"
+    "title": "Komuz contest is open to highland players, if they can get travel permits",
+    "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
+    "date": "2026-10-08"
    }
   ],
   "mejlis.iradgov.org": [
+   {
+    "title": "Donor cuts Talas hydrology grant 30% to US$420,000; gauges stay, glacier work slows",
+    "url": "https://talasherald.com/news/2026-11-23-donor-cuts-talas-hydrology-grant-30-to-us-420-000-gauges-stay-glacier.html",
+    "date": "2026-11-23"
+   },
    {
     "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
     "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
@@ -476,6 +464,11 @@
   ],
   "economy.iradgov.org": [
    {
+    "title": "Donor cuts Talas hydrology grant 30% to US$420,000; gauges stay, glacier work slows",
+    "url": "https://talasherald.com/news/2026-11-23-donor-cuts-talas-hydrology-grant-30-to-us-420-000-gauges-stay-glacier.html",
+    "date": "2026-11-23"
+   },
+   {
     "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
     "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
     "date": "2026-11-21"
@@ -539,6 +532,40 @@
     "title": "Swiss wind orchestra to march down Liberty Boulevard on 18 October",
     "url": "https://talasherald.com/news/2026-10-03-swiss-wind-orchestra-to-march-down-liberty-boulevard-on-18-october.html",
     "date": "2026-10-03"
+   }
+  ],
+  "gidromet.iradgov.org": [
+   {
+    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
+    "date": "2026-11-21"
+   },
+   {
+    "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
+    "date": "2026-11-21"
+   },
+   {
+    "title": "Toktogul at 83.2% and falling as Uch-Kurgan refit nears its end",
+    "url": "https://talasherald.com/news/2026-11-20-toktogul-at-83-2-and-falling-as-uch-kurgan-refit-nears-its-end.html",
+    "date": "2026-11-20"
+   },
+   {
+    "title": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68",
+    "url": "https://talasherald.com/news/2026-10-31-nurzhan-air-at-87-on-the-aqi-as-inversions-set-in-talas-73-iyk-janyl-6.html",
+    "date": "2026-10-31"
+   }
+  ],
+  "nurzhan.iradgov.org": [
+   {
+    "title": "Nurzhan's air needs a source count, a gas date and a refuse figure",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-s-air-needs-a-source-count-a-gas-date-and-a-refuse-figure.html",
+    "date": "2026-11-21"
+   },
+   {
+    "title": "Nurzhan air hits AQI 196 against Talas 106; heat plant gas switch still unfunded",
+    "url": "https://talasherald.com/news/2026-11-21-nurzhan-air-hits-aqi-196-against-talas-106-heat-plant-gas-switch-still.html",
+    "date": "2026-11-21"
    }
   ],
   "resources.iradgov.org": [
@@ -1292,13 +1319,6 @@
     "title": "Potato import halt could add IS 0.60 a kilo by January, Bazar-i Kalan traders say",
     "url": "https://talasherald.com/news/2026-10-14-potato-import-halt-could-add-is-0-60-a-kilo-by-january-bazar-i-kalan-t.html",
     "date": "2026-10-14"
-   }
-  ],
-  "archives.iradgov.org": [
-   {
-    "title": "Komuz contest is open to highland players, if they can get travel permits",
-    "url": "https://talasherald.com/news/2026-10-08-komuz-contest-is-open-to-highland-players-if-they-can-get-travel.html",
-    "date": "2026-10-08"
    }
   ],
   "philharmonic.korkom.org": [

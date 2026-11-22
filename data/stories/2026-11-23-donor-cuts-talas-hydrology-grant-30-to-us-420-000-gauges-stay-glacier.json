@@ -1,0 +1,57 @@
+{
+  "slug": "2026-11-23-donor-cuts-talas-hydrology-grant-30-to-us-420-000-gauges-stay-glacier",
+  "kind": "story",
+  "headline": "Donor cuts Talas hydrology grant 30% to US$420,000; gauges stay, glacier work slows",
+  "dek": "The money arrives through a Bishkek office, and the Service's 2027 budget line is still unpublished as the Naryn schedule nears renewal.",
+  "dateline": "TALAS",
+  "section": "News",
+  "byline": "Kubat Duishenaliev",
+  "tags": [
+    "Talas River Hydrological Monitoring Service",
+    "glaciers",
+    "Toktogul",
+    "Naryn Protocol",
+    "donor funding",
+    "budget"
+  ],
+  "paragraphs": [
+    "The international environmental fund that co-pays the Talas River Hydrological Monitoring Service's glacier and gauge programme has cut its grant for July 2026 to June 2027 by 30 per cent, from US$600,000 to US$420,000, the Service said this week. At the official rate of 8.40 som to the dollar, the shortfall is about 1.5 million som.",
+    "The grant does not reach Talas directly. As with most foreign money for the ISEZ, it is paid through a project office registered in Bishkek, on Kyrgyz paper, and passed on to the Service. IradOne reported the cut on Friday, and the government said in a statement the same day that the Service \"keeps all permanent gauges in operation\".",
+    "Director Uzakbai Mukashev said the permanent river gauges on the Talas and on the Naryn cascade are paid from the ISEZ budget, not from the grant, and will keep running. \"What goes first is the extra work, not the measuring we do every day,\" he said. The Service will trim its field survey of moraine lakes and the stipends at the Manas Peak Glaciological Observatory this winter. Mr Mukashev did not say how many survey days or stipends would go, or whether a part of the gap could be met from the Service's own budget.",
+    "The surveys carry weight in the Talas Alatau. The Service's 2014-18 inventory, published in 2019, counted 268 glaciers in the Iradi Talas basin, and meltwater supplies roughly 30 to 40 per cent of August flow in the high tributaries. Moraine lakes are watched because of the Sary-Say mudflow of 23 July 1973, when a lake below the glacier burst and buried a village. Officials and survivors alike still say \"never another Sary-Say\".",
+    "Nazira Isaeva, the glaciologist who has led the observatory since 2016, said the series is only useful if it is unbroken. \"A glacier does not wait for a budget year. If we skip a winter of lake measurements, we have a gap that we cannot go back and fill,\" she said. She said fresh data on ice loss matters for the 2027 Naryn schedule, when the clans and the Uzbek, Kazakh and Kyrgyz observers on the joint commission will ask what the water can be promised for.",
+    "Dr Bermet Asylova, a TSU hydrologist, said the question will be pressing. The Toktogul reservoir stood at 15.71 km³ of 19 on 20 November and is still drawing down, at 15.55 km³ in today's figures. \"The reservoir tells you what is in the bucket,\" she said. \"The glaciers and the gauges tell you how fast it will be refilled next summer. Without the glacier numbers the schedule is argued from last year's habits.\" The 2027 renewal of the Protocol will fall in the same year as the election.",
+    "Growers downstream are watching. Sobirjon Karimov, who farms orchards and cotton near Sopol-Tepa in Lower Naryn, said the canal rota in a dry August decides his season. \"Nobody on the canal has heard of a grant. We hear of a cut when the water is late,\" he said.",
+    "The 2027 draft budget goes to the Mejlis this month, but only a summary is published, and the Service's line is not in it. The Ministry of Economy had not replied to questions about whether the budget would cover any of the lost grant by the time the Herald went to press. Mr Mukashev said the Service would publish its winter survey plan once the budget is settled in December."
+  ],
+  "pull_quote": "A glacier does not wait for a budget year.",
+  "pull_quote_by": "Nazira Isaeva",
+  "people_quoted": [
+    {
+      "name": "Uzakbai Mukashev",
+      "role": "Director, Talas River Hydrological Monitoring Service",
+      "canon": true
+    },
+    {
+      "name": "Nazira Isaeva",
+      "role": "Glaciologist, scientific head of the Manas Peak observatory",
+      "canon": true
+    },
+    {
+      "name": "Bermet Asylova",
+      "role": "Hydrologist, TSU",
+      "canon": true
+    },
+    {
+      "name": "Sobirjon Karimov",
+      "role": "Orchard and cotton grower near Sopol-Tepa",
+      "canon": false
+    }
+  ],
+  "image": "photos/glacier-snout.jpg",
+  "published": "2026-11-23T05:33+06:00",
+  "iradone": {
+    "headline": "Donor Trims Talas Hydrology Grant 30%; Every Permanent Gauge Stays On",
+    "slug": "2026-11-20-donor-trims-talas-hydrology-grant-30-every-permanent-gauge-stays-on"
+  }
+}
