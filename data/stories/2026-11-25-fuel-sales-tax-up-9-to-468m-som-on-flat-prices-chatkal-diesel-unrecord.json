@@ -1,0 +1,62 @@
+{
+  "slug": "2026-11-25-fuel-sales-tax-up-9-to-468m-som-on-flat-prices-chatkal-diesel-unrecord",
+  "kind": "story",
+  "headline": "Fuel sales tax up 9% to 468m som on flat prices; Chatkal diesel unrecorded",
+  "dek": "The State Tax Service credits more litres declared and more audits; the Ministry of Economy concedes that diesel carried over the Qara-Chik line never meets a till.",
+  "dateline": "TALAS",
+  "section": "Business",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "sales tax",
+    "fuel",
+    "State Tax Service",
+    "2027 budget",
+    "Chatkal",
+    "Qara-Chik line"
+  ],
+  "paragraphs": [
+    "Sales tax collected on petrol and diesel sold at filling stations in Talas, Nurzhan, Iyık Janyl and the six districts came to 468 million som in January–October 2026, up 9% on the 429 million of the same ten months of 2025, the State Tax Service said this week. Pump prices did not change in the period.",
+    "The sum rests on the Tax Code 2009, which sets sales tax at 12% with no VAT. At that rate 468 million som implies roughly 3.9 billion som of taxable pump sales over ten months, against about 3.6 billion a year earlier. With AI-92 at 5.40, AI-95 at 5.85 and diesel at 6.10 som a litre throughout, price cannot explain the difference. The service credits more litres declared at the till and more station audits. It says it matched till records against deliveries by NurGaz and by the independent depots. IradOne reported the figure on Tuesday.",
+    "The release, issued by the service under its head, Nadezhda Kovalenko (see *Who's Who in Irad*), does not give litres sold, the number of audits carried out or how many stations were found under-declaring. Those are the figures that would show how much of the 9% is honest growth and how much is catch-up.",
+    "Bekbolot Sherov, press secretary of the Ministry of Economy, said the increase \"shows the pumps are being declared\". He added a caveat of his own. Fuel taken across the Qara-Chik line to the Chatkal villages, he said, is not recorded at any till. \"A litre that goes up that road in a can has no receipt behind it, and we cannot tax what nobody writes down,\" he said.",
+    "The price gap is the reason the traffic exists. Diesel in the Chatkal villages costs 8.55–9.75 som a litre against 6.10 at a pump in the ISEZ, a premium of 40% to 60%. The Qara-Chik Border Checkpoint, about 15 km from Kyzyl-Adyr, stands on the only road from the ISEZ into the Chatkal valley, and the Karakoyun and Kara-Buura passes it leads to are now closed for the winter. Mr Surankul Jenish uulu, a farmer in one of the villages, said households buy from traders by the can and rely on stock hauled up before the snow. \"Nobody gives a paper,\" he said. \"You pay what the trader says, and in January it is more.\"",
+    "On the Talas–Nurzhan road, Lyubov Strelnikova, who manages an independent filling station, said the audits have changed the daily routine. \"Inspectors now ask for the delivery note and the till tape for the same day, and they check that the two agree,\" she said. She said her station declared everything before the audits began, but that the paperwork now takes an extra hour each evening.",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said fuel is now a little over a tenth of all sales tax. The 2026 budget puts sales tax at about 15% of revenue, or some 4.9 billion som of 32.4 billion. \"Fuel is one of the few lines where the state can see every litre come in at the depot,\" she said. \"That is why the 2027 draft will lean on it. It is also why the share that leaves unrecorded matters more each year.\" She said the Ministry should publish litres alongside roubles-worth of tax so that the 9% can be checked, and noted that frozen pump prices mean any further rise must come from volume or tighter enforcement.",
+    "The Governor's office is due to send the 2027 budget draft, an election-year budget, to the Mejlis this month, and it normally passes in December. Only a summary is published. The Tax Service said full-year fuel figures would follow after the year ends."
+  ],
+  "pull_quote": "A litre that goes up that road in a can has no receipt behind it, and we cannot tax what nobody writes down",
+  "pull_quote_by": "Bekbolot Sherov",
+  "people_quoted": [
+    {
+      "name": "Bekbolot Sherov",
+      "role": "Press secretary, Ministry of Economy",
+      "canon": true
+    },
+    {
+      "name": "Raisa Akmatova",
+      "role": "Economist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Nadezhda Kovalenko",
+      "role": "Head, State Tax Service",
+      "canon": true
+    },
+    {
+      "name": "Surankul Jenish uulu",
+      "role": "Farmer in a Chatkal village",
+      "canon": false
+    },
+    {
+      "name": "Lyubov Strelnikova",
+      "role": "Manager of an independent filling station on the Talas–Nurzhan road",
+      "canon": false
+    }
+  ],
+  "image": "photos/nurgaz-station.jpg",
+  "published": "2026-11-25T05:41+06:00",
+  "iradone": {
+    "headline": "Sales Tax on Pump Fuel Rises 9% to 468 Million Som in Ten Months",
+    "slug": "2026-11-24-sales-tax-on-pump-fuel-rises-9-to-468-million-som-in-ten-months"
+  }
+}
