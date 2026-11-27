@@ -1,0 +1,41 @@
+{
+  "slug": "2026-11-28-meningitis-notifications-fall-to-13-from-20-ministry-offers-no-cause",
+  "kind": "story",
+  "headline": "Meningitis notifications fall to 13 from 20; ministry offers no cause",
+  "dek": "Ministry of Health counts are ten-month totals for the ISEZ only, and the tribal regions are not in them.",
+  "dateline": "TALAS",
+  "section": "News",
+  "byline": "Olga Fedorenko",
+  "tags": [
+    "health",
+    "meningitis",
+    "Ministry of Health",
+    "vaccination",
+    "Regional Hospital"
+  ],
+  "paragraphs": [
+    "The Ministry of Health reported on Wednesday that 13 cases of meningitis were registered in the Irad Special Economic Zone from January to October 2026, against 20 in the same ten months of 2025. That is a fall of 35 per cent.",
+    "The figures come from the monthly notifications that hospitals and polyclinics in the three cities and six districts send to the State Sanitary and Epidemiological Service. The ministry's statement gave the two totals and the percentage. It did not say how the cases divide between Talas, Nurzhan, Iyık Janyl and the districts, by age, or by type of infection, and it did not say how many patients died.",
+    "The ministry made no claim about why the count fell. It said only that the numbers are small and can swing from one year to the next. The caution is borne out by the arithmetic: with a base of 20, one case more or fewer moves the percentage by five points. Spread over about 2.6 million people in the ISEZ, 13 cases is roughly half a case per 100,000 over ten months, against about three-quarters of a case last year. November and December are not yet counted.",
+    "Dr Yosep Temirkulov, chief physician of the Regional Hospital in Talas, said the infectious ward had fewer admissions this year. He gave no count of his own. \"The advice does not change because the number is lower,\" he said. \"Fever with a stiff neck, or fever with a rash, means going to a doctor the same day, not waiting to see how the night goes.\" He added that children's vaccinations should be kept up to date under the National Immunisation Calendar.",
+    "In Navbahor, Nurzhan, the pharmacist Svetlana Novikova, 41, a mother of three, said parents tend to ask about the calendar only when a child is already feverish. \"Then they want to know which jab was missed,\" she said. \"I tell them to bring the card and see the polyclinic. I do not guess over the counter.\"",
+    "The statement does not cover the tribal regions, which the Autonomous Tribal Regions' own estimate puts at about 2 million people and independent demographers at more than 3.5 million. The notification system reaches only ISEZ facilities. The ATR has almost no fixed lines and relies on village health posts, vaccination rounds run with UNMI and the mobile clinics of the St. Luka Community Health Mission, and none of these reports to the Sanitary Service. The ISEZ total therefore says nothing about meningitis in most of the country's land area. The Herald asked the ministry whether any patient carried across the line to a Talas hospital is entered in the count. It had not replied by the time this edition went to press.",
+    "The ministry has not said when it will publish the November and December figures or the full-year total. The Territorial Statistics Office does not publish a separate series on the disease."
+  ],
+  "pull_quote": "The advice does not change because the number is lower.",
+  "pull_quote_by": "Dr Yosep Temirkulov",
+  "people_quoted": [
+    {
+      "name": "Dr Yosep Temirkulov",
+      "role": "Chief physician, Regional Hospital, Talas",
+      "canon": true
+    },
+    {
+      "name": "Svetlana Novikova",
+      "role": "Pharmacist, Navbahor, Nurzhan",
+      "canon": true
+    }
+  ],
+  "image": "photos/polyclinic.jpg",
+  "published": "2026-11-28T05:41+06:00"
+}
